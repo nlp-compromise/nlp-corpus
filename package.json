@@ -1,0 +1,19 @@
+{
+  "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
+  "name": "nlp-corpus",
+  "description": "texts for integration testing of nlp components",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nlp-compromise/nlp-corpus.git"
+  },
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-run": "0.5.2"
+  },
+  "license": "MIT"
+}
