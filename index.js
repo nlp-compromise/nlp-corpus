@@ -12,5 +12,10 @@ function getFolder(folder){
 }
 
 module.exports = {
-  sotu: getFolder('/SOTU')
+  'state_of_the_union': getFolder('/SOTU'),
+  'wikipedia': {
+    corpus: getFolder('/wikipedia/corpus'),
+    build: require('./wikipedia/build.js')
+  },
+  'sms': require('./sms/smsCorpus.js')
 };

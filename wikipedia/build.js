@@ -57,4 +57,4 @@ const build = function(lang, size) {
 
 module.exports = build;
 
-build('fr', 5);
+// build('fr', 5);

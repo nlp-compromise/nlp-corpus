@@ -3,7 +3,7 @@
 American presidential speech transcrips from 2000-2015.
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus["state of the union"]["2003"]
+let txt= corpus.state_of_the_union.Bush_2003
 // "Mr. Speaker, Vice President Cheney, Members of Congress, ..."
 ```
 
@@ -14,6 +14,8 @@ js version of the National University of Singapore's [56k SMS message  Corpus](h
 const corpus = require("nlp-corpus")
 let txt= corpus["sms"][491];
 // "Wat would u like 4 ur birthday?"
+let txt= corpus["sms"][2442];
+// "If u dun drive then how i go 2 sch."
 ```
 
 #Wikipedia
