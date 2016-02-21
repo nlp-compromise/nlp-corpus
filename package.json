@@ -8,10 +8,10 @@
     "type": "git",
     "url": "git://github.com/nlp-compromise/nlp-corpus.git"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {},
   "devDependencies": {
+    "async": "^1.5.2",
     "grunt": "0.4.5",
     "grunt-run": "0.5.2"
   },
