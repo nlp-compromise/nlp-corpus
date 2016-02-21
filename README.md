@@ -1,3 +1,8 @@
+some handy texts for testing + training [nlp_compromise](http://nlpcompromise.com). Nuthin too crazy.
+
+```bash
+npm i nlp-corpus
+```
 
 #state of the union
 American presidential speech transcrips from 2000-2015.
