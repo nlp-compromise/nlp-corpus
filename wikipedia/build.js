@@ -42,12 +42,14 @@ const build = function(lang, size) {
         s += page + '\n';
       }
       return s;
-    }, {});
+    }, '');
     //write it to a file
     let filename = __dirname + '/corpus/' + lang + '.txt';
     fs.writeFile(filename, txt, 'utf8', () => {
       console.log('---done!');
-      console.log('view file at: ');
+      let mb = (fs.statSync(filename).size || 0) / 1000000.0;
+      console.log(mb.toFixed(2) + 'mb');
+      console.log('\n\n\nview file at: ');
       console.log(filename);
       console.log('use \'head\' or \'wc -w\' if it is too big to open');
     });
@@ -57,4 +59,4 @@ const build = function(lang, size) {
 
 module.exports = build;
 
-// build('fr', 5);
+build('en', 250);
