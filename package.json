@@ -16,5 +16,8 @@
     "grunt-run": "0.5.2",
     "wtf_wikipedia": "^0.2.0"
   },
+  "bin": {
+    "wikiCorpus" : "./wikipedia/cli.js"
+ },
   "license": "MIT"
 }

@@ -59,4 +59,4 @@ const build = function(lang, size) {
 
 module.exports = build;
 
-build('en', 250);
+// build('en', 250);
