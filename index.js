@@ -1,21 +1,23 @@
 'use strict';
 
 let fs = require('fs');
+let path = require('path');
 
 function getFolder(folder){
-  let files = fs.readdirSync(__dirname + folder);
-  let sotu = files.reduce(function(h, f) {
+  let files = fs.readdirSync(path.join(__dirname, folder));
+  //get all files as a single string
+  return files.reduce(function(str, f) {
     let k = f.replace(/.txt$/, '').toLowerCase();
-    h[k] = fs.readFileSync(folder + '/' + f, 'utf8');
-    return h;
-  }, {});
+    f = path.join(folder, f);
+    str += fs.readFileSync(f, 'utf8') + '\n';
+    return str;
+  }, '');
 }
 
 module.exports = {
-  'state_of_the_union': getFolder('/SOTU'),
-  'wikipedia': {
-    corpus: getFolder('/wikipedia/corpus'),
-    build: require('./wikipedia/build.js')
-  },
-  'sms': require('./sms/smsCorpus.js')
+  'sotu': getFolder('./sotu'),
+  'wiki': getFolder('./wikipedia/corpus'),
+  'sms': require('./sms/smsCorpus.js').join('\n')
 };
+
+console.log(module.exports.sotu);
