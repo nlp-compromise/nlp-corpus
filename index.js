@@ -3,21 +3,35 @@
 let fs = require('fs');
 let path = require('path');
 
-function getFolder(folder){
+const getFolder = function(folder) {
   let files = fs.readdirSync(path.join(__dirname, folder));
   //get all files as a single string
-  return files.reduce(function(str, f) {
+  return files.reduce(function(obj, f) {
     let k = f.replace(/.txt$/, '').toLowerCase();
     f = path.join(folder, f);
-    str += fs.readFileSync(f, 'utf8') + '\n';
-    return str;
-  }, '');
-}
-
-module.exports = {
-  'sotu': getFolder('./sotu'),
-  'wiki': getFolder('./wikipedia/corpus'),
-  'sms': require('./sms/smsCorpus.js').join('\n')
+    obj[k] = fs.readFileSync(f, 'utf8') + '\n';
+    return obj;
+  }, {});
 };
 
-console.log(module.exports.sotu);
+const toPlainText = function(obj) {
+  return Object.keys(obj).reduce(function(str, k) {
+    str += obj[k] + '\n';
+    return str;
+  }, '');
+};
+
+module.exports = {
+  text: {
+    'sotu': toPlainText(getFolder('./sotu')),
+    'wiki': toPlainText(getFolder('./wikipedia/corpus')),
+    'sms': require('./sms/smsCorpus.js').join('\n')
+  },
+  parsed: {
+    'sotu': getFolder('./sotu'),
+    'wiki': getFolder('./wikipedia/corpus'),
+    'sms': require('./sms/smsCorpus.js')
+  }
+};
+
+// console.log(module.exports.parsed.sotu);
