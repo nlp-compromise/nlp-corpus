@@ -47,8 +47,10 @@ wc -w  ./wikipedia/corpus/fr.txt
 uses [@silentrob's parser](https://github.com/silentrob/superscript-friends) of [transcripts of the friends tv show](http://home.versatel.nl/friendspic0102/)
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.parsed.friends[4][103]
-//{speaker:'Monica', text:"Is it like for dinosaur emergencies. 'Help, come quick, they're still extinct.'"}
+let txt= corpus.parsed.friends['02-10'][103]
+//['Monica', "Is it like for dinosaur emergencies? 'Help, come quick, they're still extinct.'"]
+let txt= corpus.parsed.friends['09-12'][103][1]
+//joey  i play al pacino's butt. all right? he goes into the shower, and then- i'm his butt...
 let all= corpus.text.friends
-// all episodes newline-seperated
+// [all episodes newline-seperated]
 ```
