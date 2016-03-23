@@ -27,13 +27,15 @@ module.exports = {
     'sotu': () => toPlainText(getFolder('./sotu')),
     'wiki': () => toPlainText(getFolder('./wikipedia/corpus')),
     'fiction': () => toPlainText(getFolder('./fiction')),
-    'sms': () => require('./sms/smsCorpus.js').join('\n')
+    'sms': () => require('./sms/smsCorpus.js').join('\n'),
+    'friends': () => require('./friends/index.js').plaintext()
   },
   parsed: {
     'sotu': () => getFolder('./sotu'),
     'wiki': () => getFolder('./wikipedia/corpus'),
     'fiction': () => getFolder('./fiction'),
-    'sms': () => require('./sms/smsCorpus.js')
+    'sms': () => require('./sms/smsCorpus.js'),
+    'friends': () => require('./friends/index.js').parsed()
   }
 };
 
