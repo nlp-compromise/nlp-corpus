@@ -8,9 +8,9 @@ npm i nlp-corpus
 American presidential speech transcripts from 2000-2015. ~600kb
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.parsed.sotu.Bush_2003
+let txt= corpus.parsed.sotu().Bush_2003
 // "Mr. Speaker, Vice President Cheney, Members of Congress, ..."
-let all= corpus.text.sotu
+let all= corpus.text.sotu()
 ```
 
 #SMS Corpus
@@ -18,11 +18,11 @@ js version of the National University of Singapore's [56 thousand SMS message  C
 
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.parsed.sms[491];
+let txt= corpus.parsed.sms()[491];
 // "Wat would u like 4 ur birthday?"
-let txt= corpus.parsed.sms[2442];
+let txt= corpus.parsed.sms()[2442];
 // "If u dun drive then how i go 2 sch."
-let all= corpus.text.sms
+let all= corpus.text.sms()
 ```
 
 #Wikipedia
@@ -33,9 +33,9 @@ node ./build.js fr 20
 ```
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.parsed.wikipedia["Albert Einstein"]
+let txt= corpus.parsed.wikipedia()["Albert Einstein"]
 // Albert Einstein, né le 14 mars 1879, est un physicien théoricien qui fut...
-let all= corpus.text.wikipedia
+let all= corpus.text.wikipedia()
 // [some large number of words]
 ```
 ```bash
@@ -45,11 +45,13 @@ wc -w  ./wikipedia/corpus/fr.txt
 
 #'Friends' Transcripts
 uses [@silentrob's parser](https://github.com/silentrob/superscript-friends) of [versatel transcripts of the friends tv show](http://home.versatel.nl/friendspic0102/). all 10 seasons. about 2.5mb
+
+transcripts are indexed by episode ([season-episode]) and scene. This way a proper conversation can be inferred.
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.parsed.friends['02-10'][103]
+let txt= corpus.parsed.friends()['02-10'][2][103]
 //['Monica', "Is it like for dinosaur emergencies? 'Help, come quick, they're still extinct.'"]
-let txt= corpus.parsed.friends['09-12'][103][1]
+let txt= corpus.parsed.friends['09-12'][103][3][1]
 //joey  i play al pacino's butt. all right? he goes into the shower, and then- i'm his butt...
 let all= corpus.text.friends
 // [all episodes newline-seperated]
@@ -59,8 +61,8 @@ let all= corpus.text.friends
 some CC-BY fiction pieces by some selected authors. Mix of tense, dialogue, subject, and style. ~300kb
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.parsed.fiction.poe
+let txt= corpus.parsed.fiction().poe
 //For the most wild, yet most homely narrative which..
-let all= corpus.text.fiction
+let all= corpus.text.fiction()
 // [all texts newline-seperated]
 ```
