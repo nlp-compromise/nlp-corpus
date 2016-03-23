@@ -9,6 +9,9 @@ let lang = args[1] || 'en';
 let count = args[2] || 50;
 
 if (method === 'wikipedia') {
-  console.log(' ---- building  ' + count + '  ' + en + ' wikipedia articles');
+  console.log(' ---- building  ' + count + '  ' + lang + ' wikipedia articles');
   build_wikipedia(lang, count);
+} else {
+  console.log('Usage:');
+  console.log('./build.js wikipedia en 100');
 }

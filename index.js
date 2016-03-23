@@ -36,6 +36,9 @@ module.exports = {
     'fiction': () => getFolder('./fiction'),
     'sms': () => require('./sms/smsCorpus.js'),
     'friends': () => require('./friends/index.js').parsed()
+  },
+  build: {
+    'wiki': (lang, count) => getFolder('./wikipedia/build')(lang, count)
   }
 };
 
