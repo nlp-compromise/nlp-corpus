@@ -8,7 +8,7 @@ npm i nlp-corpus
 American presidential speech transcripts from 2000-2015. ~600kb
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.parsed.sotu().Bush_2003
+let txt= corpus.parsed.sotu().bush_2003
 // "Mr. Speaker, Vice President Cheney, Members of Congress, ..."
 let all= corpus.text.sotu()
 ```
