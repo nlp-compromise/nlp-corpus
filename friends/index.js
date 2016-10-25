@@ -2,7 +2,8 @@
 
 const plaintext = function() {
   const parsed = require('./parsed.js');
-  return Object.keys(parsed).reduce(function(str, k) {
+  return Object.keys(parsed).reduce(function(h, k) {
+    let str = '';
     //scenes
     for(let i = 0; i < parsed[k].length; i++) {
       //dialogues
@@ -10,8 +11,9 @@ const plaintext = function() {
         str += parsed[k][i][d][1] + '\n';
       }
     }
-    return str;
-  }, '');
+    h[k] = str;
+    return h;
+  }, {});
 };
 
 module.exports = {

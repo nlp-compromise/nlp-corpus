@@ -49,12 +49,15 @@ uses [@silentrob's parser](https://github.com/silentrob/superscript-friends) of 
 transcripts are indexed by episode ([season-episode]) and scene. This way a proper conversation can be inferred.
 ```javascript
 const corpus = require("nlp-corpus")
+//as an array of speaker lines
 let txt= corpus.parsed.friends()['02-10'][2][103]
 //['Monica', "Is it like for dinosaur emergencies? 'Help, come quick, they're still extinct.'"]
 let txt= corpus.parsed.friends['09-12'][103][3][1]
 //joey  i play al pacino's butt. all right? he goes into the shower, and then- i'm his butt...
-let all= corpus.text.friends
-// [all episodes newline-seperated]
+
+let all= corpus.text.friends()['04-12']
+//"Oh my God! I can’t believe my little brother is married!
+// ...
 ```
 
 #Fiction
