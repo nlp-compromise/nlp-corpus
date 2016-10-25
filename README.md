@@ -64,8 +64,25 @@ let all= corpus.text.friends()['04-12']
 some CC-BY fiction pieces by some selected authors. Mix of tense, dialogue, subject, and style. ~300kb
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.parsed.fiction().poe
+//lots of edgar-allen-poe
+let all= corpus.text.poe()
+
+let txt= corpus.parsed.poe().raven
 //For the most wild, yet most homely narrative which..
-let all= corpus.text.fiction()
-// [all texts newline-seperated]
+
+//same for oscar wilde,
+let txt= corpus.parsed.wilde().happy_prince
+//same for thomas hardy,
+let txt= corpus.parsed.hardy().crusted_characters
+```
+
+#Erowid
+some very casual and modern slang-filled drug-use reports from erowid.org ~nsfw.
+```javascript
+const corpus = require("nlp-corpus")
+//lots of them
+let all= corpus.text.erowid()
+
+let txt= corpus.parsed.erowid().mini_noodle
+//I've never been a fan of Mother's Day
 ```

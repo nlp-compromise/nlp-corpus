@@ -26,14 +26,20 @@ module.exports = {
   text: {
     'sotu': () => toPlainText(getFolder('./sotu')),
     'wiki': () => toPlainText(getFolder('./wikipedia/corpus')),
-    'fiction': () => toPlainText(getFolder('./fiction')),
+    'poe': () => toPlainText(getFolder('./poe')),
+    'erowid': () => toPlainText(getFolder('./erowid')),
+    'hardy': () => toPlainText(getFolder('./hardy')),
+    'wilde': () => toPlainText(getFolder('./wilde')),
     'sms': () => require('./sms/smsCorpus.js').join('\n'),
     'friends': () => require('./friends/index.js').plaintext()
   },
   parsed: {
     'sotu': () => getFolder('./sotu'),
     'wiki': () => getFolder('./wikipedia/corpus'),
-    'fiction': () => getFolder('./fiction'),
+    'poe': () => getFolder('./poe'),
+    'erowid': () => getFolder('./erowid'),
+    'hardy': () => getFolder('./hardy'),
+    'wilde': () => getFolder('./wilde'),
     'sms': () => require('./sms/smsCorpus.js'),
     'friends': () => require('./friends/index.js').parsed()
   },

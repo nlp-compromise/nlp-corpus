@@ -1,3 +1,3 @@
 const corpus = require('./index');
 
-console.log(corpus.text.friends()['04-12'].substr(0, 200));
+console.log(corpus.parsed.erowid().mini_noodle.substr(0, 100));
