@@ -30,6 +30,7 @@ module.exports = {
     'erowid': () => toPlainText(getFolder('./erowid')),
     'hardy': () => toPlainText(getFolder('./hardy')),
     'wilde': () => toPlainText(getFolder('./wilde')),
+    'weezer': () => toPlainText(getFolder('./weezer')),
     'sms': () => require('./sms/smsCorpus.js').join('\n'),
     'friends': () => require('./friends/index.js').plaintext()
   },
@@ -40,6 +41,7 @@ module.exports = {
     'erowid': () => getFolder('./erowid'),
     'hardy': () => getFolder('./hardy'),
     'wilde': () => getFolder('./wilde'),
+    'weezer': () => getFolder('./weezer'),
     'sms': () => require('./sms/smsCorpus.js'),
     'friends': () => require('./friends/index.js').parsed()
   },
