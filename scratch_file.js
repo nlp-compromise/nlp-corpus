@@ -1,3 +1,3 @@
 const corpus = require('./index');
 
-console.log(corpus.parsed.weezer().buddyholly);
+console.log(corpus.parsed.fleetwood_mac().dreams);

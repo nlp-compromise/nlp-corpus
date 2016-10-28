@@ -59,12 +59,15 @@ let all= corpus.text.friends()['04-12']
 //"Oh my God! I can’t believe my little brother is married!
 // ...
 ```
-#Weezer lyrics
+#Music lyrics
 short, modern texts with some nice slang.
 ```javascript
 corpus.parsed.weezer().buddyholly
 //"What's with these homies, dissing my girl?
 //Why do they gotta front?
+corpus.parsed.fleetwood_mac().dreams
+//'Now here you go again, you say you want your freedom.
+
 ```
 
 #Fiction

@@ -31,6 +31,7 @@ module.exports = {
     'hardy': () => toPlainText(getFolder('./hardy')),
     'wilde': () => toPlainText(getFolder('./wilde')),
     'weezer': () => toPlainText(getFolder('./weezer')),
+    'fleetwood_mac': () => toPlainText(getFolder('./fleetwood_mac')),
     'sms': () => require('./sms/smsCorpus.js').join('\n'),
     'friends': () => require('./friends/index.js').plaintext()
   },
@@ -42,6 +43,7 @@ module.exports = {
     'hardy': () => getFolder('./hardy'),
     'wilde': () => getFolder('./wilde'),
     'weezer': () => getFolder('./weezer'),
+    'fleetwood_mac': () => getFolder('./fleetwood_mac'),
     'sms': () => require('./sms/smsCorpus.js'),
     'friends': () => require('./friends/index.js').parsed()
   },
