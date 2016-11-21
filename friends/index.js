@@ -1,24 +1,29 @@
 'use strict';
 
-const plaintext = function() {
-  const parsed = require('./parsed.js');
-  return Object.keys(parsed).reduce(function(h, k) {
-    let str = '';
-    //scenes
-    for(let i = 0; i < parsed[k].length; i++) {
-      //dialogues
-      for(let d = 0; d < parsed[k][i].length; d++) {
-        str += parsed[k][i][d][1] + '\n';
+const parsed = () => {
+  const obj = require('./parse');
+  return Object.keys(obj).map((ep) => {
+    let episode = ''
+      //each scene
+    for (let i = 0; i < obj[ep].length; i++) {
+      //each dialogue
+      for (let o = 0; o < obj[ep][i].length; o++) {
+        episode += obj[ep][i][o][1] + '\n'
       }
+      episode += '\n'
     }
-    h[k] = str;
-    return h;
-  }, {});
-};
+    return episode
+  })
+}
+
+const plaintext = () => {
+  return parsed().join('\n')
+}
 
 module.exports = {
-  plaintext: () => plaintext(),
-  parsed: () => require('./parsed.js')
+  plaintext: plaintext,
+  parsed: parsed
 };
 
-// console.log(plaintext());
+// parsed()
+// console.log(plaintext())

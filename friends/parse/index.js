@@ -19,7 +19,7 @@ let new_scene = {
   'FADE OUT': true
 };
 
-const clean = function(s) {
+const clean = function (s) {
   s = s || '';
   s = s.replace(/ +/, ' ');
   s = s.replace(/^ +/, '');
@@ -27,7 +27,7 @@ const clean = function(s) {
   return s;
 };
 
-for(let i = 0; i < lines.length; i++) {
+for (let i = 0; i < lines.length; i++) {
   //new episode
   let match = lines[i].match(/======== ([0-9]{2}-[0-9]{2})/);
   if (match) {
@@ -37,9 +37,9 @@ for(let i = 0; i < lines.length; i++) {
     }
     episode = match[1];
     episodes[episode] = [];
-    if (scene.length > 0) {
-      episodes[episode].push(scene);
-    }
+    // if (scene.length > 0) {
+    //   episodes[episode].push(scene);
+    // }
     scene = [];
     continue;
   }
@@ -87,6 +87,4 @@ if (scene.length > 0) {
 //   }
 // });
 
-let alltext = JSON.stringify(episodes, null, 2);
-alltext = 'module.exports=' + alltext;
-fs.writeFileSync('./friends/parsed.js', alltext);
+module.exports = episodes
