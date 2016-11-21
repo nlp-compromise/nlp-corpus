@@ -1,3 +1,20 @@
 const corpus = require('./index');
 
-console.log(corpus.parsed.fleetwood_mac().dreams);
+let arr = [
+  'friends',
+  'sotu',
+  'poe',
+  'erowid',
+  'hardy',
+  'wilde',
+  'weezer',
+  'fleetwood_mac',
+  'sms',
+  'wikipedia'
+].forEach((k) => {
+  // console.log(corpus[k].random());
+})
+
+
+console.log(corpus.sms.random())
+  // corpus.wikipedia.build('en', 15)

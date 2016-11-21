@@ -1,13 +1,14 @@
 'use strict';
 let fs = require('fs');
 let path = require('path');
+const sms = require('./sms');
+
 
 const getFolder = function (folder) {
   let abs = path.join(__dirname, folder);
   let files = fs.readdirSync(abs);
   //get all files as a single string
   return files.map(function (f) {
-    let k = f.replace(/.txt$/, '').toLowerCase();
     f = path.join(abs, f);
     return fs.readFileSync(f, 'utf8') + '\n';
   });
@@ -68,16 +69,14 @@ module.exports = {
     random: () => random(getFolder('./fleetwood_mac')),
   },
   sms: {
-    text: () => toPlainText(getFolder('./sms')),
-    parsed: () => getFolder('./sms'),
-    random: () => random(getFolder('./sms')),
+    text: () => sms.text,
+    parsed: () => sms.parsed,
+    random: () => random(sms.parsed),
   },
   wikipedia: {
-    build: (lang, count) => getFolder('./wikipedia/build')(lang, count),
+    build: require('./wikipedia/build'),
     text: () => toPlainText(getFolder('./wikipedia/corpus')),
     parsed: () => getFolder('./wikipedia/corpus'),
     random: () => random(getFolder('./wikipedia/corpus')),
   }
 };
-
-console.log(module.exports.friends.random())
