@@ -38,6 +38,11 @@ module.exports = {
     parsed: () => getFolder('./sotu'),
     random: () => random(getFolder('./sotu')),
   },
+  rubber_soul: {
+    text: () => toPlainText(getFolder('./rubber_soul')),
+    parsed: () => getFolder('./rubber_soul'),
+    random: () => random(getFolder('./rubber_soul')),
+  },
   poe: {
     text: () => toPlainText(getFolder('./poe')),
     parsed: () => getFolder('./poe'),
