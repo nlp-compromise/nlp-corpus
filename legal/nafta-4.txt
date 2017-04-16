@@ -1,0 +1,203 @@
+Article 901: Scope and Coverage
+1. This Chapter applies to standards-related measures of a Party, other than those covered by Section B of Chapter Seven (Sanitary and Phytosanitary Measures), that may, directly or indirectly, affect trade in goods or services between the Parties, and to measures of the Parties relating to such measures.
+2. Technical specifications prepared by governmental bodies for production or consumption requirements of such bodies shall be governed exclusively by Chapter Ten (Government Procurement).
+Article 902: Extent of Obligations
+1. Article 105 (Extent of Obligations) does not apply to this Chapter.
+2. Each Party shall seek, through appropriate measures, to ensure observance of Articles 904 through 908 by state or provincial governments and by non-governmental standardizing bodies in its territory.
+Article 903: Affirmation of Agreement on Technical Barriers to Trade and Other Agreements
+Further to Article 103 (Relation to Other Agreements), the Parties affirm with respect to each other their existing rights and obligations relating to standards-related measures under the GATT Agreement on Technical Barriers to Trade and all other international agreements, including environmental and conservation agreements, to which those Parties are party.
+Article 904: Basic Rights and Obligations
+Right to Take Standards-Related Measures
+1. Each Party may, in accordance with this Agreement, adopt, maintain or apply any standards-related measure, including any such measure relating to safety, the protection of human, animal or plant life or health, the environment or consumers, and any measure to ensure its enforcement or implementation. Such measures include those to prohibit the importation of a good of another Party or the provision of a service by a service provider of another Party that fails to comply with the applicable requirements of those measures or to complete the Party's approval procedures.
+Right to Establish Level of Protection
+2. Notwithstanding any other provision of this Chapter, each Party may, in pursuing its legitimate objectives of safety or the protection of human, animal or plant life or health, the environment or consumers, establish the levels of protection that it considers appropriate in accordance with Article 907(2).
+Non-Discriminatory Treatment
+3. Each Party shall, in respect of its standards-related measures, accord to goods and service providers of another Party:
+
+(a) national treatment in accordance with Article 301 (Market Access) or Article 1202 (Cross-Border Trade in Services); and
+(b) treatment no less favorable than that it accords to like goods, or in like circumstances to service providers, of any other country.
+Unnecessary Obstacles
+4. No Party may prepare, adopt, maintain or apply any standards-related measure with a view to or with the effect of creating an unnecessary obstacle to trade between the Parties. An unnecessary obstacle to trade shall not be deemed to be created where:
+
+(a) the demonstrable purpose of the measure is to achieve a legitimate objective; and
+(b) the measure does not operate to exclude goods of another Party that meet that legitimate objective.
+Article 905: Use of International Standards
+1. Each Party shall use, as a basis for its standards-related measures, relevant international standards or international standards whose completion is imminent, except where such standards would be an ineffective or inappropriate means to fulfill its legitimate objectives, for example because of fundamental climatic, geographical, technological or infrastructural factors, scientific justification or the level of protection that the Party considers appropriate.
+2. A Party's standards-related measure that conforms to an international standard shall be presumed to be consistent with Article 904(3) and (4).
+3. Nothing in paragraph 1 shall be construed to prevent a Party, in pursuing its legitimate objectives, from adopting, maintaining or applying any standards-related measure that results in a higher level of protection than would be achieved if the measure were based on the relevant international standard.
+Article 906: Compatibility and Equivalence
+1. Recognizing the crucial role of standards-related measures in achieving legitimate objectives, the Parties shall, in accordance with this Chapter, work jointly to enhance the level of safety and of protection of human, animal and plant life and health, the environment and consumers.
+2. Without reducing the level of safety or of protection of human, animal or plant life or health, the environment or consumers, without prejudice to the rights of any Party under this Chapter, and taking into account international standardization activities, the Parties shall, to the greatest extent practicable, make compatible their respective standards-related measures, so as to facilitate trade in a good or service between the Parties.
+3. Further to Articles 902 and 905, a Party shall, on request of another Party, seek, through appropriate measures, to promote the compatibility of a specific standard or conformity assessment procedure that is maintained in its territory with the standards or conformity assessment procedures maintained in the territory of the other Party.
+4. Each importing Party shall treat a technical regulation adopted or maintained by an exporting Party as equivalent to its own where the exporting Party, in cooperation with the importing Party, demonstrates to the satisfaction of the importing Party that its technical regulation adequately fulfills the importing Party's legitimate objectives.
+5. The importing Party shall provide to the exporting Party, on request, its reasons in writing for not treating a technical regulation as equivalent under paragraph 4.
+6. Each Party shall, wherever possible, accept the results of a conformity assessment procedure conducted in the territory of another Party, provided that it is satisfied that the procedure offers an assurance, equivalent to that provided by a procedure it conducts or a procedure conducted in its territory the results of which it accepts, that the relevant good or service complies with the applicable technical regulation or standard adopted or maintained in the Party's territory.
+7. Prior to accepting the results of a conformity assessment procedure pursuant to paragraph 6, and to enhance confidence in the continued reliability of each other's conformity assessment results, the Parties may consult on such matters as the technical competence of the conformity assessment bodies involved, including verified compliance with relevant international standards through such means as accreditation.
+Article 907: Assessment of Risk
+1. A Party may, in pursuing its legitimate objectives, conduct an assessment of risk. In conducting an assessment, a Party may take into account, among other factors relating to a good or service:
+
+(a) available scientific evidence or technical information;
+(b) intended end uses;
+(c) processes or production, operating, inspection, sampling or testing methods; or
+(d) environmental conditions.
+2. Where pursuant to Article 904(2) a Party establishes a level of protection that it considers appropriate and conducts an assessment of risk, it should avoid arbitrary or unjustifiable distinctions between similar goods or services in the level of protection it considers appropriate, where the distinctions:
+
+(a) result in arbitrary or unjustifiable discrimination against goods or service providers of another Party;
+(b) constitute a disguised restriction on trade between the Parties; or
+(c) discriminate between similar goods or services for the same use under the same conditions that pose the same level of risk and provide similar benefits.
+3. Where a Party conducting an assessment of risk determines that available scientific evidence or other information is insufficient to complete the assessment, it may adopt a provisional technical regulation on the basis of available relevant information. The Party shall, within a reasonable period after information sufficient to complete the assessment of risk is presented to it, complete its assessment, review and, where appropriate, revise the provisional technical regulation in the light of that assessment.
+Article 908: Conformity Assessment
+1. The Parties shall, further to Article 906 and recognizing the existence of substantial differences in the structure, organization and operation of conformity assessment procedures in their respective territories, make compatible those procedures to the greatest extent practicable.
+2. Recognizing that it should be to the mutual advantage of the Parties concerned and except as set out in Annex 908.2, each Party shall accredit, approve, license or otherwise recognize conformity assessment bodies in the territory of another Party on terms no less favorable than those accorded to conformity assessment bodies in its territory.
+3. Each Party shall, with respect to its conformity assessment procedures:
+
+(a) not adopt or maintain any such procedure that is stricter, nor apply the procedure more strictly, than necessary to give it confidence that a good or a service conforms with an applicable technical regulation or standard, taking into account the risks that non-conformity would create;
+(b) initiate and complete the procedure as expeditiously as possible;
+(c) in accordance with Article 904(3), undertake processing of applications in non-discriminatory order;
+(d) publish the normal processing period for each such procedure or communicate the anticipated processing period to an applicant on request;
+(e) ensure that the competent body
+
+(i) on receipt of an application, promptly examines the completeness of the documentation and informs the applicant in a precise and complete manner of any deficiency,
+(ii) transmits to the applicant as soon as possible the results of the conformity assessment procedure in a form that is precise and complete so that the applicant may take any necessary corrective action,
+(iii) where the application is deficient, proceeds as far as practicable with the procedure where the applicant so requests, and
+(iv) informs the applicant, on request, of the status of the application and the reasons for any delay;
+(f) limit the information the applicant is required to supply to that necessary to conduct the procedure and to determine appropriate fees;
+(g) accord confidential or proprietary information arising from, or supplied in connection with, the conduct of the procedure for a good of another Party or for a service provided by a person of another Party
+
+(i) the same treatment as that for a good of the Party or a service provided by a person of the Party, and
+(ii) in any event, treatment that protects an applicant's legitimate commercial interests to the extent provided under the Party's law;
+(h) ensure that any fee it imposes for conducting the procedure is no higher for a good of another Party or a service provider of another Party than is equitable in relation to any such fee imposed for its like goods or service providers or for like goods or service providers of any other country, taking into account communication, transportation and other related costs;
+(i) ensure that the location of facilities at which a conformity assessment procedure is conducted does not cause unnecessary inconvenience to an applicant or its agent;
+(j) limit the procedure, for a good or service modified subsequent to a determination that the good or service conforms to the applicable technical regulation or standard, to that necessary to determine that the good or service continues to conform to the technical regulation or standard; and
+(k) limit any requirement regarding samples of a good to that which is reasonable, and ensure that the selection of samples does not cause unnecessary inconvenience to an applicant or its agent.
+4. Each Party shall apply, with such modifications as may be necessary, the relevant provisions of paragraph 3 to its approval procedures.
+5. Each Party shall, on request of another Party, take such reasonable measures as may be available to it to facilitate access in its territory for conformity assessment activities.
+6. Each Party shall give sympathetic consideration to a request by another Party to negotiate agreements for the mutual recognition of the results of that other Party's conformity assessment procedures.
+Article 909: Notification, Publication, and Provision of Information
+1. Further to Articles 1802 (Publication) and 1803 (Notification and Provision of Information), each Party proposing to adopt or modify a technical regulation shall:
+
+(a) at least 60 days prior to the adoption or modification of the measure, other than a law, publish a notice and notify in writing the other Parties of the proposed measure in such a manner as to enable interested persons to become acquainted with the proposed measure, except that in the case of any such measure relating to perishable goods, each Party shall, to the greatest extent practicable, publish the notice and provide the notification at least 30 days prior to the adoption or modification of the measure, but no later than when notification is provided to domestic producers;
+(b) identify in the notice and notification the good or service to which the measure would apply, and shall provide a brief description of the objective of, and reasons for the measure;
+(c) provide a copy of the proposed measure to any Party or interested person that so requests, and shall, wherever possible, identify any provision that deviates in substance from relevant international standards; and
+(d) without discrimination, allow other Parties and interested persons to make comments in writing and shall, on request, discuss the comments and take the comments and the results of the discussions into account.
+2. Each Party proposing to adopt or modify a standard or any conformity assessment procedure not otherwise considered to be a technical regulation shall, where an international standard relevant to the proposed measure does not exist or such measure is not substantially the same as an international standard, and where the measure may have a significant effect on the trade of the other Parties:
+
+(a) at an early appropriate stage, publish a notice and provide a notification of the type required in paragraph 1(a) and (b); and
+(b) observe paragraph (c) and (d).
+3. Each Party shall seek, through appropriate measures, to ensure, with respect to a technical regulation of a state or provincial government other than a local government:
+
+(a) that, at an early appropriate stage, a notice and notification of the type required under paragraph 1(a) and (b) are made prior to their adoption; and
+(b) observance of paragraph (c) and (d).
+4. Where a Party considers it necessary to address an urgent problem relating to safety or to protection of human, animal or plant life or health, the environment or consumers, it may omit any step set out in paragraph 1 or 3, provided that on adoption of a standards-related measure it shall:
+
+(a) immediately provide to the other Parties a notification of the type required under paragraph 1(b), including a brief description of the urgent problem;
+(b) provide a copy of the measure to any Party or interested person that so requests; and
+(c) without discrimination, allow other Parties and interested persons to make comments in writing, and shall, on request, discuss the comments and take the comments and the results of the discussions into account.
+5. Each Party shall, except where necessary to address an urgent problem referred to in paragraph 4, allow a reasonable period between the publication of a standards-related measure and the date that it becomes effective to allow time for interested persons to adapt to the measure.
+6. Where a Party allows non-governmental persons in its territory to be present during the process of development of standards-related measures, it shall also allow non-governmental persons from the territories of the other Parties to be present.
+7. Each Party shall notify the other Parties of the development of, amendment to, or change in the application of its standards-related measures no later than the time at which it notifies non-governmental persons in general or the relevant sector in its territory.
+8. Each Party shall seek, through appropriate measures, to ensure the observance of paragraphs 6 and 7 by a state or provincial government, and by non-governmental standardizing bodies in its territory.
+9. Each Party shall designate by January 1, 1994 a government authority responsible for the implementation at the federal level of the notification provisions of this Article, and shall notify the other Parties thereof. Where a Party designates two or more government authorities for that purpose, it shall provide to the other Parties complete and unambiguous information on the scope of responsibility of each such authority.
+Article 910: Inquiry Points
+1. Each Party shall ensure that there is an inquiry point that is able to answer all reasonable inquiries from other Parties and interested persons, and to provide relevant documents regarding:
+
+(a) any standards-related measure proposed, adopted or maintained in its territory at the federal, state or provincial government level;
+(b) the membership and participation of the Party, or its relevant federal, state or provincial government authorities, in international and regional standardizing bodies and conformity assessment systems, and in bilateral and multilateral arrangements regarding standards-related measures, and the provisions of those systems and arrangements;
+(c) the location of notices published pursuant to Article 909, or where the information can be obtained;
+(d) the location of the inquiry points referred to in paragraph 3; and
+(e) the Party's procedures for assessment of risk, and factors it considers in conducting the assessment and in establishing, pursuant to Article 904(2), the levels of protection that it considers appropriate.
+2. Where a Party designates more than one inquiry point, it shall:
+
+(a) provide to the other Parties complete and unambiguous information on the scope of responsibility of each inquiry point; and
+(b) ensure that any inquiry addressed to an incorrect inquiry point is promptly conveyed to the correct inquiry point.
+3. Each Party shall take such reasonable measures as may be available to it to ensure that there is at least one inquiry point that is able to answer all reasonable inquiries from other Parties and interested persons and to provide relevant documents or information as to where they can be obtained regarding:
+
+(a) any standard or conformity assessment procedure proposed, adopted or maintained by non-governmental standardizing bodies in its territory; and
+(b) the membership and participation of relevant non-governmental bodies in its territory in international and regional standardizing bodies and conformity assessment systems.
+4. Each Party shall ensure that where copies of documents are requested by another Party or by interested persons in accordance with this Chapter, they are supplied at the same price, apart from the actual cost of delivery, as the price for domestic purchase.
+Article 911: Technical Cooperation
+1. Each Party shall, on request of another Party:
+
+(a) provide to that Party technical advice, information and assistance on mutually agreed terms and conditions to enhance that Party's standards-related measures, and related activities, processes and systems;
+(b) provide to that Party information on its technical cooperation programs regarding standards-related measures relating to specific areas of interest; and
+(c) consult with that Party during the development of, or prior to the adoption or change in the application of, any standards-related measure.
+2. Each Party shall encourage standardizing bodies in its territory to cooperate with the standardizing bodies in the territories of the other Parties in their participation, as appropriate, in standardizing activities, such as through membership in international standardizing bodies.
+Article 912: Limitations on the Provision of Information
+Nothing in this Chapter shall be construed to require a Party to:
+
+(a) communicate, publish texts, or provide particulars or copies of documents other than in an official language of the Party; or
+(b) furnish any information the disclosure of which would impede law enforcement or otherwise be contrary to the public interest, or would prejudice the legitimate commercial interests of particular enterprises.
+Article 913: Committee on Standards-Related Measures
+1. The Parties hereby establish a Committee on Standards-Related Measures, comprising representatives of each Party.
+2. The Committee's functions shall include:
+
+(a) monitoring the implementation and administration of this Chapter, including the progress of the subcommittees and working groups established under paragraph 4, and the operation of the inquiry points established under Article 910;
+(b) facilitating the process by which the Parties make compatible their standards-related measures;
+(c) providing a forum for the Parties to consult on issues relating to standards-related measures, including the provision of technical advice and recommendations under Article 914;
+(d) enhancing cooperation on the development, application and enforcement of standards-related measures; and
+(e) considering non-governmental, regional and multilateral developments regarding standards-related measures, including under the GATT.
+3. The Committee shall:
+
+(a) meet on request of any Party and, unless the Parties otherwise agree, at least once each year; and
+(b) report annually to the Commission on the implementation of this Chapter.
+4. The Committee may, as it considers appropriate, establish and determine the scope and mandate of subcommittees or working groups, comprising representatives of each Party. Each subcommittee or working group may:
+
+(a) as it considers necessary or desirable, include or consult with
+
+(i) representatives of non-governmental bodies, including standardizing bodies,
+(ii) scientists, and
+(iii) technical experts; and
+(b) determine its work program, taking into account relevant international activities.
+5. Further to paragraph 4, the Committee shall establish:
+
+(a) the following subcommittees
+
+(i) Land Transportation Standards Subcommittee, in accordance with Annex 913.5.a-1,
+(ii) Telecommunications Standards Subcommittee, in accordance with Annex 913.5.a-2,
+(iii) Automotive Standards Council, in accordance with Annex 913.5.a-3, and
+(iv) Subcommittee on Labelling of Textile and Apparel Goods, in accordance with Annex 913.5.a-4; and
+(b) such other subcommittees or working groups as it considers appropriate to address any topic, including:
+
+(i) identification and nomenclature for goods subject to standards-related measures,
+(ii) quality and identity standards and technical regulations,
+(iii) packaging, labelling and presentation of consumer information, including languages, measurement systems, ingredients, sizes, terminology, symbols and related matters,
+(iv) product approval and post-market surveillance programs,
+(v) principles for the accreditation and recognition of conformity assessment bodies, procedures and systems,
+(vi) development and implementation of a uniform chemical hazard classification and communication system,
+(vii) enforcement programs, including training and inspections by regulatory, analytical and enforcement personnel,
+(viii) promotion and implementation of good laboratory practices,
+(ix) promotion and implementation of good manufacturing practices,
+(x) criteria for assessment of potential environmental hazards of goods,
+(xi) methodologies for assessment of risk,
+(xii) guidelines for testing of chemicals, including industrial and agricultural chemicals, pharmaceuticals and biologicals,
+(xiii) methods by which consumer protection, including matters relating to consumer redress, can be facilitated, and
+(xiv) extension of the application of this Chapter to other services.
+6. Each Party shall, on request of another Party, take such reasonable measures as may be available to it to provide for the participation in the activities of the Committee, where and as appropriate, of representatives of state or provincial governments.
+7. A Party requesting technical advice, information or assistance pursuant to Article 911 shall notify the Committee which shall facilitate any such request.
+Article 914: Technical Consultations
+1. Where a Party requests consultations regarding the application of this Chapter to a standards-related measure, and so notifies the Committee, the Committee may facilitate the consultations, if it does not consider the matter itself, by referring the matter for non-binding technical advice or recommendations to a subcommittee or working group, including an ad hoc subcommittee or working group, or to another forum.
+2. The Committee should consider any matter referred to it under paragraph 1 as expeditiously as possible and promptly forward to the Parties any technical advice or recommendations that it develops or receives concerning the matter. The Parties involved shall provide a written response to the Committee concerning the technical advice or recommendations within such time as the Committee may request.
+3. Where the involved Parties have had recourse to consultations facilitated by the Committee under paragraph 1, the consultations shall, on the agreement of the Parties involved, constitute consultations under Article 2006 (Consultations).
+4. The Parties confirm that a Party asserting that a standards-related measure of another Party is inconsistent with this Chapter shall have the burden of establishing the inconsistency.
+Article 915: Definitions
+1. For purposes of this Chapter:
+approval procedure means any registration, notification or other mandatory administrative procedure for granting permission for a good or service to be produced, marketed or used for a stated purpose or under stated conditions;
+assessment of risk means evaluation of the potential for adverse effects;
+conformity assessment procedure means any procedure used, directly or indirectly, to determine that a technical regulation or standard is fulfilled, including sampling, testing, inspection, evaluation, verification, monitoring, auditing, assurance of conformity, accreditation, registration or approval used for such a purpose, but does not mean an approval procedure;
+international standard means a standards-related measure, or other guide or recommendation, adopted by an international standardizing body and made available to the public;
+international standardizing body means a standardizing body whose membership is open to the relevant bodies of at least all the parties to the GATT Agreement on Technical Barriers to Trade , including the International Organization for Standardization (ISO) , the International Electrotechnical Commission (IEC), Codex Alimentarius Commission , the World Health Organization (WHO) , the Food and Agriculture Organization (FAO) , the International Telecommunication Union (ITU ); or any other body that the Parties designate;
+land transportation service means a transportation service provided by means of motor carrier or rail;
+legitimate objective includes an objective such as:
+
+(a) safety,
+(b) protection of human, animal or plant life or health, the environment or consumers, including matters relating to quality and identifiability of goods or services, and
+(c) sustainable development,
+considering, among other things, where appropriate, fundamental climatic or other geographical factors, technological or infrastructural factors, or scientific justification but does not include the protection of domestic production;
+make compatible means bring different standards-related measures of the same scope approved by different standardizing bodies to a level such that they are either identical, equivalent or have the effect of permitting goods or services to be used in place of one another or fulfill the same purpose;
+services means land transportation services and telecommunications services;
+standard means a document, approved by a recognized body, that provides, for common and repeated use, rules, guidelines or characteristics for goods or related processes and production methods, or for services or related operating methods, with which compliance is not mandatory. It may also include or deal exclusively with terminology, symbols, packaging, marking or labelling requirements as they apply to a good, process, or production or operating method;
+standardizing body means a body having recognized activities in standardization;
+standards-related measure means a standard, technical regulation or conformity assessment procedure;
+technical regulation means a document which lays down goods characteristics or their related processes and production methods, or services characteristics or their related operating methods, including the applicable administrative provisions, with which compliance is mandatory. It may also include or deal exclusively with terminology, symbols, packaging, marking or labelling requirements as they apply to a good, process, or production or operating method; and
+telecommunications service means a service provided by means of the transmission and reception of signals by any electromagnetic means, but does not mean the cable, broadcast or other electromagnetic distribution of radio or television programming to the public generally.
+2. Except as they are otherwise defined in this Agreement, other terms in this Chapter shall be interpreted in accordance with their ordinary meaning in context and in the light of the objectives of this Agreement, and where appropriate by reference to the terms presented in the sixth edition of the ISO/IEC Guide 2: 1991, General Terms and Their Definitions Concerning Standardization and Related Activities.
