@@ -42,15 +42,25 @@ module.exports = {
     array: () => getFolder('./fiction'),
     random: () => random(getFolder('./fiction')),
   },
-  erowid: {
-    all: () => toPlainText(getFolder('./erowid')),
-    array: () => getFolder('./erowid'),
-    random: () => random(getFolder('./erowid')),
+  religious: {
+    all: () => toPlainText(getFolder('./religious')),
+    array: () => getFolder('./religious'),
+    random: () => random(getFolder('./religious')),
+  },
+  legal: {
+    all: () => toPlainText(getFolder('./legal')),
+    array: () => getFolder('./rock'),
+    random: () => random(getFolder('./rock')),
   },
   rock: {
     all: () => toPlainText(getFolder('./rock')),
     array: () => getFolder('./rock'),
     random: () => random(getFolder('./rock')),
+  },
+  rap: {
+    all: () => toPlainText(getFolder('./rap')),
+    array: () => getFolder('./rap'),
+    random: () => random(getFolder('./rap')),
   },
   sms: {
     all: () => sms.text,
