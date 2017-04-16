@@ -3,7 +3,6 @@ let fs = require('fs');
 let path = require('path');
 const sms = require('./sms');
 
-
 const getFolder = function (folder) {
   let abs = path.join(__dirname, folder);
   let files = fs.readdirSync(abs);
@@ -39,23 +38,29 @@ module.exports = {
     random: () => random(getFolder('./sotu')),
   },
   fiction: {
-
+    all: () => toPlainText(getFolder('./fiction')),
+    array: () => getFolder('./fiction'),
+    random: () => random(getFolder('./fiction')),
   },
   erowid: {
-
+    all: () => toPlainText(getFolder('./erowid')),
+    array: () => getFolder('./erowid'),
+    random: () => random(getFolder('./erowid')),
   },
   rock: {
-
+    all: () => toPlainText(getFolder('./rock')),
+    array: () => getFolder('./rock'),
+    random: () => random(getFolder('./rock')),
   },
   sms: {
-    text: () => sms.text,
-    parsed: () => sms.parsed,
+    all: () => sms.text,
+    array: () => sms.parsed,
     random: () => random(sms.parsed),
   },
   wikipedia: {
     build: require('./wikipedia/build'),
-    text: () => toPlainText(getFolder('./wikipedia/corpus')),
-    parsed: () => getFolder('./wikipedia/corpus'),
+    all: () => toPlainText(getFolder('./wikipedia/corpus')),
+    array: () => getFolder('./wikipedia/corpus'),
     random: () => random(getFolder('./wikipedia/corpus')),
   }
 };

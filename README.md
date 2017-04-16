@@ -7,12 +7,12 @@ it's role is mainly to kick the tires a bit, as creatively as possible, for ling
 * campy *Friends* tv-show transcripts
 * suggestive American rock lyrics - 70s/80s/90s
 * Singaporean SMS message corpus
-* vulnerable Erowid drug-trip reports
-* State of the union addresses
-* sort-of-offensive 90's rap
+* vulnerable drug-trip reports from Erowid
+* State of the union logorrhea
+* generically-offensive 90's rap
 * Legal descriptions in NAFTA
-* Romantic 20th century fiction
-* pedantic arguments between Wikipedia editors
+* 20th century romantic fiction
+* pedantic arguments of Wikipedia editors
 
 # ok go.
 ```bash
