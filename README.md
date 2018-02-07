@@ -1,8 +1,22 @@
-some reasonably-sized and handy texts for testing + training [nlp_compromise](http://nlpcompromise.com). 'nuthing too crazy.
+## If you train on the nyTimes, you'll sound like the nyTimes.
+*nlp-corpus* is a proud series of texts from a delicious smattering of sources - aimed at getting cosmopolitan flavours of english - highbrow, lowbrow and unibrow -
+dialects, typos, shakespearean, unicode, indian, 19th century, aggressive emoji, and epic nsfw slurs into your training data.
 
-#ok go.
+it's role is mainly to kick the tires a bit, as creatively as possible, for linguistic decision-making.
+
+* campy *Friends* tv-show transcripts
+* suggestive American rock lyrics - 70s/80s/90s
+* Singaporean SMS message corpus
+* vulnerable drug-trip reports from Erowid
+* State of the union logorrhea
+* generically-offensive 90's rap
+* Legal descriptions in NAFTA
+* 20th century romantic fiction
+* pedantic arguments of Wikipedia editors
+
+# ok go.
 ```bash
-npm i nlp-corpus
+npm install nlp-corpus
 ```
 ```javascript
 const corpus = require("nlp-corpus")
@@ -11,21 +25,24 @@ corpus.friends.random()
 //random state of the union address
 corpus.sotu.random()
 //random short-story from author
-corpus.poe.random()
-corpus.hardy.random()
-corpus.wilde.random()
+corpus.fiction.random()
 //random erowid.com trip-report
 corpus.erowid.random()
 //random musical lyric
-corpus.weezer.random()
-corpus.fleetwood_mac.random()
+corpus.rock.random()
 //random sms message
 corpus.sms.random()
 //random wikipedia article (needs to be built first)
 corpus.wikipedia.random()
+//or just roll the dice
+corpus.random.text()
 ```
 
-#State of the union transcripts
+# Some details
+These texts were found just clicking around on the internet.
+Running them through your parser should be considered fair-use, but please don't commercially republish them, or anything dumb like that.
+
+### State of the union transcripts
 American presidential speech transcripts from 2000-2015. ~600kb
 ```javascript
 const corpus = require("nlp-corpus")
@@ -34,7 +51,7 @@ let txt= corpus.sotu.parsed()[4]
 let all= corpus.sotu.text()
 ```
 
-#SMS Corpus
+### SMS Corpus
 js version of the National University of Singapore's [56 thousand SMS message  Corpus](http://wing.comp.nus.edu.sg:8080/SMSCorpus/overview.jsp) 3mb.
 
 ```javascript
@@ -46,7 +63,7 @@ let txt= corpus.sms.parsed()[2442];
 let all= corpus.sms.text()
 ```
 
-#Wikipedia
+# Wikipedia
 quickly build a plaintext corpus, in any language, using the (up to) 1000 most generic ['articles_every_Wikipedia_should_have'](https://meta.wikimedia.org/wiki/List_of_articles_every_Wikipedia_should_have).
 ```bash
 node ./build.js en 500
@@ -64,7 +81,7 @@ head  ./wikipedia/corpus/fr.txt
 wc -w  ./wikipedia/corpus/fr.txt
 ```
 
-#'Friends' Transcripts
+# 'Friends' Transcripts
 uses [@silentrob's parser](https://github.com/silentrob/superscript-friends) of [versatel transcripts of the friends tv show](http://home.versatel.nl/friendspic0102/). all 10 seasons. about 2.5mb
 
 transcripts are indexed by episode ([season-episode]) and scene. This way a proper conversation can be inferred.
@@ -79,34 +96,29 @@ let txt= corpus.friends.parsed()[16][3]
 let all= corpus.friends.text()
 // ...
 ```
-#Music lyrics
+# Music lyrics
 short, modern texts with some nice slang.
 ```javascript
-corpus.weezer.parsed()[3]
+corpus.rock.parsed()[3]
 //"What's with these homies, dissing my girl?
 //Why do they gotta front?
-corpus.fleetwood_mac.parsed()[4]
+corpus.rock.parsed()[4]
 //'Now here you go again, you say you want your freedom.
 
 ```
 
-#Fiction
+# Fiction
 some CC-BY fiction pieces by some selected authors. Mix of tense, dialogue, subject, and style. ~300kb
 ```javascript
 const corpus = require("nlp-corpus")
-//lots of edgar-allen-poe
-let all= corpus.poe.text()
+//lots of edgar-allen-poe, oscar wilde, and thomas hardy.
+let all= corpus.fiction.text()
 
-let txt= corpus.poe.parsed()[3]
+let txt= corpus.fiction.parsed()[3]
 //For the most wild, yet most homely narrative which..
-
-//same for oscar wilde,
-let txt= corpus.wilde.parsed[7]
-//same for thomas hardy,
-let txt= corpus.hardy.parsed[3]
 ```
 
-#Erowid
+# Erowid
 some very casual and modern slang-filled drug-use reports from erowid.org ~nsfw.
 ```javascript
 const corpus = require("nlp-corpus")

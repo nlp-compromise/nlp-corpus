@@ -12,12 +12,13 @@
     "url": "git://github.com/nlp-compromise/nlp-corpus.git"
   },
   "scripts": {},
-  "dependencies": {},
+  "dependencies": {
+    "wtf_wikipedia": "^0.2.0"
+  },
   "devDependencies": {
     "async": "^1.5.2",
     "grunt": "0.4.5",
-    "grunt-run": "0.5.2",
-    "wtf_wikipedia": "^0.2.0"
+    "grunt-run": "0.5.2"
   },
   "bin": {
     "wikiCorpus" : "./wikipedia/cli.js"

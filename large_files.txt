@@ -1,0 +1,5 @@
+9982166 friends/parsed.js
+6578683 friends/raw.txt
+5233514 parsed.js
+3290906 friends/parse/raw.txt
+3254686 sms/smsCorpus.js

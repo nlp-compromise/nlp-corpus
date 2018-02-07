@@ -16,5 +16,5 @@ let arr = [
 })
 
 
-console.log(corpus.rubber_soul.random())
+console.log(corpus.sotu.random())
   // corpus.wikipedia.build('en', 15)

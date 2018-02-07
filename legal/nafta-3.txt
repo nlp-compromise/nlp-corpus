@@ -1,0 +1,106 @@
+Article 2101: General Exceptions
+1. For purposes of:
+
+(a) Part Two (Trade in Goods), except to the extent that a provision of that Part applies to services or investment, and
+(b) Part Three (Technical Barriers to Trade), except to the extent that a provision of that Part applies to services,
+GATT Article XX and its interpretative notes, or any equivalent provision of a successor agreement to which all Parties are party, are incorporated into and made part of this Agreement.
+The Parties understand that the measures referred to in GATT Article XX(b) include environmental measures necessary to protect human, animal or plant life or health, and that GATT Article XX(g) applies to measures relating to the conservation of living and non-living exhaustible natural resources.
+2. Provided that such measures are not applied in a manner that would constitute a means of arbitrary or unjustifiable discrimination between countries where the same conditions prevail or a disguised restriction on trade between the Parties, nothing in:
+
+(a) Part Two (Trade in Goods), to the extent that a provision of that Part applies to services,
+(b) Part Three (Technical Barriers to Trade), to the extent that a provision of that Part applies to services,
+(c) Chapter Twelve (Cross-Border Trade in Services), and
+(d) Chapter Thirteen (Telecommunications),
+shall be construed to prevent the adoption or enforcement by any Party of measures necessary to secure compliance with laws or regulations that are not inconsistent with the provisions of this Agreement, including those relating to health and safety and consumer protection.
+Article 2102: National Security
+1. Subject to Articles 607 (Energy - National Security Measures) and 1018 (Government Procurement Exceptions), nothing in this Agreement shall be construed:
+
+(a) to require any Party to furnish or allow access to any information the disclosure of which it determines to be contrary to its essential security interests;
+(b) to prevent any Party from taking any actions that it considers necessary for the protection of its essential security interests
+
+(i) relating to the traffic in arms, ammunition and implements of war and to such traffic and transactions in other goods, materials, services and technology undertaken directly or indirectly for the purpose of supplying a military or other security establishment,
+(ii) taken in time of war or other emergency in international relations, or
+(iii) relating to the implementation of national policies or international agreements respecting the non-proliferation of nuclear weapons or other nuclear explosive devices; or
+(c) to prevent any Party from taking action in pursuance of its obligations under the United Nations Charter for the maintenance of international peace and security.
+Article 2103: Taxation
+1. Except as set out in this Article, nothing in this Agreement shall apply to taxation measures.
+2. Nothing in this Agreement shall affect the rights and obligations of any Party under any tax convention. In the event of any inconsistency between this Agreement and any such convention, that convention shall prevail to the extent of the inconsistency.
+3. Notwithstanding paragraph 2:
+
+(a) Article 301 (Market Access - National Treatment) and such other provisions of this Agreement as are necessary to give effect to that Article shall apply to taxation measures to the same extent as does Article III of the GATT; and
+(b) Article 314 (Market Access - Export Taxes) and Article 604 (Energy Export Taxes) shall apply to taxation measures.
+4. Subject to paragraph 2:
+
+(a) Article 1202 (Cross-Border Trade in Services - National Treatment) and Article 1405 (Financial Services - National Treatment) shall apply to taxation measures on income, capital gains or on the taxable capital of corporations, and to those taxes listed in paragraph 1 of Annex 2103.4, that relate to the purchase or consumption of particular services, and
+(b) Articles 1102 and 1103 (Investment - National Treatment and Most-Favored Nation Treatment), Articles 1202 and 1203 (Cross-Border Trade in Services - National Treatment and Most-Favored Nation Treatment) and Articles 1405 and 1406 (Financial Services - National Treatment and Most-Favored Nation Treatment) shall apply to all taxation measures, other than those on income, capital gains or on the taxable capital of corporations, taxes on estates, inheritances, gifts and generation-skipping transfers and those taxes listed in paragraph 1 of Annex 2103.4,
+except that nothing in those Articles shall apply
+
+(c) any most-favored-nation obligation with respect to an advantage accorded by a Party pursuant to a tax convention,
+(d) to a non-conforming provision of any existing taxation measure,
+(e) to the continuation or prompt renewal of a non-conforming provision of any existing taxation measure,
+(f) to an amendment to a non-conforming provision of any existing taxation measure to the extent that the amendment does not decrease its conformity, at the time of the amendment, with any of those Articles,
+(g) to any new taxation measure aimed at ensuring the equitable and effective imposition or collection of taxes and that does not arbitrarily discriminate between persons, goods or services of the Parties or arbitrarily nullify or impair benefits accorded under those Articles, in the sense of Annex 2004, or
+(h) to the measures listed in paragraph 2 of Annex 2103.4.
+5. Subject to paragraph 2 and without prejudice to the rights and obligations of the Parties under paragraph 3, Article 1106(3), (4) and (5) (Investment - Performance Requirements) shall apply to taxation measures.
+6. Article 1110 (Expropriation and Compensation) shall apply to taxation measures except that no investor may invoke that Article as the basis for a claim under Article 1116 (Claim by an Investor of a Party on its Own Behalf) or 1117 (Claim by an Investor of a Party on Behalf of an Enterprise), where it has been determined pursuant to this paragraph that the measure is not an expropriation. The investor shall refer the issue of whether the measure is not an expropriation for a determination to the appropriate competent authorities set out in Annex 2103.6 at the time that it gives notice under Article 1119 (Notice of Intent to Submit a Claim to Arbitration). If the competent authorities do not agree to consider the issue or, having agreed to consider it, fail to agree that the measure is not an expropriation within a period of six months of such referral, the investor may submit its claim to arbitration under Article 1120 (Submission of a Claim to Arbitration).
+Article 2104: Balance of Payments
+1. Nothing in this Agreement shall be construed to prevent a Party from adopting or maintaining measures that restrict transfers where the Party experiences serious balance of payments difficulties, or the threat thereof, and such restrictions are consistent with paragraphs 2 through 4 and are:
+
+(a) consistent with paragraph 5 to the extent they are imposed on transfers other than Cross-Border trade in financial services; or
+(b) consistent with paragraphs 6 and 7 to the extent they are imposed on Cross-Border trade in financial services.
+General Rules
+2. As soon as practicable after a Party imposes a measure under this Article, the Party shall:
+
+(a) submit any current account exchange restrictions to the IMF for review under Article VIII of the Articles of Agreement of the IMF;
+(b) enter into good faith consultations with the IMF on economic adjustment measures to address the fundamental underlying economic problems causing the difficulties; and
+(c) adopt or maintain economic policies consistent with such consultations.
+3. A measure adopted or maintained under this Article shall:
+
+(a) avoid unnecessary damage to the commercial, economic or financial interests of another Party;
+(b) not be more burdensome than necessary to deal with the balance of payments difficulties or threat thereof;
+(c) be temporary and be phased out progressively as the balance of payments situation improves;
+(d) be consistent with paragraph 2(c) and with the Articles of Agreement of the IMF; and
+(e) be applied on a national treatment or most-favored-nation treatment basis, whichever is better.
+4. A Party may adopt or maintain a measure under this Article that gives priority to services that are essential to its economic program, provided that a Party may not impose a measure for the purpose of protecting a specific industry or sector unless the measure is consistent with paragraph 2(c) and with Article VIII(3) of the Articles of Agreement of the IMF.
+Restrictions on Transfers Other than Cross-Border Trade in Financial Services
+5. Restrictions imposed on transfers, other than on cross border trade in financial services:
+
+(a) where imposed on payments for current international transactions, shall be consistent with Article VIII(3) of the Articles of Agreement of the IMF;
+(b) where imposed on international capital transactions, shall be consistent with Article VI of the Articles of Agreement of the IMF and be imposed only in conjunction with measures imposed on current international transactions under paragraph 2(a);
+(c) where imposed on transfers covered by Article 1109 (Investment - Transfers) and transfers related to trade in goods, may not substantially impede transfers from being made in a freely usable currency at a market rate of exchange; and
+(d) may not take the form of tariff surcharges, quotas, licenses or similar measures.
+Restrictions on Cross-Border Trade in Financial Services
+6. A Party imposing a restriction on Cross-Border trade in financial services:
+
+(a) may not impose more than one measure on any transfer, unless consistent with paragraph 2(c) and with Article VIII(3) of the Articles of Agreement of the IMF; and
+(b) shall promptly notify and consult with the other Parties to assess the balance of payments situation of the Party and the measures it has adopted, taking into account among other elements
+
+(i) the nature and extent of the balance of payments difficulties of the Party,
+(ii) the external economic and trading environment of the Party, and
+(iii) alternative corrective measures that may be available.
+7. In consultations under paragraph 6(b), the Parties shall:
+
+(a) consider if measures adopted under this Article comply with paragraph 3, in particular paragraph 3(c); and
+(b) accept all findings of statistical and other facts presented by the IMF relating to foreign exchange, monetary reserves and balance of payments, and shall base their conclusions on the assessment by the IMF of the balance of payments situation the Party adopting the measures.
+Article 2105: Disclosure of Information
+Nothing in this Agreement shall be construed to require a Party to furnish or allow access to information the disclosure of which would impede law enforcement or would be contrary to the Party's law protecting personal privacy or the financial affairs and accounts of individual customers of financial institutions.
+Article 2106: Cultural Industries
+Annex 2106 applies to the Parties specified in that Annex with respect to cultural industries.
+Article 2107: Definitions
+For purposes of this Chapter:
+cultural industries means persons engaged in any of the following activities:
+
+(a) the publication, distribution, or sale of books, magazines, periodicals or newspapers in print or machine readable form but not including the sole activity of printing or typesetting any of the foregoing;
+(b) the production, distribution, sale or exhibition of film or video recordings;
+(c) the production, distribution, sale or exhibition of audio or video music recordings;
+(d) the publication, distribution or sale of music in print or machine readable form; or
+(e) radiocommunications in which the transmissions are intended for direct reception by the general public, and all radio, television and cable broadcasting undertakings and all satellite programming and broadcast network services;
+international capital transactions means "international capital transactions" as defined under the Articles of Agreement of the IMF;
+IMF means the International Monetary Fund;
+payments for current international transactions means "payments for current international transactions" as defined under the Articles of Agreement of the IMF;
+tax convention means a convention for the avoidance of double taxation or other international taxation agreement or arrangement;
+taxes and taxation measures do not include:
+
+(a) a "customs duty" as defined in Article 318 (Market Access Definitions); or
+(b) the measures listed in exceptions (b),(c), (d) and (e) of that definition; and
+transfers means international transactions and related international transfers and payments.
