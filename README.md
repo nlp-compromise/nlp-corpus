@@ -25,11 +25,15 @@ corpus.friends.random()
 //random state of the union address
 corpus.sotu.random()
 //random short-story from author
-corpus.fiction.random()
+corpus.wilde.random()
+corpus.hardy.random()
+corpus.poe.random()
 //random erowid.com trip-report
 corpus.erowid.random()
 //random musical lyric
-corpus.rock.random()
+corpus.weezer.random()
+corpus.beatles.random()
+corpus.fleetwood_mac.random()
 //random sms message
 corpus.sms.random()
 //random wikipedia article (needs to be built first)
@@ -64,21 +68,11 @@ let all= corpus.sms.text()
 ```
 
 # Wikipedia
-quickly build a plaintext corpus, in any language, using the (up to) 1000 most generic ['articles_every_Wikipedia_should_have'](https://meta.wikimedia.org/wiki/List_of_articles_every_Wikipedia_should_have).
-```bash
-node ./build.js en 500
-node ./build.js fr 20
-```
+a bunch of articles from wikipedia's [Articles every Wikipedia must have](https://meta.wikimedia.org/wiki/List_of_articles_every_Wikipedia_should_have) list
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.wikipedia.parsed()[4]
-// Albert Einstein, né le 14 mars 1879, est un physicien théoricien qui fut...
-let all= corpus.wikipedia.text()
-// [some large number of words]
-```
-```bash
-head  ./wikipedia/corpus/fr.txt
-wc -w  ./wikipedia/corpus/fr.txt
+let txt= corpus.wikipedia.random()
+// Baseball is a bat-and-ball game played between...
 ```
 
 # 'Friends' Transcripts
@@ -99,12 +93,13 @@ let all= corpus.friends.text()
 # Music lyrics
 short, modern texts with some nice slang.
 ```javascript
-corpus.rock.parsed()[3]
+corpus.weezer.parsed()[3]
 //"What's with these homies, dissing my girl?
 //Why do they gotta front?
-corpus.rock.parsed()[4]
+corpus.fleetwood_mac.parsed()[4]
 //'Now here you go again, you say you want your freedom.
-
+corpus.beatles.random()
+//'If I needed someone to love...'
 ```
 
 # Fiction
@@ -112,9 +107,9 @@ some CC-BY fiction pieces by some selected authors. Mix of tense, dialogue, subj
 ```javascript
 const corpus = require("nlp-corpus")
 //lots of edgar-allen-poe, oscar wilde, and thomas hardy.
-let all= corpus.fiction.text()
+let all= corpus.poe.text()
 
-let txt= corpus.fiction.parsed()[3]
+let txt= corpus.hardy.parsed()[3]
 //For the most wild, yet most homely narrative which..
 ```
 

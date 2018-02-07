@@ -28,34 +28,54 @@ const random = function (arr) {
 
 module.exports = {
   friends: {
-    all: () => require('./friends/index.js').plaintext(),
-    array: () => require('./friends/index.js').parsed(),
-    random: () => random(require('./friends/index.js').parsed())
+    all: () => toPlainText(getFolder('./friends')),
+    array: () => getFolder('./friends'),
+    random: () => random(getFolder('./friends')),
   },
   sotu: {
     all: () => toPlainText(getFolder('./sotu')),
     array: () => getFolder('./sotu'),
     random: () => random(getFolder('./sotu')),
   },
-  fiction: {
-    all: () => toPlainText(getFolder('./fiction')),
-    array: () => getFolder('./fiction'),
-    random: () => random(getFolder('./fiction')),
+  wilde: {
+    all: () => toPlainText(getFolder('./wilde')),
+    array: () => getFolder('./wilde'),
+    random: () => random(getFolder('./wilde')),
   },
-  religious: {
-    all: () => toPlainText(getFolder('./religious')),
-    array: () => getFolder('./religious'),
-    random: () => random(getFolder('./religious')),
+  hardy: {
+    all: () => toPlainText(getFolder('./hardy')),
+    array: () => getFolder('./hardy'),
+    random: () => random(getFolder('./hardy')),
+  },
+  poe: {
+    all: () => toPlainText(getFolder('./poe')),
+    array: () => getFolder('./poe'),
+    random: () => random(getFolder('./poe')),
+  },
+  erowid: {
+    all: () => toPlainText(getFolder('./erowid')),
+    array: () => getFolder('./erowid'),
+    random: () => random(getFolder('./erowid')),
   },
   legal: {
     all: () => toPlainText(getFolder('./legal')),
-    array: () => getFolder('./rock'),
-    random: () => random(getFolder('./rock')),
+    array: () => getFolder('./legal'),
+    random: () => random(getFolder('./legal')),
   },
-  rock: {
-    all: () => toPlainText(getFolder('./rock')),
-    array: () => getFolder('./rock'),
-    random: () => random(getFolder('./rock')),
+  weezer: {
+    all: () => toPlainText(getFolder('./weezer')),
+    array: () => getFolder('./weezer'),
+    random: () => random(getFolder('./weezer')),
+  },
+  fleetwood_mac: {
+    all: () => toPlainText(getFolder('./fleetwood_mac')),
+    array: () => getFolder('./fleetwood_mac'),
+    random: () => random(getFolder('./fleetwood_mac')),
+  },
+  beatles: {
+    all: () => toPlainText(getFolder('./beatles')),
+    array: () => getFolder('./beatles'),
+    random: () => random(getFolder('./beatles')),
   },
   rap: {
     all: () => toPlainText(getFolder('./rap')),
@@ -68,9 +88,8 @@ module.exports = {
     random: () => random(sms.parsed),
   },
   wikipedia: {
-    build: require('./wikipedia/build'),
-    all: () => toPlainText(getFolder('./wikipedia/corpus')),
-    array: () => getFolder('./wikipedia/corpus'),
-    random: () => random(getFolder('./wikipedia/corpus')),
-  }
+    all: () => toPlainText(getFolder('./wikipedia')),
+    array: () => getFolder('./wikipedia'),
+    random: () => random(getFolder('./wikipedia')),
+  },
 };

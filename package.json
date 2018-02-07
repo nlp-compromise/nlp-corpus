@@ -2,26 +2,17 @@
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
   "name": "nlp-corpus",
   "description": "texts for integration testing of nlp components",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "main": "./index.js",
   "bin": {
-    "build" : "./cli.js"
+    "wikiCorpus": "./wikipedia/cli.js"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/nlp-compromise/nlp-corpus.git"
   },
   "scripts": {},
-  "dependencies": {
-    "wtf_wikipedia": "^0.2.0"
-  },
-  "devDependencies": {
-    "async": "^1.5.2",
-    "grunt": "0.4.5",
-    "grunt-run": "0.5.2"
-  },
-  "bin": {
-    "wikiCorpus" : "./wikipedia/cli.js"
- },
+  "dependencies": {},
+  "devDependencies": {},
   "license": "MIT"
 }
