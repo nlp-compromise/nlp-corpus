@@ -47,7 +47,13 @@ corpus.wikipedia.random()
 These texts were found just clicking around on the internet.
 Running them through your parser should be considered fair-use, but please don't commercially republish them, or anything dumb like that.
 
-for each given source, you can call `.random()`, `.array()`, or `.text()`
+for each given source, you can call `.random()`, `.array()`, or `.all()`
+
+for a large join of all the text, call:
+```js
+let large = corpus.all()
+// large.split(' ').length (1.5m words)
+```
 
 ### State of the union transcripts
 American presidential speech transcripts from 2000-2015. ~600kb

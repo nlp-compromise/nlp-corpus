@@ -24,3 +24,10 @@ test('try all random methods', function(t) {
   t.equal(typeof main, 'string', 'main');
   t.end();
 });
+
+test('generate large text', function(t) {
+  let large = corpus.all();
+  t.equal(typeof large, 'string', 'large is string');
+  t.ok(large.length > 1000, 'large is big');
+  t.end();
+});

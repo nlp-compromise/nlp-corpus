@@ -102,4 +102,11 @@ methods.random = () => {
   source = sources[source];
   return methods[source].random();
 };
+//make one large text file
+methods.all = () => {
+  return sources.reduce((str, source) => {
+    str += methods[source].all() + '\n';
+    return str;
+  }, '');
+};
 module.exports = methods;

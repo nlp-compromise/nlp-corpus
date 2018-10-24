@@ -2,7 +2,7 @@
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
   "name": "nlp-corpus",
   "description": "texts for integration testing of nlp components",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "main": "./index.js",
   "bin": {
     "wikiCorpus": "./wikipedia/cli.js"

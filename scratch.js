@@ -1,3 +1,3 @@
 const corpus = require('./index');
 
-console.log(corpus.erowid.array()[3]);
+console.log(corpus.all().split(' ').length);
