@@ -20,6 +20,9 @@ npm install nlp-corpus
 ```
 ```javascript
 const corpus = require("nlp-corpus")
+//anything!
+corpus.random()
+
 //random transcript of the show 'friends'
 corpus.friends.random()
 //random state of the union address
@@ -38,13 +41,13 @@ corpus.fleetwood_mac.random()
 corpus.sms.random()
 //random wikipedia article (needs to be built first)
 corpus.wikipedia.random()
-//or just roll the dice
-corpus.random.text()
 ```
 
 # Some details
 These texts were found just clicking around on the internet.
 Running them through your parser should be considered fair-use, but please don't commercially republish them, or anything dumb like that.
+
+for each given source, you can call `.random()`, `.array()`, or `.text()`
 
 ### State of the union transcripts
 American presidential speech transcripts from 2000-2015. ~600kb
@@ -60,9 +63,9 @@ js version of the National University of Singapore's [56 thousand SMS message  C
 
 ```javascript
 const corpus = require("nlp-corpus")
-let txt= corpus.sms.parsed()[491];
+let txt= corpus.sms.array()[491];
 // "Wat would u like 4 ur birthday?"
-let txt= corpus.sms.parsed()[2442];
+let txt= corpus.sms.array()[2442];
 // "If u dun drive then how i go 2 sch."
 let all= corpus.sms.text()
 ```
@@ -82,9 +85,9 @@ transcripts are indexed by episode ([season-episode]) and scene. This way a prop
 ```javascript
 const corpus = require("nlp-corpus")
 //as an array of speaker lines
-let txt= corpus.friends.parsed()[25][103]
+let txt= corpus.friends.array()[25][103]
 //"Is it like for dinosaur emergencies? 'Help, come quick, they're still extinct.'"
-let txt= corpus.friends.parsed()[16][3]
+let txt= corpus.friends.array()[16][3]
 //"i play al pacino's butt. all right? he goes into the shower, and then- i'm his butt..."
 
 let all= corpus.friends.text()
@@ -93,10 +96,10 @@ let all= corpus.friends.text()
 # Music lyrics
 short, modern texts with some nice slang.
 ```javascript
-corpus.weezer.parsed()[3]
+corpus.weezer.array()[3]
 //"What's with these homies, dissing my girl?
 //Why do they gotta front?
-corpus.fleetwood_mac.parsed()[4]
+corpus.fleetwood_mac.array()[4]
 //'Now here you go again, you say you want your freedom.
 corpus.beatles.random()
 //'If I needed someone to love...'
@@ -109,7 +112,7 @@ const corpus = require("nlp-corpus")
 //lots of edgar-allen-poe, oscar wilde, and thomas hardy.
 let all= corpus.poe.text()
 
-let txt= corpus.hardy.parsed()[3]
+let txt= corpus.hardy.array()[3]
 //For the most wild, yet most homely narrative which..
 ```
 
@@ -120,6 +123,6 @@ const corpus = require("nlp-corpus")
 //lots of them
 let all= corpus.erowid.text()
 
-let txt= corpus.erowid.parsed()[3]
+let txt= corpus.erowid.array()[3]
 //I've never been a fan of Mother's Day
 ```

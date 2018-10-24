@@ -2,7 +2,7 @@
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
   "name": "nlp-corpus",
   "description": "texts for integration testing of nlp components",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "main": "./index.js",
   "bin": {
     "wikiCorpus": "./wikipedia/cli.js"
@@ -11,8 +11,15 @@
     "type": "git",
     "url": "git://github.com/nlp-compromise/nlp-corpus.git"
   },
-  "scripts": {},
+  "scripts": {
+    "watch": "amble ./scratch.js",
+    "test":"tape ./test.js | tap-spec"
+  },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "amble": "0.0.6",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.9.1"
+  },
   "license": "MIT"
 }

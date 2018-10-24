@@ -26,7 +26,7 @@ const random = function (arr) {
   return arr[r];
 };
 
-module.exports = {
+let methods = {
   friends: {
     all: () => toPlainText(getFolder('./friends')),
     array: () => getFolder('./friends'),
@@ -92,4 +92,14 @@ module.exports = {
     array: () => getFolder('./wikipedia'),
     random: () => random(getFolder('./wikipedia')),
   },
+
 };
+
+const sources = Object.keys(methods);
+//ok, add some actually useful methods
+methods.random = () => {
+  let source = Math.floor(Math.random() * sources.length);
+  source = sources[source];
+  return methods[source].random();
+};
+module.exports = methods;
