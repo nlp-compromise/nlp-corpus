@@ -54,6 +54,10 @@ for a large join of all the text, call:
 let large = corpus.all()
 // large.split(' ').length (1.5m words)
 ```
+or to create a corpus of a specified length
+```js
+let str = corpus.generate(20000).join('\n')//20k words
+```
 
 ### State of the union transcripts
 American presidential speech transcripts from 2000-2015. ~600kb

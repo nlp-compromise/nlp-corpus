@@ -109,4 +109,16 @@ methods.all = () => {
     return str;
   }, '');
 };
+//create a corpus of a specified length
+methods.generate = (size) => {
+  size = size || 12000;
+  let result = [];
+  let len = 0;
+  while (len < size) {
+    let txt = methods.random();
+    len += txt.split(' ').length;
+    result.push(txt);
+  }
+  return result;
+};
 module.exports = methods;

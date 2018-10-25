@@ -1,5 +1,5 @@
-var test = require('tape');
-var corpus = require('./index');
+const test = require('tape');
+const corpus = require('../src/index');
 
 test('try all random methods', function(t) {
   let arr = [

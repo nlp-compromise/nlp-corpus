@@ -1,3 +1,4 @@
-const corpus = require('./index');
+const corpus = require('./src');
 
-console.log(corpus.all().split(' ').length);
+let str = corpus.generate(12000); //2k words
+console.log(str);
