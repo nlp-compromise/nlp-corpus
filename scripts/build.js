@@ -12,3 +12,9 @@ for(let i = 0; i < 15; i += 1) {
   fs.writeFileSync(src, JSON.stringify(arr, null, 0));
   console.log('#' + (i + 1) + ' ' + fileSize(src));
 }
+
+//generate teh big one
+let arr = corpus.generate(350000); //350k words
+let src = './builds/nlp-corpus-big.json';
+fs.writeFileSync(src, JSON.stringify(arr, null, 0));
+console.log(' big - ' + fileSize(src));
