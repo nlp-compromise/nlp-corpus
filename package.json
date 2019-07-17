@@ -10,14 +10,14 @@
   },
   "scripts": {
     "watch": "amble ./scratch.js",
-    "build":"node ./scripts/build.js",
-    "test":"tape ./scripts/test.js | tap-spec"
+    "build": "node ./scripts/build.js",
+    "test": "tape ./scripts/test.js | tap-spec"
   },
   "dependencies": {},
   "devDependencies": {
-    "amble": "0.0.6",
+    "amble": "0.0.7",
     "tap-spec": "^5.0.0",
-    "tape": "^4.9.1"
+    "tape": "4.11.0"
   },
   "license": "MIT"
 }
