@@ -1,30 +1,30 @@
-'use strict';
-let fs = require('fs');
-let path = require('path');
-const sms = require('./sms');
+'use strict'
+let fs = require('fs')
+let path = require('path')
+const sms = require('./sms')
 
 const getFolder = function (folder) {
-  let abs = path.join(__dirname, folder);
-  let files = fs.readdirSync(abs);
+  let abs = path.join(__dirname, folder)
+  let files = fs.readdirSync(abs)
   //get all files as a single string
   return files.map(function (f) {
-    f = path.join(abs, f);
-    return fs.readFileSync(f, 'utf8') + '\n';
-  });
-};
+    f = path.join(abs, f)
+    return fs.readFileSync(f, 'utf8') + '\n'
+  })
+}
 
 const toPlainText = function (obj) {
   return Object.keys(obj).reduce(function (str, k) {
-    str += obj[k] + '\n';
-    return str;
-  }, '');
-};
+    str += obj[k] + '\n'
+    return str
+  }, '')
+}
 
 const random = function (arr) {
-  let len = arr.length;
-  let r = parseInt(Math.random() * len, 10);
-  return arr[r];
-};
+  let len = arr.length
+  let r = parseInt(Math.random() * len, 10)
+  return arr[r]
+}
 
 let methods = {
   friends: {
@@ -92,33 +92,32 @@ let methods = {
     array: () => getFolder('./wikipedia'),
     random: () => random(getFolder('./wikipedia')),
   },
+}
 
-};
-
-const sources = Object.keys(methods);
+const sources = Object.keys(methods)
 //ok, add some actually useful methods
 methods.random = () => {
-  let source = Math.floor(Math.random() * sources.length);
-  source = sources[source];
-  return methods[source].random();
-};
+  let source = Math.floor(Math.random() * sources.length)
+  source = sources[source]
+  return methods[source].random()
+}
 //make one large text file
 methods.all = () => {
   return sources.reduce((str, source) => {
-    str += methods[source].all() + '\n';
-    return str;
-  }, '');
-};
+    str += methods[source].all() + '\n'
+    return str
+  }, '')
+}
 //create a corpus of a specified length
 methods.generate = (size) => {
-  size = size || 12000;
-  let result = [];
-  let len = 0;
+  size = size || 12000
+  let result = []
+  let len = 0
   while (len < size) {
-    let txt = methods.random();
-    len += txt.split(' ').length;
-    result.push(txt);
+    let txt = methods.random()
+    len += txt.split(' ').length
+    result.push(txt)
   }
-  return result;
-};
-module.exports = methods;
+  return result
+}
+module.exports = methods
