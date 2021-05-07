@@ -22,8 +22,8 @@ const nlpCorpus = function (n) {
   return arr
 }
 
-nlpCorpus.prototype.fetch = function (n) {
-  return fetch('https://unpkg.com/nlp-corpus@3.3.0/builds/nlp-corpus-1.json')
+nlpCorpus.prototype.fetch = function (n = 1) {
+  return fetch(`https://unpkg.com/nlp-corpus@latest/builds/${n}-doc.json`)
     .then(response => response.json())
     .then(data => {
       this.texts.push(data)
