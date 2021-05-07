@@ -1,3 +1,5 @@
+<img height="40px" src="https://user-images.githubusercontent.com/399657/68221862-17ceb980-ffb8-11e9-87d4-7b30b6488f16.png"/>
+
 <div align="center">
   <div><b>nlp-corpus</b></div>
   <img src="https://user-images.githubusercontent.com/399657/68222691-6597f180-ffb9-11e9-8a32-a7f38aa8bded.png"/>
@@ -9,7 +11,6 @@
       <a href="https://spencermounta.in/">Spencer Kelly</a>
     </sub>
   </div>
-  <img height="25px" src="https://user-images.githubusercontent.com/399657/68221862-17ceb980-ffb8-11e9-87d4-7b30b6488f16.png"/>
 </div>
 
 <div align="center">
@@ -23,19 +24,20 @@
 <!-- spacer -->
 <img height="85px" src="https://user-images.githubusercontent.com/399657/68221862-17ceb980-ffb8-11e9-87d4-7b30b6488f16.png"/>
 
-_nlp-corpus_ is a proud series of weird texts from a delicious smattering of sources - aimed at getting cosmopolitan flavours of english - highbrow, lowbrow and unibrow - dialects, typos, shakespearean, unicode, indian, 19th century, aggressive emoji, and epic nsfw slurs into your training data.
+**nlp-corpus** is a proud series of weird texts from a delicious smattering of sources - aimed at getting cosmopolitan flavours of english - _highbrow, lowbrow and unibrow_ - dialects, typos, shakespeare, unicode, 19th century, aggressive emoji, and epic nsfw slurs into your training data.
 
 it's role is mainly to kick the tires a bit, as creatively as possible, for fuzzy linguistic parsing.
 
+- suggestive American rock lyrics
 - campy _Friends_ tv-show transcripts
-- suggestive American rock lyrics - 70s/80s/90s
-- Singaporean SMS message corpus
 - vulnerable drug-trip reports from Erowid
+- singaporean SMS messages
 - State of the union logorrhea
 - generally-offensive 90's rap
 - Legal descriptions in NAFTA
 - 20th century romantic fiction
-- pedantic arguments of Wikipedia editors
+- pedantic arguments on reddit
+- arcane and dense jeopardy questions
 
 Note that some of this text is nsfw, or containing offensive content, badly-formatted unicode, weird indentation, ascii art, antiquated shorthands, etc.
 
