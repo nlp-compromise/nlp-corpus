@@ -1,0 +1,24 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": false,
+    "**/.hg": false,
+    "**/CVS": false,
+    "**/.DS_Store": true,
+    ".eslintrc": true,
+    ".github": true,
+    ".npmignore": true,
+    ".prettierrc.js": true,
+    "**/.esformatter": true,
+    "**/.eslintrc.js": true,
+    "**/.gitignore": true,
+    "**/.vscode": true,
+    "**/LICENSE": true,
+    "**/node_modules": true,
+    "**/package-lock.json": true,
+    "**/tsconfig.json": true,
+    "**/yarn.lock": true,
+    "codecov.yml": true
+  },
+  "explorerExclude.backup": null
+}

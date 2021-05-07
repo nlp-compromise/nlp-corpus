@@ -22,6 +22,8 @@ These texts were found just clicking around on the internet. Running them blindl
 npm install nlp-corpus
 ```
 
+running this library server-side loads a subset of the documents - abt 10mb total
+
 ```javascript
 const corpus = require('nlp-corpus')
 //random sentence
@@ -37,6 +39,7 @@ or on the client-side, there's a one-liner that fetches the docs:
 <script>
   // load a documents lazily
   await nlpCorpus.fetchDoc(2) //1 - 20
+  // (each doc is abt 150kb)
   let arr = nlpCorpus.random(4) //1 - 1,500
 </script>
 ```
@@ -87,6 +90,10 @@ const corpus = require('nlp-corpus')
 let txt = corpus.wikipedia.random()
 // Baseball is a bat-and-ball game played between...
 ```
+
+### Internet comments
+
+Reddit /r/TLDR corpus from [this dataset](https://github.com/webis-de/webis-tldr-17-corpus)
 
 ### Questions
 

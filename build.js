@@ -10,8 +10,10 @@ const choose = arr => {
 }
 
 let dirs = [
+  './docs/comments',
   './docs/dialogue/friends',
   './docs/dialogue/sms',
+  './docs/headlines',
   './docs/instructions',
   './docs/legal',
   './docs/lyrics/beatles',
@@ -57,6 +59,6 @@ const makeDoc = function (n) {
   fs.writeFileSync(`./builds/${n}-doc.txt`, list.join('\n'))
 }
 
-for (let i = 1; i < 20; i += 1) {
+for (let i = 1; i <= 20; i += 1) {
   makeDoc(i)
 }
