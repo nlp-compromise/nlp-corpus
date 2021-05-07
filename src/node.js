@@ -1,4 +1,5 @@
 const fs = require('fs')
+const path = require('path')
 
 const choose = arr => {
   let r = Math.floor(Math.random() * arr.length)
@@ -7,7 +8,7 @@ const choose = arr => {
 
 let docs = []
 for (let i = 1; i < 19; i += 1) {
-  docs.push(`./builds/${i}-doc.txt`)
+  docs.push(path.join(__dirname, `../builds/${i}-doc.txt`))
 }
 
 const corpus = function (n = 1) {
