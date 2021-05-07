@@ -2,22 +2,20 @@
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
   "name": "nlp-corpus",
   "description": "texts for integration testing of nlp components",
-  "version": "3.3.0",
-  "main": "./src/index.js",
+  "version": "4.0.0",
+  "main": "./src/node.js",
+  "unpkg": "./src/client.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/nlp-compromise/nlp-corpus.git"
   },
   "scripts": {
-    "watch": "amble ./scratch.js",
-    "build": "node ./scripts/build.js",
-    "test": "tape ./scripts/test.js | tap-spec"
+    "build": "node ./build.js",
+    "watch": "node ./scratch.js"
   },
-  "dependencies": {},
   "devDependencies": {
-    "amble": "0.0.7",
-    "tap-spec": "^5.0.0",
-    "tape": "4.11.0"
+    "compromise": "^13.11.2",
+    "shelljs": "^0.8.1"
   },
   "license": "MIT"
 }

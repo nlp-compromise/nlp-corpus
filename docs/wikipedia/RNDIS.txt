@@ -1,0 +1,15 @@
+The Remote Network Driver Interface Specification (RNDIS) is a Microsoft proprietary protocol used mostly on top of USB. It provides a virtual Ethernet link to most versions of the Windows, Linux, and FreeBSD operating systems. A partial RNDIS specification is available from Microsoft, but Windows implementations have been observed to issue requests not included in that specification, and to have undocumented constraints.
+
+The protocol is tightly coupled to Microsoft's programming interfaces and models, most notably the Network Driver Interface Specification (NDIS), which are alien to operating systems other than Windows. This complicates implementing RNDIS on non-Microsoft operating systems, but Linux, FreeBSD, NetBSD and OpenBSD implement RNDIS natively.
+
+The USB Implementers Forum (USB-IF) defines at least three non-proprietary USB communications device class (CDC) protocols with comparable "virtual Ethernet" functionality; one of them (CDC-ECM) predates RNDIS and is widely used for interoperability with non-Microsoft operating systems, but does not work with Windows.
+
+Some versions of Android include RNDIS USB functionality, while more recent versions (such as Nexus 6P in September 2016) do not.
+
+
+
+
+ * Remote NDIS (RNDIS) and Windows
+
+
+ * Ethernet over USB

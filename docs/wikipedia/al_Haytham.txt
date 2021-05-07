@@ -1,0 +1,466 @@
+Ibn al-Haytham (latinized Alhazen full name Abū ʿAlī al-Ḥasan ibn al-Ḥasan ibn al-Haytham أبو علي، الحسن بن الحسن بن الهيثم; ) was a mathematician, astronomer, and physicist of the Islamic Golden Age. He made significant contributions to the principles of optics and visual perception in particular, his most influential work being his Kitāb al-Manāẓir (كتاب المناظر, "Book of Optics"), written during 1011&ndash;1021, survived in the Latin edition. He was also an early proponent of the concept that a hypothesis must be proved by experiments based on confirmable procedures or mathematical evidence, as such anticipating the scientific method.
+
+Born in Basra, he spent most of his productive period in the Fatimid capital of Cairo and earned his living authoring various treatises and tutoring members of the nobilities.
+
+Ibn al-Haytham is also sometimes given the byname al-Baṣrī after his birthplace, or al-Miṣrī ("of Egypt"). In Latin tradition, he was occasionally nicknamed Ptolemaeus secundus (the "Second Ptolemy") or simply as "The Physicist". Ibn al-Haytham paved the way for the modern science of physical optics.
+
+Ibn al-Haytham (Alhazen) was born c. 965 to an Arab family in Basra, Iraq, which was at the time under Shia rule (Buyid emirate). He held a position with the title vizier in his native Basra, and made a name for himself for his knowledge of applied mathematics. As he claimed to be able to regulate the flooding of the Nile, he was invited to by Fatimid Caliph al-Hakim in order to realise a hydraulic project at Aswan. However, Ibn al-Haytham was forced to concede the impracticability of his project. Upon his return to Cairo, he was given an administrative post. After he proved unable to fulfill this task as well, he contracted the ire of the caliph Al-Hakim bi-Amr Allah, and is said to have been forced into hiding until the caliph's death in 1021, after which his confiscated possessions were returned to him. Legend has it that Alhazen feigned madness and was kept under house arrest during this period. During this time, he wrote his influential Book of Optics. Alhazen continued to live in Cairo, in the neighborhood of the famous University of al-Azhar, and lived from the proceeds of his literary production until his death in c. 1040.
+
+Among his students were Sorkhab (Sohrab), a Persian from Semnan, and Abu al-Wafa Mubashir ibn Fatek, an Egyptian prince.
+
+Alhazen's most famous work is his seven-volume treatise on optics Kitab al-Manazir (Book of Optics), written from 1011 to 1021.
+
+Optics was translated into Latin by an unknown scholar at the end of the 12th century or the beginning of the 13th century. It was printed by Friedrich Risner in 1572, with the title Opticae thesaurus: Alhazeni Arabis libri septem, nuncprimum editi; Eiusdem liber De Crepusculis et nubium ascensionibus (English : Thesaurus of Optics: seven books of the Arab Alhazeni, first edition: concerning twilight and the advancement of clouds). Risner is also the author of the name variant "Alhazen"; before Risner he was known in the west as Alhacen, which is the correct transcription of the Arabic name. This work enjoyed a great reputation during the Middle Ages. Works by Alhazen on geometric subjects were discovered in the Bibliothèque nationale in Paris in 1834 by E. A. Sedillot. In all, A. Mark Smith has accounted for 18 full or near-complete manuscripts, and five fragments, which are preserved in 14 locations, including one in the Bodleian Library at Oxford, and one in the library of Bruges.
+
+
+
+Two major theories on vision prevailed in classical antiquity. The first theory, the emission theory, was supported by such thinkers as Euclid and Ptolemy, who believed that sight worked by the eye emitting rays of light. The second theory, the intromission theory supported by Aristotle and his followers, had physical forms entering the eye from an object. Previous Islamic writers (such as al-Kindi) had argued essentially on Euclidean, Galenist, or Aristotelian lines. The strongest influence on the Book of Optics was from Ptolemy's Optics, while the description of the anatomy and physiology of the eye was based on Galen's account. Alhazen's achievement was to come up with a theory that successfully combined parts of the mathematical ray arguments of Euclid, the medical tradition of Galen, and the intromission theories of Aristotle. Alhazen's intromission theory followed al-Kindi (and broke with Aristotle) in asserting that "from each point of every colored body, illuminated by any light, issue light and color along every straight line that can be drawn from that point". This however left him with the problem of explaining how a coherent image was formed from many independent sources of radiation; in particular, every point of an object would send rays to every point on the eye. What Alhazen needed was for each point on an object to correspond to one point only on the eye. He attempted to resolve this by asserting that the eye would only perceive perpendicular rays from the object—for any one point on the eye only saw the ray that reached it directly, without being refracted by any other part of the eye, would be perceived. He argued using a physical analogy that perpendicular rays were stronger than oblique rays; in the same way that a ball thrown directly at a board might break the board, whereas a ball thrown obliquely at the board would glance off, perpendicular rays were stronger than refracted rays, and it was only perpendicular rays which were perceived by the eye. As there was only one perpendicular ray that would enter the eye at any one point, and all these rays would converge on the centre of the eye in a cone, this allowed him to resolve the problem of each point on an object sending many rays to the eye; if only the perpendicular ray mattered, then he had a one-to-one correspondence and the confusion could be resolved. He later asserted (in book seven of the Optics) that other rays would be refracted through the eye and perceived as if perpendicular.
+
+His arguments regarding perpendicular rays do not clearly explain why only perpendicular rays were perceived; why would the weaker oblique rays not be perceived more weakly? His later argument that refracted rays would be perceived as if perpendicular does not seem persuasive. However, despite its weaknesses, no other theory of the time was so comprehensive, and it was enormously influential, particularly in Western Europe: Directly or indirectly, his De Aspectibus (Book of Optics) inspired much activity in optics between the 13th and 17th centuries. Kepler's later theory of the retinal image (which resolved the problem of the correspondence of points on an object and points in the eye) built directly on the conceptual framework of Alhazen.
+
+Alhazen showed through experiment that light travels in straight lines, and carried out various experiments with lenses, mirrors, refraction, and reflection. His analyses of reflection and refraction considered the vertical and horizontal components of light rays separately.
+
+The camera obscura was known to the ancient Chinese, and was described by the Han Chinese polymathic genius Shen Kuo in his scientific book Dream Pool Essays, published in the year 1088 C.E.. Aristotle had discussed the basic principle behind it in his Problems, however Alhazen's work also contained the first clear description, outside of China, of camera obscura in the areas of the middle east, Europe, Africa and India. and early analysis of the device.
+
+Alhazen studied the process of sight, the structure of the eye, image formation in the eye, and the visual system. Ian P. Howard argued in a 1996 Perception article that Alhazen should be credited with many discoveries and theories previously attributed to Western Europeans writing centuries later. For example, he described what became in the 19th century Hering's law of equal innervation. He wrote a description of vertical horopters 600 years before Aguilonius that is actually closer to the modern definition than Aguilonius's—and his work on binocular disparity was repeated by Panum in 1858. Craig Aaen-Stockdale, while agreeing that Alhazen should be credited with many advances, has expressed some caution, especially when considering Alhazen in isolation from Ptolemy, who Alhazen was extremely familiar with. Alhazen corrected a significant error of Ptolemy regarding binocular vision, but otherwise his account is very similar; Ptolemy also attempted to explain what is now called Hering's law. In general, Alhazen built on and expanded the optics of Ptolemy. In a more detailed account of Ibn al-Haytham's contribution to the study of binocular vision based on Lejeune and Sabra, Raynaud showed that the concepts of correspondence, homonymous and crossed diplopia were in place in Ibn al-Haytham's optics. But contrary to Howard, he explained why Ibn al-Haytham did not give the circular figure of the horopter and why, by reasoning experimentally, he was in fact closer to the discovery of Panum's fusional area than that of the Vieth-Müller circle. In this regard, Ibn al-Haytham's theory of binocular vision faced two main limits: the lack of recognition of the role of the retina, and obviously the lack of an experimental investigation of ocular tracts.
+
+Alhazen's most original contribution was that after describing how he thought the eye was anatomically constructed, he went on to consider how this anatomy would behave functionally as an optical system. His understanding of pinhole projection from his experiments appears to have influenced his consideration of image inversion in the eye, which he sought to avoid. He maintained that the rays that fell perpendicularly on the lens (or glacial humor as he called it) were further refracted outward as they left the glacial humor and the resulting image thus passed upright into the optic nerve at the back of the eye. He followed Galen in believing that the lens was the receptive organ of sight, although some of his work hints that he thought the retina was also involved.
+
+Alhazen's synthesis of light and vision adhered to the Aristotelian scheme, exhaustively describing the process of vision in a logical, complete fashion.
+
+"The duty of the man who investigates the writings of scientists, if learning the truth is his goal, is to make himself an enemy of all that he reads, and ... attack it from every side. He should also suspect himself as he performs his critical examination of it, so that he may avoid falling into either prejudice or leniency."
+
+- Alhazen
+
+An aspect associated with Alhazen's optical research is related to systemic and methodological reliance on experimentation (i'tibar)(Arabic: إعتبار) and controlled testing in his scientific inquiries. Moreover, his experimental directives rested on combining classical physics (ilm tabi'i) with mathematics (ta'alim; geometry in particular). This mathematical-physical approach to experimental science supported most of his propositions in Kitab al-Manazir (The Optics; De aspectibus or Perspectivae) and grounded his theories of vision, light and colour, as well as his research in catoptrics and dioptrics (the study of the reflection and refraction of light, respectively).
+
+According to Matthias Schramm, Alhazen "was the first to make a systematic use of the method of varying the experimental conditions in a constant and uniform manner, in an experiment showing that the intensity of the light-spot formed by the projection of the moonlight through two small apertures onto a screen diminishes constantly as one of the apertures is gradually blocked up." G. J. Toomer expressed some skepticism regarding Schramm's view, arguing that caution is needed to avoid reading anachronistically particular passages in Alhazen's very large body of work, because at the time (1964), his Book of Optics had not yet been fully translated from Arabic. While acknowledging Alhazen's importance in developing experimental techniques, Toomer argued that Alhazen should not be considered in isolation from other Islamic and ancient thinkers. Toomer does concede that "Schramm sums up [Alhazen's] achievement in the development of scientific method." Toomer 1964 lists, as a precondition, what is needed for historians to investigate Schramm's claim (1963) that Ibn al-Haytham was the true founder of modern physics, is translations of Ibn al-Haytham.
+
+Mark Smith recounts Alhazen's elaboration of Ptolemy's experiments in double vision, reflection, and refraction: Alhazen's Optics book influenced the Perspectivists in Europe, Roger Bacon, Witelo, and Peckham. The Optics was incorporated into Risner's 1572 printing of Opticae Thesaurus, through which Kepler finally resolved the contradictions inherent in Witelo's explanation of the imaging chain, from external object to the retina of the eye.
+
+His work on catoptrics in Book V of the Book of Optics contains a discussion of what is now known as Alhazen's problem, first formulated by Ptolemy in 150 AD. It comprises drawing lines from two points in the plane of a circle meeting at a point on the circumference and making equal angles with the normal at that point. This is equivalent to finding the point on the edge of a circular billiard table at which a player must aim a cue ball at a given point to make it bounce off the table edge and hit another ball at a second given point. Thus, its main application in optics is to solve the problem, "Given a light source and a spherical mirror, find the point on the mirror where the light will be reflected to the eye of an observer." This leads to an equation of the fourth degree. This eventually led Alhazen to derive a formula for the sum of fourth powers, where previously only the formulas for the sums of squares and cubes had been stated. His method can be readily generalized to find the formula for the sum of any integral powers, although he did not himself do this (perhaps because he only needed the fourth power to calculate the volume of the paraboloid he was interested in). He used his result on sums of integral powers to perform what would now be called an integration, where the formulas for the sums of integral squares and fourth powers allowed him to calculate the volume of a paraboloid. Alhazen eventually solved the problem using conic sections and a geometric proof. His solution was extremely long and complicated and may not have been understood by mathematicians reading him in Latin translation. Later mathematicians used Descartes' analytical methods to analyse the problem, with a new solution being found in 1997 by the Oxford mathematician Peter M. Neumann. Recently, Mitsubishi Electric Research Laboratories (MERL) researchers Amit Agrawal, Yuichi Taguchi and Srikumar Ramalingam solved the extension of Alhazen's problem to general rotationally symmetric quadric mirrors including hyperbolic, parabolic and elliptical mirrors. They showed that the mirror reflection point can be computed by solving an eighth degree equation in the most general case. If the camera (eye) is placed on the axis of the mirror, the degree of the equation reduces to six. Alhazen's problem can also be extended to multiple refractions from a spherical ball. Given a light source and a spherical ball of certain refractive index, the closest point on the spherical ball where the light is refracted to the eye of the observer can be obtained by solving a tenth degree equation.
+
+The Kitab al-Manazir (Book of Optics) describes several experimental observations that Alhazen made and how he used his results to explain certain optical phenomena using mechanical analogies. He conducted experiments with projectiles and concluded that only the impact of perpendicular projectiles on surfaces was forceful enough to make them penetrate, whereas surfaces tended to deflect oblique projectile strikes. For example, to explain refraction from a rare to a dense medium, he used the mechanical analogy of an iron ball thrown at a thin slate covering a wide hole in a metal sheet. A perpendicular throw breaks the slate and passes through, whereas an oblique one with equal force and from an equal distance does not. He also used this result to explain how intense, direct light hurts the eye, using a mechanical analogy: Alhazen associated 'strong' lights with perpendicular rays and 'weak' lights with oblique ones. The obvious answer to the problem of multiple rays and the eye was in the choice of the perpendicular ray, since only one such ray from each point on the surface of the object could penetrate the eye.
+
+Sudanese psychologist Omar Khaleefa has argued that Alhazen should be considered the founder of experimental psychology, for his pioneering work on the psychology of visual perception and optical illusions. Khaleefa has also argued that Alhazen should also be considered the "founder of psychophysics", a sub-discipline and precursor to modern psychology. Although Alhazen made many subjective reports regarding vision, there is no evidence that he used quantitative psychophysical techniques and the claim has been rebuffed.
+
+Alhazen offered an explanation of the Moon illusion, an illusion that played an important role in the scientific tradition of medieval Europe. Many authors repeated explanations that attempted to solve the problem of the Moon appearing larger near the horizon than it does when higher up in the sky. Alhazen argued against Ptolemy's refraction theory, and defined the problem in terms of perceived, rather than real, enlargement. He said that judging the distance of an object depends on there being an uninterrupted sequence of intervening bodies between the object and the observer. When the Moon is high in the sky there are no intervening objects, so the Moon appears close. The perceived size of an object of constant angular size varies with its perceived distance. Therefore, the Moon appears closer and smaller high in the sky, and further and larger on the horizon. Through works by Roger Bacon, John Pecham and Witelo based on Alhazen's explanation, the Moon illusion gradually came to be accepted as a psychological phenomenon, with the refraction theory being rejected in the 17th century. Although Alhazen is often credited with the perceived distance explanation, he was not the first author to offer it. Cleomedes (c. undefined 2nd century) gave this account (in addition to refraction), and he credited it to Posidonius (c. undefined 135-50 BC). Ptolemy may also have offered this explanation in his Optics, but the text is obscure. Alhazen's writings were more widely available in the Middle Ages than those of these earlier authors, and that probably explains why Alhazen received the credit.
+
+
+
+Besides the Book of Optics, Alhazen wrote several other treatises on the same subject, including his Risala fi l-Daw’ (Treatise on Light). He investigated the properties of luminance, the rainbow, eclipses, twilight, and moonlight. Experiments with mirrors and magnifying lenses provided the foundation for his theories on catoptrics.
+
+Alhazen discussed the physics of the celestial region in his Epitome of Astronomy, arguing that Ptolemaic models must be understood in terms of physical objects rather than abstract hypotheses—in other words that it should be possible to create physical models where (for example) none of the celestial bodies would collide with each other. The suggestion of mechanical models for the Earth centred Ptolemaic model "greatly contributed to the eventual triumph of the Ptolemaic system among the Christians of the West". Alhazen's determination to root astronomy in the realm of physical objects was important, however, because it meant astronomical hypotheses "were accountable to the laws of physics", and could be criticised and improved upon in those terms.
+
+He also wrote Maqala fi daw al-qamar (On the Light of the Moon).
+
+In his work, Alhazen discussed theories on the motion of a body. In his Treatise on Place, Alhazen disagreed with Aristotle's view that nature abhors a void, and he used geometry in an attempt to demonstrate that place (al-makan) is the imagined three-dimensional void between the inner surfaces of a containing body.
+
+
+
+In his On the Configuration of the World Alhazen presented a detailed description of the physical structure of the earth:"The earth as a whole is a round sphere whose center is the center of the world. It is stationary in its [the world's] middle, fixed in it and not moving in any direction nor moving with any of the varieties of motion, but always at rest."
+
+The book is a non-technical explanation of Ptolemy's Almagest, which was eventually translated into Hebrew and Latin in the 13th and 14th centuries and subsequently had an influence on astronomers such as Georg von Peuerbach during the European Middle Ages and Renaissance.
+
+In his Al-Shukūk ‛alā Batlamyūs, variously translated as Doubts Concerning Ptolemy or Aporias against Ptolemy, published at some time between 1025 and 1028, Alhazen criticized Ptolemy's Almagest, Planetary Hypotheses, and Optics, pointing out various contradictions he found in these works, particularly in astronomy. Ptolemy's Almagest concerned mathematical theories regarding the motion of the planets, whereas the Hypotheses concerned what Ptolemy thought was the actual configuration of the planets. Ptolemy himself acknowledged that his theories and configurations did not always agree with each other, arguing that this was not a problem provided it did not result in noticeable error, but Alhazen was particularly scathing in his criticism of the inherent contradictions in Ptolemy's works. He considered that some of the mathematical devices Ptolemy introduced into astronomy, especially the equant, failed to satisfy the physical requirement of uniform circular motion, and noted the absurdity of relating actual physical motions to imaginary mathematical points, lines and circles:
+
+"Ptolemy assumed an arrangement (hay'a) that cannot exist, and the fact that this arrangement produces in his imagination the motions that belong to the planets does not free him from the error he committed in his assumed arrangement, for the existing motions of the planets cannot be the result of an arrangement that is impossible to exist... [F]or a man to imagine a circle in the heavens, and to imagine the planet moving in it does not bring about the planet's motion."
+
+Having pointed out the problems, Alhazen appears to have intended to resolve the contradictions he pointed out in Ptolemy in a later work. Alhazen believed there was a "true configuration" of the planets that Ptolemy had failed to grasp. He intended to complete and repair Ptolemy's system, not to replace it completely. In the Doubts Concerning Ptolemy Alhazen set out his views on the difficulty of attaining scientific knowledge and the need to question existing authorities and theories:
+
+"Truth is sought for itself [but] the truths, [he warns] are immersed in uncertainties [and the scientific authorities (such as Ptolemy, whom he greatly respected) are] not immune from error..."
+
+He held that the criticism of existing theories—which dominated this book—holds a special place in the growth of scientific knowledge.
+
+Alhazen's The Model of the Motions of Each of the Seven Planets was written c. undefined 1038. Only one damaged manuscript has been found, with only the introduction and the first section, on the theory of planetary motion, surviving. (There was also a second section on astronomical calculation, and a third section, on astronomical instruments.) Following on from his Doubts on Ptolemy, Alhazen described a new, geometry-based planetary model, describing the motions of the planets in terms of spherical geometry, infinitesimal geometry and trigonometry. He kept a geocentric universe and assumed that celestial motions are uniformly circular, which required the inclusion of epicycles to explain observed motion, but he managed to eliminate Ptolemy's equant. In general, his model didn't try to provide a causal explanation of the motions, but concentrated on providing a complete, geometric description that could explain observed motions without the contradictions inherent in Ptolemy's model.
+
+Alhazen wrote a total of twenty-five astronomical works, some concerning technical issues such as Exact Determination of the Meridian, a second group concerning accurate astronomical observation, a third group concerning various astronomical problems and questions such as the location of the Milky Way; Alhazen argued for a distant location, based on the fact that it does not move in relation to the fixed stars. The fourth group consists of ten works on astronomical theory, including the Doubts and Model of the Motions discussed above.
+
+In mathematics, Alhazen built on the mathematical works of Euclid and Thabit ibn Qurra and worked on "the beginnings of the link between algebra and geometry."
+
+He developed a formula for summing the first 100 natural numbers, using a geometric proof to prove the formula.
+
+Alhazen explored what is now known as the Euclidean parallel postulate, the fifth postulate in Euclid's Elements, using a proof by contradiction, and in effect introducing the concept of motion into geometry. He formulated the Lambert quadrilateral, which Boris Abramovich Rozenfeld names the "Ibn al-Haytham–Lambert quadrilateral".
+
+In elementary geometry, Alhazen attempted to solve the problem of squaring the circle using the area of lunes (crescent shapes), but later gave up on the impossible task. The two lunes formed from a right triangle by erecting a semicircle on each of the triangle's sides, inward for the hypotenuse and outward for the other two sides, are known as the lunes of Alhazen; they have the same total area as the triangle itself.
+
+Alhazen's contributions to number theory include his work on perfect numbers. In his Analysis and Synthesis, he may have been the first to state that every even perfect number is of the form 2n−1(2n − 1) where 2n − 1 is prime, but he was not able to prove this result; Euler later proved it in the 18th century.
+
+Alhazen solved problems involving congruences using what is now called Wilson's theorem. In his Opuscula, Alhazen considers the solution of a system of congruences, and gives two general methods of solution. His first method, the canonical method, involved Wilson's theorem, while his second method involved a version of the Chinese remainder theorem.
+
+Alhazen discovered the sum formula for the fourth power, using a method that could be generally used to determine the sum for any integral power. He used this to find the volume of a paraboloid. He could find the integral formula for any polynomial without having developed a general formula.
+
+
+
+Alhazen also wrote a Treatise on the Influence of Melodies on the Souls of Animals, although no copies have survived. It appears to have been concerned with the question of whether animals could react to music, for example whether a camel would increase or decrease its pace.
+
+In engineering, one account of his career as a civil engineer has him summoned to Egypt by the Fatimid Caliph, Al-Hakim bi-Amr Allah, to regulate the flooding of the Nile River. He carried out a detailed scientific study of the annual inundation of the Nile River, and he drew plans for building a dam, at the site of the modern-day Aswan Dam. His field work, however, later made him aware of the impracticality of this scheme, and he soon feigned madness so he could avoid punishment from the Caliph.
+
+In his Treatise on Place, Alhazen disagreed with Aristotle's view that nature abhors a void, and he used geometry in an attempt to demonstrate that place (al-makan) is the imagined three-dimensional void between the inner surfaces of a containing body. Abd-el-latif, a supporter of Aristotle's philosophical view of place, later criticized the work in Fi al-Radd ‘ala Ibn al-Haytham fi al-makan (A refutation of Ibn al-Haytham’s place) for its geometrization of place.
+
+Alhazen also discussed space perception and its epistemological implications in his Book of Optics. In "tying the visual perception of space to prior bodily experience, Alhazen unequivocally rejected the intuitiveness of spatial perception and, therefore, the autonomy of vision. Without tangible notions of distance and size forcorrelation, sight can tell us next to nothing about such things."
+
+Alhazen's religious affiliation is unknown. As a Sunni, he may have been either a follower of the Ash'ari school, or a follower of the Mu'tazili school. Sabra (1978) even suggested he might have been an adherent of Shia Islam.
+
+Alhazen wrote a work on Islamic theology in which he discussed prophethood and developed a system of philosophical criteria to discern its false claimants in his time. He also wrote a treatise entitled Finding the Direction of Qibla by Calculation in which he discussed finding the Qibla, where prayers (salat) are directed towards, mathematically.
+
+There are occasional references to theology or religious sentiment in his technical works, e.g.in Doubts Concerning Ptolemy: "Truth is sought for its own sake ... Finding the truth is difficult, and the road to it is rough. For the truths are plunged in obscurity. ... God, however, has not preserved the scientist from error and has not safeguarded science from shortcomings and faults. If this had been the case, scientists would not have disagreed upon any point of science..."
+
+In The Winding Motion: "From the statements made by the noble Shaykh, it is clear that he believes in Ptolemy's words in everything he says, without relying on a demonstration or calling on a proof, but by pure imitation (taqlid); that is how experts in the prophetic tradition have faith in Prophets, may the blessing of God be upon them. But it is not the way that mathematicians have faith in specialists in the demonstrative sciences."
+
+Regarding the relation of objective truth and God: "I constantly sought knowledge and truth, and it became my belief that for gaining access to the effulgence and closeness to God, there is no better way than that of searching for truth and knowledge."
+
+According to medieval biographers, Alhazen wrote more than 200 works on a wide range of subjects, of which at least 96 of his scientific works are known. Most of his works are now lost, but more than 50 of them have survived to some extent. Nearly half of his surviving works are on mathematics, 23 of them are on astronomy, and 14 of them are on optics, with a few on other subjects. Not all his surviving works have yet been studied, but some of the ones that have are given below.
+
+
+ * 1) Book of Optics (كتاب المناظر)
+ * 2) Analysis and Synthesis (مقالة في التحليل والتركيب)
+ * 3) Balance of Wisdom (ميزان الحكمة)
+ * 4) Corrections to the Almagest (تصويبات على المجسطي)
+ * 5) Discourse on Place (مقالة في المكان)
+ * 6) Exact Determination of the Pole (التحديد الدقيق للقطب)
+ * 7) Exact Determination of the Meridian (رسالة في الشفق)
+ * 8) Finding the Direction of Qibla by Calculation (كيفية حساب اتجاه القبلة)
+ * 9) Horizontal Sundials (المزولة الأفقية)
+ * 10) Hour Lines
+ * 11) Doubts Concerning Ptolemy (شكوك على بطليموس)
+ * 12) Maqala fi'l-Qarastun (مقالة في قرسطون)
+ * 13) On Completion of the Conics (إكمال المخاريط)
+ * 14) On Seeing the Stars (رؤية الكواكب)
+ * 15) On Squaring the Circle (مقالة فی تربیع الدائرة)
+ * 16) On the Burning Sphere ( المرايا المحرقة بالدوائر)
+ * 17) On the Configuration of the World (تكوين العالم)
+ * 18) On the Form of Eclipse (مقالة فی صورة الکسوف)
+ * 19) On the Light of Stars (مقالة في ضوء النجوم)
+ * 20) On the Light of the Moon (مقالة في ضوء القمر)
+ * 21) On the Milky Way (مقالة في درب التبانة)
+ * 22) On the Nature of Shadows (كيفيات الإظلال)
+ * 23) On the Rainbow and Halo (مقالة في قوس قزح)
+ * 24) Opuscula
+ * 25) Resolution of Doubts Concerning the Almagest
+ * 26) Resolution of Doubts Concerning the Winding Motion
+ * 27) The Correction of the Operations in Astronomy
+ * 28) The Different Heights of the Planets
+ * 29) The Direction of Mecca (اتجاه القبلة)
+ * 30) The Model of the Motions of Each of the Seven Planets (نماذج حركات الكواكب السبعة)
+ * 31) The Model of the Universe (نموذج الكون)
+ * 32) The Motion of the Moon (حركة القمر)
+ * 33) The Ratios of Hourly Arcs to their Heights
+ * 34) The Winding Motion (الحركة المتعرجة)
+ * 35) Treatise on Light (رسالة في الضوء)
+ * 36) Treatise on Place (رسالة في المكان)
+ * 37) Treatise on the Influence of Melodies on the Souls of Animals (تأثير اللحون الموسيقية في النفوس الحيوانية)
+ * 38)  كتاب في تحليل المسائل الهندسية (A book in engineering analysis)
+ * 39)  الجامع في أصول الحساب (The whole in the assets of the account)
+ * 40)  قول فی مساحة الکرة (Say in the sphere)
+ * 41)  القول المعروف بالغریب فی حساب المعاملات (Saying the unknown in the calculation of transactions)
+ * 42)  خواص المثلث من جهة العمود (Triangle properties from the side of the column)
+ * 43)  رسالة فی مساحة المسجم المکافی (A message in the free space)
+ * 44)  شرح أصول إقليدس (Explain the origins of Euclid)
+ * 45)  المرايا المحرقة بالقطوع (The burning mirrors of the rainbow)
+
+
+ * 1) A Book in which I have Summarized the Science of Optics from the Two Books of Euclid and Ptolemy, to which I have added the Notions of the First Discourse which is Missing from Ptolemy's Book
+ * 2) Treatise on Burning Mirrors
+ * 3) Treatise on the Nature of [the Organ of] Sight and on How Vision is Achieved Through It
+
+Alhazen made significant contributions to optics, number theory, geometry, astronomy and natural philosophy. Alhazen's work on optics is credited with contributing a new emphasis on experiment. His main work, Kitab al-Manazir (Book of Optics), was known in the Muslim world mainly, but not exclusively, through the thirteenth-century commentary by Kamāl al-Dīn al-Fārisī, the Tanqīḥ al-Manāẓir li-dhawī l-abṣār wa l-baṣā'ir. In al-Andalus, it was used by the eleventh-century prince of the Banu Hud dynasty of Zaragossa and author of an important mathematical text, al-Mu'taman ibn Hūd. A Latin translation of the Kitab al-Manazir was made probably in the late twelfth or early thirteenth century. This translation was read by and greatly influenced a number of scholars in Christian Europe including: Roger Bacon, Robert Grosseteste, Witelo, Giambattista della Porta, Leonardo Da Vinci, Galileo Galilei, Christiaan Huygens, René Descartes, and Johannes Kepler. His research in catoptrics (the study of optical systems using mirrors) centred on spherical and parabolic mirrors and spherical aberration. He made the observation that the ratio between the angle of incidence and refraction does not remain constant, and investigated the magnifying power of a lens. His work on catoptrics also contains the problem known as "Alhazen's problem". Meanwhile in the Islamic world, Alhazen's work influenced Averroes' writings on optics, and his legacy was further advanced through the 'reforming' of his Optics by Persian scientist Kamal al-Din al-Farisi (died ca. 1320) in the latter's Kitab Tanqih al-Manazir (The Revision of [Ibn al-Haytham's] Optics). Alhazen wrote as many as 200 books, although only 55 have survived. Some of his treatises on optics survived only through Latin translation. During the Middle Ages his books on cosmology were translated into Latin, Hebrew and other languages.
+
+The impact crater Alhazen on the Moon is named in his honour, as was the asteroid 59239 Alhazen. In honour of Alhazen, the Aga Khan University (Pakistan) named its Ophthalmology endowed chair as "The Ibn-e-Haitham Associate Professor and Chief of Ophthalmology". Alhazen, by the name Ibn al-Haytham, is featured on the obverse of the Iraqi 10,000-dinar banknote issued in 2003, and on 10-dinar notes from 1982.
+
+The 2015 International Year of Light celebrated the 1000th anniversary of the works on optics by Ibn Al-Haytham.
+
+In 2014, the "Hiding in the Light" episode of Cosmos: A Spacetime Odyssey, presented by Neil deGrasse Tyson, focused on the accomplishments of Ibn al-Haytham. He was voiced by Alfred Molina in the episode.
+
+Over forty years previously, Jacob Bronowski presented Alhazen's work in a similar television documentary (and the corresponding book), The Ascent of Man. In episode 5 (The Music of the Spheres), Bronowski remarked that in his view, Alhazen was "the one really original scientific mind that Arab culture produced", whose theory of optics was not improved on till the time of Newton and Leibniz.
+
+UNESCO declared 2015 the International Year of Light and its Director-General Irina Bokova dubbed Ibn al-Haytham 'the father of optics'. Amongst others, this was to celebrate Ibn Al-Haytham's achievements in optics, mathematics and astronomy. An international campaign, created by the 1001 Inventions organisation, titled 1001 Inventions and the World of Ibn Al-Haytham featuring a series of interactive exhibits, workshops and live shows about his work, partnering with science centers, science festivals, museums, and educational institutions, as well as digital and social media platforms. The campaign also produced and released the short educational film 1001 Inventions and the World of Ibn Al-Haytham, In honour of Alhazen, the Aga Khan University (Pakistan) named its Ophthalmology endowed chair as "The Ibn-e-Haitham Associate Professor and Chief of Ophthalmology"
+
+Mark Smith's critical editions of De Aspectibus contain a Latin glossary with page numbers of each occurrence of the words, to illustrate Alhazen's experimental viewpoint. Smith shows that Alhacen was received well in the West because he reinforced the importance of the Hellenic tradition to it.
+
+has noted that Alhazen's treatment of refraction describes an experimental setup without publication of data. Ptolemy published his experimental results for refraction, in contrast. One generation before Alhazen, Ibn Sahl discovered his statement of the lengths of the hypotenuse for each incident and refracted right triangle, respectively. This is equivalent to Descartes' formulation for refraction. Alhazen's convention for describing the incident and refracted angles is still in use.
+
+
+ * "Hiding in the Light"
+ * History of mathematics
+ * History of optics
+ * History of physics
+ * History of science
+ * History of scientific method
+ * Hockney–Falco thesis
+ * Mathematics in medieval Islam
+ * Physics in medieval Islam
+ * Science in the medieval Islamic world
+ * Fatima al-Fihri
+ * Islamic Golden Age
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * . Reprinted in.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * . (Various editions.)
+
+
+
+
+
+
+ * Books I-III (2001) Vol 1 Commentary and Latin text via JSTOR;  Vol 2 English translation I:TOCp339-341, II:TOCp415-6, III:TOCp559-560, Notes 681ff, Bibl.  via JSTOR
+ * Books I-III (2001) Vol 1 Commentary and Latin text via JSTOR;  Vol 2 English translation I:TOCp339-341, II:TOCp415-6, III:TOCp559-560, Notes 681ff, Bibl.  via JSTOR
+
+
+
+
+
+
+ * Books 4-5 (2006) 95-4 Vol 1 Commentary and Latin text via JSTOR; 95-5 Vol 2 English translation IV:TOCp289-294, V:TOCp377-384, Notes, Bibl.  via JSTOR
+
+
+ * Book 6 (2008) 98(#1, section 1)— Vol 1 Commentary and Latin text  via JSTOR; 98(#1, section 2)— Vol 2 English translation VI:TOCp155-160, Notes, Bibl.  via JSTOR
+
+
+ * Book 7 (2010) 100(#3, section 1) — Vol 1 Commentary and Latin text via JSTOR;100(#3, section 2) — Vol 2  English translation VII:TOCp213-218,  Notes, Bibl.  via JSTOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * Books I-III (2001 — 91(4)) Vol 1 Commentary and Latin text via JSTOR;  — 91(5) Vol 2 English translation, Book I:TOCpp.339-341, Book II:TOCpp.415-6, Book III:TOCpp.559-560, Notes 681ff, Bibl.  via JSTOR
+
+
+ * 2 vols:   . (Philadelphia: American Philosophical Society), 2006 — 95(#2) Books 4-5 Vol 1 Commentary and Latin text  via JSTOR; 95(#3) Vol 2 English translation, Notes, Bibl.  via JSTOR
+
+
+ * Smith, A. Mark, ed. and trans. (2008) Alhacen on Image-formation and distortion in mirrors : a critical edition, with English translation and commentary, of Book 6 of Alhacen's De aspectibus, [the Medieval Latin version of Ibn al-Haytham's Kitāb al-Manāzir], Transactions of the American Philosophical Society, 2 vols: Vol 1 98(#1, section 1—  Vol 1 Commentary and Latin text);  98(#1, section 2 —  Vol 2 English translation). (Philadelphia: American Philosophical Society), 2008. Book 6 (2008)   Vol 1 Commentary and Latin text via JSTOR; Vol 2 English translation, Notes, Bibl.  via JSTOR
+ * Smith, A. Mark, ed. and trans. (2010) Alhacen on Refraction : a critical edition, with English translation and commentary, of Book 7 of Alhacen's De aspectibus, [the Medieval Latin version of Ibn al-Haytham's Kitāb al-Manāzir], Transactions of the American Philosophical Society, 2 vols: 100(#3, section 1 —  Vol 1, Introduction and Latin text); 100(#3, section 2 —  Vol 2 English translation).  (Philadelphia: American Philosophical Society), 2010.  Book 7 (2010) Vol 1 Commentary and Latin text via JSTOR;Vol 2 English translation, Notes, Bibl.  via JSTOR
+
+
+ * Belting, Hans, Afterthoughts on Alhazen’s Visual Theory and Its Presence in the Pictorial Theory of Western Perspective, in: Variantology 4. On Deep Time Relations of Arts, Sciences and Technologies In the Arabic-Islamic World and Beyond, ed. by Siegfried Zielinski and Eckhard Fürlus in cooperation with Daniel Irrgang and Franziska Latell (Cologne: Verlag der Buchhandlung Walther König, 2010), pp. 19–42.
+
+
+
+
+
+
+
+
+ * Graham, Mark. How Islam Created the Modern World. Amana Publications, 2006.
+
+
+ * Roshdi Rashed, Optics and Mathematics: Research on the history of scientific thought in Arabic, Variorum reprints, Aldershot, 1992.
+ * Roshdi Rashed, Geometry and Dioptrics the tenth century: Ibn Sahl al-Quhi and Ibn al-Haytham (in French), Les Belles Lettres, Paris, 1993
+ * Roshdi Rashed, Infinitesimal Mathematics, vols. 1-5, al-Furqan Islamic Heritage Foundation, London, 1993-2006
+
+
+ * Siegfried Zielinski & Franziska Latell, How One Sees, in: Variantology 4. On Deep Time Relations of Arts, Sciences and Technologies In the Arabic-Islamic World and Beyond, ed. by Siegfried Zielinski and Eckhard Fürlus in cooperation with Daniel Irrgang and Franziska Latell (Cologne: Verlag der Buchhandlung Walther König, 2010), pp. 19–42.
+
+
+ * (PDF version)
+ * 'A Brief Introduction on Ibn al-Haytham' based on a lecture delivered at the Royal Society in London by Nader El-Bizri
+ * Ibn al-Haytham on two Iraqi banknotes
+ * The Miracle of Light – a UNESCO article on Ibn al-Haytham
+ * Biography from Malaspina Global Portal
+ * Short biographies on several "Muslim Heroes and Personalities" including Ibn al-Haytham
+ * Biography from Trinity College (Connecticut)
+ * Biography from Molecular Expressions
+ * The First True Scientist from BBC News
+ * Over the Moon From The UNESCO Courier on the occasion of the International Year of Astronomy 2009
+ * The Mechanical Water Clock Of Ibn Al-Haytham, Muslim Heritage
+ * Alhazen's (1572) Opticae thesaurus (English) - digital facsimile from the Linda Hall Library
+ * The First True Scientist from BBC News
+ * Over the Moon From The UNESCO Courier on the occasion of the International Year of Astronomy 2009
+ * The Mechanical Water Clock Of Ibn Al-Haytham, Muslim Heritage
+ * Alhazen's (1572) Opticae thesaurus (English) - digital facsimile from the Linda Hall Library

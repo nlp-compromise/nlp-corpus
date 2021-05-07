@@ -1,0 +1,293 @@
+Mozilla Firefox (amerikanisch-englische Aussprache []), auch kurz Firefox genannt, ist ein freier Webbrowser des Mozilla-Projektes. Er wurde im September 2002 veröffentlicht. Er gehörte im Mai 2017 mit einem Anteil von 12,76 Prozent an der weltweiten Internetnutzung ohne mobile Geräte zu den zwei meistgenutzten Webbrowsern. Bezogen auf Europa liegt er mit einem Anteil von 17,42 Prozent ebenfalls auf Platz zwei. In Deutschland war er mehrere Jahre bis September 2016 der meistgenutzte Webbrowser (mobile Geräte ausgenommen). Im Mai 2017 belegte er mit einem Marktanteil von 31,84 Prozent den zweiten Platz hinter Google Chrome.
+
+Das Mozilla-Firefox-Projekt, damals noch unter dem Namen Phoenix, wurde von Dave Hyatt und Blake Ross als experimentelle Abzweigung der Mozilla Application Suite initiiert, die auf Quellcode des Netscape Communicators basiert. Die erste Veröffentlichung einer lauffähigen Version des Programms nannte sich Phoenix 0.1 und erfolgte am 23. September 2002.
+
+Im Jahr 2003 entschieden sich die Entwickler der Mozilla Application Suite zu einer strategischen Kehrtwende. Das lag unter anderem an der Entscheidung von Apple, den eigenen Webbrowser Safari auf dem KHTML-Renderer und nicht auf dem Gecko-Renderer, der von Mozilla entwickelt wird, aufzubauen.
+
+Während die Mozilla-Entwickler zuvor darauf bedacht waren, möglichst alle wichtigen Internetfunktionen wie Webbrowser, E-Mail-Programm, Adressbuch und HTML-Editor in einem Programmpaket (Mozilla Application Suite) zusammenzufassen, strebten sie nun die Veröffentlichung einzelner, voneinander unabhängiger Komponenten an. Das Ziel der Entwicklung war ein schneller Programmstart und ein geringerer Speicher- und Rechenzeitbedarf. Gleichzeitig sollte die Entwicklung der einzelnen Komponenten ausgebaut und vorangetrieben werden.
+
+Die Webbrowser-Funktion übernahm Firefox. Die E-Mail-Funktion wurde unter dem Namen Thunderbird ausgelagert. Der Kalender wurde unter dem Namen Sunbird entwickelt, welcher jedoch 2010 zugunsten der Thunderbird-Erweiterung Lightning eingestellt wurde. Der HTML-Editor wurde bis 2006 als Nvu, bis 2010 als KompoZer weiterentwickelt. Die offizielle Mozilla Application Suite 1.7 erhielt nur noch Sicherheitsaktualisierungen. Allerdings arbeitet seit Mitte 2005 ein Community-Projekt an der Weiterentwicklung der Application Suite unter dem Namen SeaMonkey.
+
+Mit XULRunner existiert eine Plattform, die die von Firefox, Thunderbird und anderen Programmen gemeinsam genutzten Funktionen enthält und damit den benötigten Speicherplatz und die Größe der Installationspakete verringern soll. Dieses Ziel wird für die offiziellen Release-Versionen nicht weiterverfolgt, stattdessen installiert sich ab Firefox 3 jede Anwendung eine eigene, private XULRunner-Umgebung.
+
+
+
+Ursprünglich wurde Mozilla Firefox unter dem Namen Phoenix entwickelt, allerdings musste dieser Name aufgrund einer Klage des US-amerikanischen BIOS-Herstellers Phoenix Technologies geändert werden. Zunächst wurde der Browser in Mozilla Firebird, aufgrund der Namensgleichheit mit der Open-Source-Datenbank Firebird mit Version 0.8 (9. Februar 2004) schließlich in Mozilla Firefox umbenannt.
+
+Firefox ist die wörtliche englische Übersetzung der chinesischen Bezeichnung. Damit wird im Allgemeinen der Rotfuchs (red fox), aber auch der rotbraune kleine Panda (red panda) bezeichnet. Zunächst wurde der Name gewählt, ohne sich auf eine der beiden Tierarten festzulegen. Der kleine Panda hatte jedoch in den Augen von Designer Jon Hicks keinen besonderen optischen Reiz, daher ließ er sich bei der Gestaltung des Logos von einer japanischen, mit „Firefox“ untertitelten Rotfuchszeichnung inspirieren.
+
+Bis Version 1.5 von Firefox wurde Fx bzw. fx als die bevorzugte Abkürzung für den Browser in den Release-Notes genannt, in späteren Release-Notes wurde dieser Hinweis weggelassen. Darüber hinaus wird jedoch auch die inoffizielle Abkürzung FF genutzt.
+
+Nach einem Namensstreit mit dem Debian-Projekt über die Nutzungsbedingungen für die Warenzeichen von Mozilla erhielt die in der Debian-Distribution enthaltene und leicht angepasste Firefox-Fassung den Namen Iceweasel. Andere Mozilla-Programme erhielten ebenfalls neue Namen, die allesamt mit Ice beginnen. Erst Anfang 2016 wurden diese Streitigkeiten beigelegt, und das Debian-Projekt verwendet seitdem wieder die ursprünglichen Namen.
+
+
+
+Ebenso wie die Mozilla Application Suite verwendet Firefox den Gecko-Renderer, ein programmübergreifendes Modul zur Darstellung von HTML-Seiten, und die XML-basierte Beschreibungssprache XUL zur Gestaltung der grafischen Benutzeroberfläche. Möglicherweise wird Firefox in Zukunft nicht mehr XUL verwenden.
+
+Firefox kann durch Motive, die die komplette Benutzerschnittstelle verändern können, und durch Personas, die zwar gegenüber den Motiven in ihrem Funktionsumfang beschränkt, aber besonders leicht zu installieren und verwenden sind, optisch an den Geschmack des Anwenders angepasst werden. Mit Erweiterungen (englisch „Add-ons“) können zudem zahlreiche Funktionen, wie z. B Mausgesten, Werbeblocker und Webentwickler-Werkzeuge, hinzugefügt werden.
+
+Ab Version 0.9 enthält Firefox ein neues Standardmotiv namens „Winstripe“, das „Qute“ als Standardmotiv ersetzt, um so allen Versionen von Firefox ein einheitliches, allenfalls an die Gegebenheiten der jeweiligen Plattform angepasstes Erscheinungsbild zu verleihen. „Winstripe“ basiert auf dem ab Version 0.8 unter Mac OS X eingesetzten „Pinstripe“-Motiv, das von Kevin Gerich und Stephen Horlander im Hinblick auf Apples Vorgaben zur Benutzerschnittstelle Apple Human Interface Guidelines entwickelt wurde.
+
+Firefox unterstützt Tabbed Browsing, worunter die Darstellung von mehreren, jeweils mit Tabs versehenen Webseiten innerhalb eines einzelnen Anwendungsfensters verstanden wird. Ab der Version 4.0 ist es möglich, über die Funktion Panorama Tabs zu gruppieren und diese Gruppen visuell darzustellen. Mit Version 45 wurde dieses Feature aufgrund geringer Nutzung wieder entfernt.
+
+Des Weiteren werden RSS-Web-Feeds in Form von dynamischen Lesezeichen unterstützt. Diese aktualisieren sich beim Start des Browsers und verkörpern eine sich selbst aktualisierende Linkliste, die in einzelnen Ordnern organisiert wird. So sieht der Anwender immer auf einen Blick aktuelle Einträge einer Nachrichtenseite oder eines Blogs. Eine Anzeige der RSS-Daten in Form einer lesbaren Webseite ist ab Version 2.0 auch ohne zusätzliche Plug-ins möglich.
+
+Firefox wird gegenwärtig in 86 Sprachen angeboten, darunter auch Deutsch. Das Programm ist freie Software und wird unter der GNU General Public License (GPL) veröffentlicht. Für die kompilierten Installationspakete gilt die GPL jedoch aus Sicht der Mozilla Foundation nur eingeschränkt. Ab Version 3 wurde bei der Installation des Browsers der Benutzer aufgefordert, einer Endbenutzer-Lizenzvereinbarung (EULA) zuzustimmen. Nach massiver Kritik an diesem Vorgehen, insbesondere aus dem Linux-Lager, wurde die EULA durch eine „Lernen Sie Ihre Rechte kennen“-Informationsleiste ersetzt, die bei der ersten Installation eingeblendet wird. Diese kann auch über die Adresszeile durch Eingabe von about:rights aufgerufen werden.
+
+Um Suchvorgänge vereinfacht über die Adressleiste abzuwickeln, können Schlüsselwörter (Shortcuts) für das Suchen definiert werden. Die Schlüsselwortsuche ist eine leichte Abwandlung der Möglichkeit, Lesezeichen Shortcuts/Schlüsselwörter zuzuweisen.
+
+In Firefox ist ein Easter Egg eingebaut. Wenn in die Adressleiste <tt>about:mozilla</tt> eingegeben wird, erscheint Das Buch Mozilla.
+
+
+
+Firefox bietet die Möglichkeit, verschiedene Erweiterungen (englisch Add-ons) und „Themes“ zu installieren, um Anwendungsfunktionen oder weitere Optionen bereitzustellen, die nicht vom eigentlichen Browser angeboten werden, oder um sein Erscheinungsbild zu verändern. Einige dieser Zusatzfunktionen werden absichtlich nicht in den Funktionsumfang des Browsers aufgenommen, damit ein verhältnismäßig schlanker Browser erhalten bleibt und auch um das Firefox-Projekt übersichtlicher zu gestalten. Bei den Erweiterungen handelte es sich bisher um Dateien im ZIP-Format, die in XUL und JavaScript geschriebene Programme enthalten. Die Verwendung von XUL und JavaScript macht diese Funktionen plattformunabhängig. Mit Firefox 4 wurde eine neue Add-on-API (bisher „Jetpack“) genannte Schnittstelle für Erweiterungen eingeführt, die sich ausschließlich auf die Websprachen HTML, JavaScript und CSS stützt und die Installation sowie das Entfernen von Erweiterungen ohne Browserneustart ermöglichen soll. Mit WebExtensions gibt es seit Version 48 ein neues Erweiterungsformat, das eine weitgehende Kompatibilität mit anderen Browsern besitzt.
+
+Unter der Bezeichnung Firefox Marketplace wurde im Oktober 2012 eine Plattform gestartet, auf der Firefox-Nutzer Anwendungen für ihren Browser herunterladen können. Der Marketplace war zunächst nur unter Firefox für Android verfügbar, soll später aber auch auf anderen Betriebssystemen nutzbar sein. Ähnlich dem Chrome Web Store basieren alle dort erhältlichen Programme auf Webstandards, sind also nicht abhängig von der jeweiligen Architektur. Zur Vorstellung waren im Firefox Marketplace unter anderem Twitter und SoundCloud erhältlich.
+
+
+
+Firefox steht aktuell für die Betriebssysteme Windows (ab Windows XP SP2), Linux und macOS ab Version 10.9 (ESR zur Zeit auch noch ab Mac OS X 10.6) zur Verfügung. Die Linux-Version benötigt zusätzlich verschiedene Pakete und Bibliotheken Dritter, die zusammen mit Firefox selbst bei der Mehrzahl der Distributionen bereits mitgeliefert werden. Nach Herstellerangaben sind die empfohlenen Systemvoraussetzungen für Windows und Linux ein Intel Pentium 4, der SSE2 unterstützt, 512 MB RAM und 200 MB Festplattenspeicher. Ab Firefox 49 wird eine SSE2-fähige CPU zwingend vorausgesetzt. Die Versionen für Mac benötigen einen Intel x86-Prozessor und ebenfalls 512 MB RAM und 200 MB Festplattenspeicher.
+
+Außer den oben genannten offiziell von Mozilla unterstützten Versionen gibt es Portierungen für Solaris (sowohl für x86- als auch Sun-SPARC-Prozessoren), OS/2 und AIX von IBM, FreeBSD, OpenBSD, PC-BSD, SkyOS, BeOS und ZETA sowie RISC OS. Eine Portierung auf weitere Plattformen ist durch die Quelloffenheit möglich. Mittlerweile ist auch eine Portable Edition für die Nutzung auf externen Speichermedien (zum Beispiel externen Festplatten, USB-Sticks oder Speicherkarten) für Windows erhältlich. Darüber hinaus sind für verschiedene Plattformen optimierte Versionen verfügbar, die eine schnellere Reaktionszeit und geringeren Speicherbedarf zu erreichen versuchen. Für Smartphones hat Mozilla Firefox Mobile entwickelt, welcher unter Android läuft.
+
+Um Mozilla Firefox auch besser auf Windows-8-Tablets und anderen Windows-8-Geräten nutzen zu können, hat Mozilla außerdem eine Modern-UI-Version, vorher als Metro bekannt, angekündigt. Diese sollte, wie alle Apps für Windows 8, für Touchscreens optimiert sein. Aufgrund des geringen öffentlichen Interesses an Modern UI und somit auch an einer für diese Oberfläche optimierten Version und einer geringen Anzahl an Beta-Testern wurde die Entwicklung eingestellt und das Projekt abgebrochen.
+
+Bei einer Untersuchung der Unterstützung der W3C-Standards (sogenannte Empfehlungen) erreichte Firefox in der Version 35 eine Quote von 90 % der getesteten Eigenschaften. Zum Vergleich: Safari 8 erreichte 90 % der Eigenschaften, 92 % Google Chrome 40 sowie Opera 26 und 85 % Internet Explorer 11.
+
+Mozilla plant, die Unterstützung für Windows XP und Windows Vista auslaufen zu lassen. Firefox 53 soll beide Plattformen nicht mehr unterstützen. Die Installationen würden bei der Aktualisierung ab der Version 52 automatisch auf die ESR-Version migriert.
+
+Früher wurde jeweils nach der Veröffentlichung einer neuen Hauptversion die vorherige noch eine Zeit lang mit Aktualisierungen versorgt. Im März 2010 wurde mit Version 3.0.19 die Unterstützung und Weiterentwicklung des Zweiges 3.0 und im April 2012 mit Version 3.6.28 die des Zweiges 3.6 eingestellt und ein neuer Versionszyklus eingeführt.
+
+Seitdem erschienen Sicherheits- und Stabilitätsaktualisierungen nur noch in Ausnahmefällen. Stattdessen wurde die nächste Hauptversion mit neuen oder aktualisierten sowie geänderten Funktionen zugleich als Sicherheits- und Stabilitätsaktualisierung behandelt. Dieses Vorgehen rief Kritik hervor, da es „Unternehmen nicht zumutbar (sei), alle sechs Wochen auf eine neue Browser-Version umzustellen, nur um Sicherheitslecks zu stopfen“. Hingegen sahen Befürworter dieses Vorgehens in der schnellen Versorgung mit neuen Funktionen und Unterstützung neuer Webtechniken auch Vorteile, vor allem für Heimanwender.
+
+Als Reaktion auf die Kritik veröffentlichte die Mozilla Corporation für Unternehmen, Bildungseinrichtungen und Behörden Anfang 2012 mit Version Firefox 10 ESR wiederum eine sogenannte Extended-Support-Release-Ausgabe (deutsch: Version mit verlängerter Unterstützung). Sie enthielt, wie davor Version 3.6, keine neuen Funktionen, sondern allein Fehler- und Sicherheitsupdates. Mit jeder siebten Firefox-Hauptversion – also im Abstand von etwa 54 Wochen – wird das bisherige ESR durch eine neue Version ersetzt. So erschienen bislang die Firefox-ESR-Versionen 17 (Ende 2012), 24 (Herbst 2013), 31 (Juli 2014), 45 (April 2016) und 52 (März 2017).
+
+Folgende Tabelle enthält nur die wichtigsten Versionen von Mozilla Firefox, ab Version 4 insbesondere die sogenannten ESR-Versionen (Extended Support Release), die über einen längeren Zeitraum mit Sicherheitsaktualisierungen versorgt werden. Eine detaillierte Auflistung aller veröffentlichten Hauptversionen, einschließlich der Vorabversionen und der Sicherheits- und Stabilitätsaktualisierungen, ist im Hauptartikel verfügbar.
+
+{| class="wikitable" ! Browsername ! Gecko- Version ! Version ! Codename ! Veröffentlichung ! Anmerkungen und relevante Änderungen
+ * - class="hintergrundfarbe5"
+ * Phoenix
+ * 1.2
+ * Pescadero
+ * Erste Version; anpassbare Symbolleiste, Schnellsuche, gleichzeitige Darstellung mehrerer Dokumente innerhalb eines Anwendungsfensters (Tabbed Browsing).
+ * Firebird
+ * 1.5
+ * Glendale
+ * Neuerungen: Namensänderung in „Firebird“, neues Standardmotiv (Theme) namens „Qute“, Verbesserungen der Benutzeroberfläche, erste Version für macOS.
+ * rowspan="2" | Firefox
+ * 1.6
+ * Royal Oak
+ * Neuerungen: Namensänderung in „Firefox“, Installationsprogramm für Windows, Verbesserungen der Benutzeroberfläche, neues Standardmotiv (Theme) für Mac OS X namens „Pinstripe“.
+ * 1.7
+ * Phoenix
+ * Neuerungen: RSS-Web-Feeds, Suchleiste, Funktion zum Suchen nach Plug-ins.
+ * Firefox 1.5
+ * 1.8
+ * Deer Park
+ * Neuerungen: Unterstützung für SVG und Canvas, Verbesserungen in JavaScript 1.5 und CSS 2/3, neue Funktionen „Private Daten löschen“ und „Fehlerhafte Website melden“, schnellere Navigation, Verschieben von Tabs per Drag and Drop, verbesserter Pop-up-Blocker, neues Update-System, Anpassungen der Benutzeroberfläche an Windows XP.
+ * Firefox 2
+ * 1.8.1
+ * Bon Echo
+ * Neuerungen: integrierter Phishing-Schutz, Rechtschreibprüfung, automatisches Wiederherstellen der letzten Sitzung nach Browser-Absturz (Session Restore), automatische Suchvorschläge, überarbeitete Update-Funktion und Feedreader-Integration.
+ * Firefox 3
+ * 1.9
+ * Gran Paradiso
+ * Neuerungen: neue plattformspezifische Standardmotive (Themes) für die Benutzeroberfläche, Verbesserungen der Benutzeroberfläche, Umstellung auf die Grafikbibliothek Cairo, Unterstützung des APNG-Grafikformats und von Farbprofilen, verbesserter Schutz vor Schadsoftware, verbesserte Geschwindigkeit der JavaScript-Engine.
+ * Firefox 3.5
+ * 1.9.1
+ * Shiretoko
+ * Neuerungen: verbesserte Unterstützung von Webstandards, Unterstützung der HTML5-Elemente <tt> </tt>, <tt> </tt> und <tt> </tt> in Verbindung mit nativer Unterstützung der Codecs Vorbis und Theora im Ogg-Containerformat, Realisierung der in HTML5 definierten Methoden zur Offline-Datenspeicherung, Integration von standortbezogenem Browsing, verbesserte Kontrolle der Privatsphäre, neue JavaScript-Engine TraceMonkey.
+ * rowspan="2" | Firefox 3.6
+ * rowspan="2" | 1.9.2
+ * rowspan="2" | Namoroka
+ * Neuerungen: verbesserte Unterstützung von Webstandards, Integration der Personas-Erweiterung zum schnellen Wechseln von Browserstilen, Unterstützung für Bewegungssensoren, verbesserte Geschwindigkeit von Browser und JavaScript-Engine, Schutz vor inkompatiblen oder fehlerhaften Plug-ins, verbesserte Unterstützung für HTML5, Unterstützung des Web Open Font Formats.
+ * Letzte Version vor Verzicht auf Unterversionen bei der Nummerierung; wie spätere ESR parallel zu neueren Versionszweigen gepflegt; Sicherheits- und Stabilitätsaktualisierung.
+ * Firefox 4
+ * 2.0
+ * Tumucumaque
+ * Neuerungen: weitgehend überarbeitete Benutzeroberfläche, Integration der Erweiterungen Sync (früher Weave Sync genannt) und Panorama (früher TabCandy genannt), Webentwicklerwerkzeug „Web-Konsole“ zum Aufspüren von Fehlern in Webseiten, neue JavaScript-Engine JägerMonkey, hardwarebeschleunigte Darstellung von Benutzeroberfläche und Webinhalten, neuer HTML5-Parser, Unterstützung von WebM, WebGL und Multi-Touch-Gesten, allgemeine Verbesserungen von Geschwindigkeit und Stabilität; Apple-Computer mit PowerPC-Architektur werden nicht mehr unterstützt; dafür erste offizielle 64-Bit-Version für Mac OS X und Linux.
+ * Firefox 10
+ * rowspan="2" | 10.0
+ * rowspan="2" |
+ * Neuerungen: Verbesserung der Kompatibilität von Add-ons („Silent Update“), kleinere Fehler sollen via nachinstalliertes Add-on behoben werden und so kein komplettes Update mit neuer Versionsnummer voraussetzen, Integration eines Code-Editors direkt in Firefox („Orion code editor“), weitere Verbesserungen an der Web-Konsole, Möglichkeit der Untersuchung und Bearbeitung von CSS-Eigenschaften eines HTML-Elements durch Webentwickler, Verbesserungen der Geschwindigkeit beim Seitenaufbau, Implementierung von Antialiasing für WebGL, Implementierung der „Full Screen APIs“ zur Darstellung von Webanwendungen im Vollbildmodus, Implementierung von 3D-Transformationen mittels CSS3, Verbesserungen im Setup des Synchronisierungsdienstes. Firefox 10 ist die erste ESR-Version (Extended Support Release) speziell für Firmen, akademische Einrichtungen und Behörden. Sie bietet neun Monate Updates mit Fixes für kritische und sicherheitsrelevante Fehler.
+ * Firefox ESR 10
+ * Sicherheitsaktualisierungen; zuvor erschienen die Aktualisierungen 10.0.1 bis 10.0.11. Letzte „ESR“-Version für Windows 2000 und XP (SP2).
+ * Firefox 17
+ * rowspan="2" | 17.0
+ * rowspan="2" |
+ * Neuerungen: Unterstützung für Windows 8 und für die Mitteilungszentrale von OS X Mountain Lion, „Click-to-play“-Plugin-Blocker, größere Icons in der Awesome-Bar, Integration einer HSTS-Hosts-Liste, Sandbox-Technik (Schutz vor iframes), Social-API-Schnittstelle (Facebook-Integration), Leistungsverbesserungen, Sicherheitsaktualisierungen.
+ * Firefox ESR 17
+ * Sicherheitsaktualisierungen; zuvor erschienen die Aktualisierungen 17.0.2 bis 17.0.10.
+ * Firefox 24
+ * rowspan="2" | 24.0
+ * rowspan="2" |
+ * Neuerungen: Alle Tabs rechts vom Mausklick können nun geschlossen werden; Chat-Fenster lassen sich nun separat darstellen; Verbesserung der Browser-Konsole; Verbesserung beim Rendern von SVG-Dateien
+ * Firefox ESR 24
+ * Außerplanmäßige Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 24.0
+ * Firefox 31
+ * rowspan="2" | 31.0
+ * rowspan="2" |
+ * Seit Firefox 27 ist das Verschlüsselungsprotokoll TLS 1.2 standardmäßig aktiviert. Ab Version 28 kann Firefox VP9 und Opus decodieren. In Firefox 29 wurde die Bedienoberfläche stark überarbeitet; das neue Design orientierte sich an Googles Webbrowser Chrome und wurde Australis genannt.
+ * Firefox ESR 31
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 31.0
+ * Firefox 38
+ * rowspan="2"|38.0
+ * rowspan="2" |
+ * In Firefox 33 wurde Ciscos offenen H.264-Codec integriert; in Version 34 der WebRTC-Client „Hello“. Seit Firefox 36 wird HTTP/2 unterstützt. Ab Version 37 setzt Firefox auf eine zentrale Sperrliste für nicht vertrauenswürdige Zertifikate. In Version 38 wurde eine digitale Rechteverwaltung für geschützte HTML5-Videos integriert.
+ * Firefox ESR 38
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 38.0
+ * Firefox 45
+ * rowspan="2" | 45.0
+ * rowspan="2" |
+ * In Version 39 wurden veraltete Verschlüsselungsverfahren entfernt (SSLv3 und RC4). Ab Version 40 warnt Firefox vor unsignierten Erweiterungen und bringt eine leicht Veränderte Oberfläche für Windows 10 mit. In Firefox 42 wurde ein Schutz vor Nutzerverfolgung durch Werbenetzwerke hinzugefügt. Ab Version 43 werden unsignierte Erweiterungen blockiert. Firefox 45 entfernte die Funktion, Tabs zu gruppieren und brachte Verbesserungen bei der Synchronisierung von Tabs.
+ * Firefox ESR 45
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 45.0
+ * Firefox 52
+ * rowspan="2"|52.0
+ * rowspan="2"|
+ * In Firefox 48 wurde die neue Multiprozess- ) möglich.
+ * Firefox ESR 10
+ * Sicherheitsaktualisierungen; zuvor erschienen die Aktualisierungen 10.0.1 bis 10.0.11. Letzte „ESR“-Version für Windows 2000 und XP (SP2).
+ * Firefox 17
+ * rowspan="2" | 17.0
+ * rowspan="2" |
+ * Neuerungen: Unterstützung für Windows 8 und für die Mitteilungszentrale von OS X Mountain Lion, „Click-to-play“-Plugin-Blocker, größere Icons in der Awesome-Bar, Integration einer HSTS-Hosts-Liste, Sandbox-Technik (Schutz vor iframes), Social-API-Schnittstelle (Facebook-Integration), Leistungsverbesserungen, Sicherheitsaktualisierungen.
+ * Firefox ESR 17
+ * Sicherheitsaktualisierungen; zuvor erschienen die Aktualisierungen 17.0.2 bis 17.0.10.
+ * Firefox 24
+ * rowspan="2" | 24.0
+ * rowspan="2" |
+ * Neuerungen: Alle Tabs rechts vom Mausklick können nun geschlossen werden; Chat-Fenster lassen sich nun separat darstellen; Verbesserung der Browser-Konsole; Verbesserung beim Rendern von SVG-Dateien
+ * Firefox ESR 24
+ * Außerplanmäßige Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 24.0
+ * Firefox 31
+ * rowspan="2" | 31.0
+ * rowspan="2" |
+ * Seit Firefox 27 ist das Verschlüsselungsprotokoll TLS 1.2 standardmäßig aktiviert. Ab Version 28 kann Firefox VP9 und Opus decodieren. In Firefox 29 wurde die Bedienoberfläche stark überarbeitet; das neue Design orientierte sich an Googles Webbrowser Chrome und wurde Australis genannt.
+ * Firefox ESR 31
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 31.0
+ * Firefox 38
+ * rowspan="2"|38.0
+ * rowspan="2" |
+ * In Firefox 33 wurde Ciscos offenen H.264-Codec integriert; in Version 34 der WebRTC-Client „Hello“. Seit Firefox 36 wird HTTP/2 unterstützt. Ab Version 37 setzt Firefox auf eine zentrale Sperrliste für nicht vertrauenswürdige Zertifikate. In Version 38 wurde eine digitale Rechteverwaltung für geschützte HTML5-Videos integriert.
+ * Firefox ESR 38
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 38.0
+ * Firefox 45
+ * rowspan="2" | 45.0
+ * rowspan="2" |
+ * In Version 39 wurden veraltete Verschlüsselungsverfahren entfernt (SSLv3 und RC4). Ab Version 40 warnt Firefox vor unsignierten Erweiterungen und bringt eine leicht Veränderte Oberfläche für Windows 10 mit. In Firefox 42 wurde ein Schutz vor Nutzerverfolgung durch Werbenetzwerke hinzugefügt. Ab Version 43 werden unsignierte Erweiterungen blockiert. Firefox 45 entfernte die Funktion, Tabs zu gruppieren und brachte Verbesserungen bei der Synchronisierung von Tabs.
+ * Firefox ESR 45
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 45.0
+ * Firefox 52
+ * rowspan="2"|52.0
+ * rowspan="2"|
+ * In Firefox 48 wurde die neue Multiprozess- ) möglich.
+ * Firefox ESR 31
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 31.0
+ * Firefox 38
+ * rowspan="2"|38.0
+ * rowspan="2" |
+ * In Firefox 33 wurde Ciscos offenen H.264-Codec integriert; in Version 34 der WebRTC-Client „Hello“. Seit Firefox 36 wird HTTP/2 unterstützt. Ab Version 37 setzt Firefox auf eine zentrale Sperrliste für nicht vertrauenswürdige Zertifikate. In Version 38 wurde eine digitale Rechteverwaltung für geschützte HTML5-Videos integriert.
+ * Firefox ESR 38
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 38.0
+ * Firefox 45
+ * rowspan="2" | 45.0
+ * rowspan="2" |
+ * In Version 39 wurden veraltete Verschlüsselungsverfahren entfernt (SSLv3 und RC4). Ab Version 40 warnt Firefox vor unsignierten Erweiterungen und bringt eine leicht Veränderte Oberfläche für Windows 10 mit. In Firefox 42 wurde ein Schutz vor Nutzerverfolgung durch Werbenetzwerke hinzugefügt. Ab Version 43 werden unsignierte Erweiterungen blockiert. Firefox 45 entfernte die Funktion, Tabs zu gruppieren und brachte Verbesserungen bei der Synchronisierung von Tabs.
+ * Firefox ESR 45
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 45.0
+ * Firefox 52
+ * rowspan="2"|52.0
+ * rowspan="2"|
+ * In Firefox 48 wurde die neue Multiprozess- ) möglich.
+ * Firefox 45
+ * rowspan="2" | 45.0
+ * rowspan="2" |
+ * In Version 39 wurden veraltete Verschlüsselungsverfahren entfernt (SSLv3 und RC4). Ab Version 40 warnt Firefox vor unsignierten Erweiterungen und bringt eine leicht Veränderte Oberfläche für Windows 10 mit. In Firefox 42 wurde ein Schutz vor Nutzerverfolgung durch Werbenetzwerke hinzugefügt. Ab Version 43 werden unsignierte Erweiterungen blockiert. Firefox 45 entfernte die Funktion, Tabs zu gruppieren und brachte Verbesserungen bei der Synchronisierung von Tabs.
+ * Firefox ESR 45
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 45.0
+ * Firefox 52
+ * rowspan="2"|52.0
+ * rowspan="2"|
+ * In Firefox 48 wurde die neue Multiprozess- ) möglich.
+ * Letzte Sicherheitsaktualisierungen zur ESR-Version auf Basis der Version 45.0
+ * Firefox 52
+ * rowspan="2"|52.0
+ * rowspan="2"|
+ * In Firefox 48 wurde die neue Multiprozess- ) möglich.
+ * rowspan="2"|
+ * In Firefox 48 wurde die neue Multiprozess- ) möglich.
+ * In Firefox 48 wurde die neue Multiprozess- ) möglich.
+
+Bereits im Jahre 2009 existierten von Linux-Distributoren erstellte 64-Bit-Varianten von Firefox für Linux.
+
+Neben der offiziellen 32-Bit-Variante von Firefox bot Mozilla für Windows zu Testzwecken eine 64-Bit-Variante der Developer Edition zum Download an. Die erste Beta-Version dieser Variante wurde mit Firefox 38 am 3. April 2015 veröffentlicht. Gleichzeitig boten Projekte wie „Waterfox“, „Cyberfox“ oder „Pale Moon“ aus dem Quellcode von Firefox erzeugte, inoffizielle 64-Bit-Versionen an.
+
+Seit Version 42 veröffentlicht Mozilla stabile 64-Bit-Versionen von Firefox für Windows. Diese unterstützen, anders als die 32-Bit-Varianten, keine NPAPI-Plugins mehr.
+
+Mozilla selbst nimmt keine Codeoptimierungen für spezielle Prozessoren vor. Von Mozilla Firefox existieren, ebenso wie von Mozilla Thunderbird, jedoch zahlreiche inoffizielle Versionen (Builds) für verschiedene Betriebssysteme.
+
+Ein Grund ist die Optimierung für bestimmte Plattformen (etwa SSE2-Builds für Pentium-4-Prozessoren). In Kombination mit Techniken wie der profilgesteuerten Optimierung, die neuere C++-Compiler unterstützen, lassen sich Reaktionszeit und Speicherbedarf deutlich verbessern, mithin steigt die Geschwindigkeit des Browsers. Dennoch ist auch die Verwendung solcher inoffizieller Versionen kein Garant für ein schnelleres Surfen, vereinzelt kommt es auch zu Geschwindigkeitseinbußen.
+
+
+
+Bei einem Absturz des Programms wird ein Bericht erstellt. Er enthält unter anderem die Namen der installierten Add-ons und Informationen zum verwendeten System (Prozessorbezeichnung, verwendetes Betriebssystem usw.) Die Angabe der Website, um die es konkret geht, kann durch den Benutzer hingegen unterdrückt werden. Dieser Bericht ist für die Entwickler bestimmt, um mögliche Fehler auszubessern. Das Versenden muss vom Benutzer explizit bestätigt werden.
+
+Zum Schutz vor Phishing und Malware werden besuchte Internetseiten und Signaturen vom Benutzer heruntergeladener Anwendungsprogramme automatisch mit einer lokal gespeicherten Liste verdächtig gemeldeter Seiten und Dateien eines anderen Herstellers, in der Voreinstellung Google, abgeglichen, die ungefähr halbstündig aktualisiert wird.
+
+Die automatische Softwareaktualisierung des Programms speichert ein Cookie namens „aus“, das einen einzigartigen numerischen Wert zur Unterscheidung der einzelnen Firefox-Installationen enthält. Es besteht die Möglichkeit, dies in den Einstellungen zu unterbinden.
+
+Um Drittinhalte zu blockieren gleicht Firefox URLs mit einer Liste des Unternehmens Disconnect.Me ab.
+
+2015 hat Mozilla den Firefox-Browser für Windows 10 angepasst. Windows 10 bietet u. a. eine integrierte Internetsuche. Die von dieser Suchfunktion verwendete Suchmaschine lässt sich nicht direkt über die Windows-Einstellungen auswählen. Mozilla wurde dafür kritisiert, dass diese Suchmaschine umgestellt wird, sobald Firefox als Standardbrowser in Verwendung ist und dessen eigene Standardsuchmaschine von der von Windows bevorzugten abweicht. Der Benutzer kann dieser Änderung nicht zustimmen oder sie ablehnen, er wird noch nicht einmal auf diese Umstellung hingewiesen.
+
+2014 wurde Mozilla dafür kritisiert, dass eine Unterstützung für Encrypted Media Extensions, einen Kopierschutz für Multimedia, in Firefox für Windows integriert wurde. Mozilla argumentierte, dieser Kopierschutz werde bei vielen großen Streaming-Diensten genutzt und es sei nötig, ihn zu unterstützen, damit Firefox im Vergleich mit anderen Webbrowsern, in denen diese Unterstützung bereits durchgängig implementiert sei, nicht ins Hintertreffen gerate. Kritiker verwiesen darauf, dass für die Implementierung des Kopierschutzes Quellcode verwendet werde, der nicht quelloffen sei. Dies verletze die Grundsätze von Open-Source-Software. Die Mozilla Foundation wurde auch dafür kritisiert, dass sie für hohe finanzielle Zuwendungen von Google ihre früheren Ideale gefährde oder bereits aufgegeben habe.
+
+Ältere Versionen von Mozilla Firefox wurden wiederholt wegen eines als zu hoch empfundenen Bedarfs an Systemressourcen kritisiert. Die Entwickler gaben an, dass dieses Verhalten zum Teil gewollt sei, so würden ab Version 1.5 zur schnelleren Navigation mehr geöffnete Seiten zwischengespeichert, wenn auf dem System ausreichend Ressourcen verfügbar seien. Die Version 3.0 des Browsers wurde unter anderem auf die Verringerung des Ressourcenverbrauchs hin optimiert. Der Erfolg dieser Maßnahmen wurde in einem Vergleichstest des IT-Nachrichten-Portals ZDNet.de bestätigt. Aus einem von der Website Lifehacker.com veröffentlichten Benchmark ging eine Vorabversion von Mozilla Firefox 4.0 als der am wenigsten Arbeitsspeicher benötigende Browser hervor.
+
+Die genaue Verbreitung eines Webbrowsers lässt sich nur schwer verlässlich messen. Unterschiedliche Statistiken haben für die Verbreitung von Firefox folgende Werte ergeben:
+
+Laut einer Untersuchung des französischen Unternehmens AT Internet Institute benutzten im März 2008 35 Prozent der deutschen Surfer Mozilla Firefox. In Österreich konnte sich der Browser einen Anteil von 32,6 Prozent und in der Schweiz einen Anteil von 26,4 Prozent sichern. Spitzenreiter waren Finnland (45,9 Prozent), Polen (44 Prozent) und Slowenien (43,7 Prozent).
+
+Das deutsche IT- und TK-Nachrichtenportal Golem.de ermittelte im Oktober 2009 unter seinen Lesern einen Marktanteil von 58,3 Prozent. Nach eigenen Angaben richtet sich das Angebot von Golem.de aber primär an „professionelle Computeranwender“, die Zahlen sind also nicht repräsentativ.
+
+Auch der IT-Nachrichtendienst Heise online verzeichnet einen überproportional hohen Anteil alternativer Webbrowser unter seinen Lesern. Im Juli 2007 bevorzugten erstmals mehr als die Hälfte der Heise-online-Leser Mozilla Firefox.
+
+Im deutschsprachigen Raum ist Firefox seit Mitte 2009 der meistgenutzte Browser. Im April 2013 hielt er in Deutschland einen Marktanteil von 39,3 Prozent und lag damit vor dem Internet Explorer von Microsoft (22 Prozent).
+
+Im Jahr 2010 hatte Firefox weltweit einen Marktanteil von über 30 Prozent. Seitdem geht der Anteil kontinuierlich zurück; im Mai 2015 betrug er 16,3 Prozent.
+
+Um die Verbreitung des freien Browsers Firefox zu fördern und sich im Browserkrieg behaupten zu können, veranstaltete Mozilla mehrere sogenannte „Download Days“, die das Ziel hatten, möglichst viele Downloads in einer möglichst kurzen Zeit zu erreichen. Mehrmals konnte sich das Projekt dabei selbst übertreffen. Es hält den Weltrekord der meisten Software-Downloads innerhalb von 24 Stunden.
+
+Anlässlich der Herausgabe der ersten Vorschauversion des Firefox 1.0 im September 2004 setzte sich Mozilla das Ziel, eine Million Downloads in zehn Tagen zu erreichen; bereits nach vier Tagen gelang dies. Mit der Veröffentlichung der endgültigen Version 1.0 im November 2004 wurde diese Marke bereits am ersten Tag durchbrochen. Knapp ein halbes Jahr später, am 19. Oktober 2005, wurden insgesamt 100 Millionen Downloads gezählt. Die Version 2.0 wurde nach Angaben des Herstellers innerhalb von 24 Stunden nach Freigabe von über zwei Millionen Menschen heruntergeladen.
+
+Im Zuge der Veröffentlichung der Version 3.0 rief Mozilla im Sommer 2008 zum „Download Day“ auf, um damit den Weltrekord der meisten Software-Downloads innerhalb von 24 Stunden aufzustellen. Dieses Ziel wurde mit weltweit 8.002.530 Downloads erreicht und in das Guinness-Buch der Rekorde aufgenommen.
+
+Während die Zahl der Downloads zur Veröffentlichung der Version 1.0 noch exponentiell stieg, entwickelte sie seitdem einen eher linearen Verlauf. Bis April 2010 wurden über 1,3 Milliarden Downloads verzeichnet.
+
+
+
+Die Mozilla Foundation hatte 2010 Jahreseinnahmen von 123 Millionen US-Dollar, davon etwa 100 Millionen aus einem Sponsoringvertrag mit Google. Im Dezember 2011 wurde der Vertrag bis zum Jahr 2014 verlängert. Festgelegt ist eine jährliche Zahlung in Höhe von etwa 300 Millionen Dollar. Im Gegenzug veröffentlicht Mozilla seine Browser mit Google als Standardsuchmaschine. Darüber hinaus wirkten IT-Fachkräfte von Google bei der Entwicklung von Mozillas Webbrowsern mit.
+
+Zur offiziellen Freigabe der Version 1.0 schaltete die US-Initiative Spread Firefox am 16. Dezember 2004 eine doppelseitige Anzeige in der New York Times, die über Spenden finanziert wurde. Mehr als 10.000 Personen oder Familien spendeten innerhalb von zehn Tagen jeweils zwischen 10 und 45 Dollar, wofür sie namentlich in der Anzeige erwähnt wurden. Insgesamt kamen so 250.000 Dollar zusammen.
+
+In Deutschland wurde durch einen Aufruf unter dem Namen „Firefox kommt“ eine Werbeaktion durch Spenden finanziert. Die Anzeige erschien am 2. Dezember 2004 in der Frankfurter Allgemeinen Zeitung und anderen überregionalen Zeitungen.
+
+Seit 2014 versucht Mozilla, seine finanzielle Abhängigkeit von Google zu verringern. Anfang 2014 kündigte Darren Herman an, Firefox werde in Zukunft Werbung in den Tiles anzeigen, sie solle allerdings klar gekennzeichnet werden. Mitte November 2014 zeigte daraufhin die stabile Version des Firefox erstmals auch bei bestehenden Nutzern Werbung in den Tiles an, bei Nutzern der Vorabversionen und neuen Nutzern war das schon früher der Fall. Auch wurde Ende November 2014 die Standardsuchmaschine von Firefox in den Regionen USA (Yahoo), Russland (Yandex) und China (Baidu) geändert. Im November 2015 hieß es, aktuell habe Mozilla gar keine Kooperation mit Google bei den Suchmaschinen.
+
+
+ * Liste von Webbrowsern
+
+
+
+
+ * Webbrowser Firefox auf Deutsch – offizielle deutsche Website
+ * Firefox-Erweiterungen – offizielle Programm-Erweiterungen für den Mozilla Firefox
+ * Offizielle Personas-Erweiterungswebsite
+ * Offizielle Firefox-Onlinehilfe
+ * Firefox Marketplace
+ * Offizielle Downloadseite von Entwicklerversionen des Mozilla Firefox
+ * Camp Firefox – Die Firefox-Community – offizielle deutsche Firefox-Community-Website mit aktuellen Informationen rund um den Browser Firefox
+ * Firefox ESR für Unternehmen und große Organisationen
+ * Firefox in einem Unternehmen nutzen enthält unter anderem Hinweise zur Konfiguration des Mozilla Firefox ähnlich der Möglichkeiten mit Windows Group Policy Object (GPO)
+

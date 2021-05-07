@@ -1,0 +1,141 @@
+
+
+Software License Agreement
+
+This Software License Agreement is made on [AGREEMENT DATE] between [LICENSOR NAME], a [CORPORATE JURISDICTION] corporation with its principal place of business at [LICENSOR ADDRESS] ("[PARTY A]") and [LICENSEE NAME], a [CORPORATE JURISDICTION] corporation with its principal place of business at [LICENSEE ADDRESS] ("[[PARTY B]").
+
+The parties agree to the terms of this agreement.
+License Grant
+Software License. hereby grants to [PARTY B] [an exclusive / a non-exclusive], [transferable / non-transferable], [sublicensable / non-sublicensable], [revocable / irrevocable] license (the "[DELIVERABLE]") to use the Software.
+No Other Rights. [PARTY A] reserves for itself all other rights and interest not explicitly granted under this agreement.
+Software. "Software" means [SHORT DESCRIPTION OF SOFTWARE] the software described in the [[ATTACHMENT], attached to this agreement.
+Training and Support Services
+Training. [PARTY A] shall, at [PARTY A]'s expense, provide [PARTY B]'s employees with the initial training services necessary and desirable to operate the Software, as further described in the [ATTACHMENT], attached to this agreement, at [PARTY B]'s offices and [on days and times the parties agree to in writing.]
+Support
+Initial Support. For the [12] month period beginning on the Effective Date, and at [PARTY A]'s own expense, [PARTY A] shall provide [PARTY B] with 
+telephone or electronic support during [PARTY A]'s normal business hours in order to help [PARTY B] locate and correct problems with the Software, and
+internet-based support system generally available seven days a week, twenty-four hours a day. 
+Renewed Support. After the initial [12] month support period, [PARTY B] may elect to renew [PARTY A]'s support services under this paragraph [SUPPORT] for additional [12] month periods, at [[PARTY A]'s then-current service rates.
+Updates and Maintenance Services
+Updates. [PARTY A] shall provide [PARTY B], at [PARTY A]'s sole expense, with all updates, extensions, enhancement, modifications, and other changes [PARTY A] makes or adds to the Software and which [PARTY A] offers to other licensees of the Software.
+Fixes and Patches. [PARTY A] shall provide [PARTY B], at [PARTY A]'s sole expense, with bug fixes and code corrections to correct Software malfunctions and defects in order to bring the Software into substantial conformity with its operating specifications.
+Exceptions. [PARTY A] may, but will not be required to, provide these maintenance services if [[PARTY B] has modified the Software or is in default.
+License Fees. [PARTY B] will pay [PARTY A] the license fee of $[LICENSE FEE] / listed in [ATTACHMENT] (the "License Fee").
+Payment. [PARTY B] will pay the License Fee to [PARTY A] (a) in full, (b) due on [DATE, MONTH], (c) in immediately available funds, and to the account [PARTY A] lists immediately below:
+Account Number:
+Routing Number:
+Taxes. [PARTY B] will pay all Taxes applicable to payments between the parties under this agreement. 
+Interest on Late Payments. Any amount not paid when due will bear interest from the due date until paid at a rate equal to [1]% per month ([[12.68]% annually) or the maximum allowed by Law, whichever is less.
+Restricted Uses. [PARTY B] will not
+distribute, license, loan, or sell the Software or other content that is contained or displayed in it,
+modify, alter, or create any derivative works from the Software,
+reverse engineer, decompile, decode, decrypt, disassemble, or derive any source code from the Software,
+remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Software.
+Permitted Uses
+Installation. [PARTY B] may install and use the Software solely for [personal, non-commercial][internal business] use.
+Evaluation Use. If [PARTY B] has ordered an evaluation license, [PARTY B] may use the Software only for evaluation purposes and only during the applicable evaluation period. 
+Server Deployment. [PARTY B] may install [NUMBER OF SERVER COPIES] of copies of the Software on an internal file server for purposes of downloading and installing the Software on licensed computers within the same internal network.
+Home Use. [PARTY B] may install a copy of the Software on a personal or home computer, provided both copies of the Software are not used at the same time.
+Backup and Archival Copies. [[PARTY B] may make one copy of the Software solely for backup or archival purposes.
+Term. This agreement begins on [Effective Date / DATE, MONTH] and will continue until terminated (the "Term").
+Representations
+Mutual Representations
+Existence. The parties are corporations incorporated and existing under the laws of the jurisdictions of their respective incorporation.
+Authority and Capacity. The parties have the authority and capacity to enter into this agreement.
+Execution and Delivery. The parties have duly executed and delivered this agreement.
+Enforceability. This agreement constitutes a legal, valid, and binding obligation, enforceable against the parties according to its terms.
+No Conflicts. Neither party is under any restriction or obligation that the party could reasonably expect might affect the party's performance of its obligations under this agreement.
+No Breach. Neither party’s execution, delivery, or performance of its obligations under this agreement will breach or result in a default under
+its articles, bylaws, or any unanimous shareholders agreement,
+any Law to which it is subject,
+any judgment, Order, or decree of any Governmental Authority to which it is subject, or
+any agreement to which it is a party or by which it is bound.
+Permits, Consents, and Other Authorizations. Each party holds all Permits and other authorizations necessary to
+own, lease, and operate its properties, and
+conduct its business as it is now carried on.
+No Disputes or Proceedings. [Except as disclosed in the parties respective Disclosure Schedules] There are no Legal Proceedings pending, threatened, or foreseeable against either party, which would affect that party’s ability to complete its obligations under this agreement.
+No Bankruptcy. Neither party has taken or authorized any proceedings related to that party’s bankruptcy, insolvency, liquidation, dissolution, or winding up.
+[PARTY A]'s Representations
+Disclosure Schedule. [PARTY A]'s Disclosure Schedule lists any exceptions to its representations.
+Ownership of Intellectual Property. Except as disclosed in [PARTY A]'s Disclosure Schedule [PARTY A]
+is the owner of all Intellectual Property rights included in the Software and granted under in the [DELIVERABLE], and
+has the exclusive right to grant the [DELIVERABLE].
+Maintenance of Intellectual Property. [PARTY A] has properly maintained all its Intellectual Property rights licensed under the [DELIVERABLE], including paying all applicable registration and maintenance fees.
+No Prior Grant or Transfer. [PARTY A] has not granted and is not obligated to grant any license t>o any third party that would conflict with the DELIVERABLE] under this agreement
+No Infringement. To [PARTY A]'s Knowledge, The [Software] does not infringe the Intellectual Property rights or other rights of any third party.
+No Third Party Infringement. Except as disclosed in [PARTY A]'s Disclosure Schedule To [PARTY A]'s Knowledge, no third party is infringing its Intellectual Property rights in the [Software].
+Not in Public Domain. The [Software] is not in the public domain.
+No Warranty
+"As-Is". The [Licensed] Software is provided "as is," with all faults, defects, bugs, and errors.
+No Warranty. Unless otherwise listed in this agreement,
+[PARTY A] does not make any warranty regarding the [Licensed] Software, which includes that 
+[PARTY A] disclaims to the [fullest] extent authorized by Law any and all [other] warranties, whether express or implied, including any implied warranties of [[title, non-infringement, quiet enjoyment, integration,] merchantability or fitness for a particular purpose.
+Intellectual Property. [PARTY A] will retain exclusive interest in and ownership of its Intellectual Property rights in and to the Software and expressly reserves all rights not expressly granted under this agreement.
+Compliance with Laws. Each party will
+comply with all applicable Laws relating to [SUBJECT MATTER OF AGREEMENT], and
+notify the other party if it becomes aware of any non-compliance in connection with this section.
+Confidentiality Obligations. The parties continue to be bound by the terms of the non-disclosure agreement between the parties, dated [DATE] and attached to this agreement on [[ATTACHMENT].
+Publicity
+Consent. Neither party will use the other party's name, logo, or trademarks, or issue any press release or public announcement regarding this agreement, without the other party's written consent, unless specifically permitted under this agreement or required by Law.
+Cooperation. The parties will cooperate to draft all appropriate press releases and other public announcements relating to the subject matter of this agreement and the relationship between the parties.
+No Unreasonable Delay. The parties will not unreasonably withhold or delay their consent to press releases or public announcements.
+Termination
+Termination on Notice. Either party may terminate this agreement for any reason on [TERMINATION NOTICE BUSINESS DAYS] Business Days’ notice to the other party.
+Termination for Material Breach. Each party may terminate this agreement with immediate effect by delivering notice of the termination to the other party, if
+the other party fails to perform, has made or makes any inaccuracy in, or otherwise materially breaches, any of its obligations, covenants, or representations, and
+the failure, inaccuracy, or breach continues for a period of [[BREACH CONTINUATION DAYS] Business Days' after the injured party delivers notice to the breaching party reasonably detailing the breach.
+Effect of Termination
+Payment Obligations. On the expiration or termination of this agreement, each party shall
+pay any amounts it owes to the other party, including payment obligations for services already rendered, work already performed, goods already delivered, or expenses already incurred, and
+refund any payments received but not yet earned, including payments for services not rendered, work not performed, or goods not delivered, expenses forwarded.
+Termination of License Grant. On the expiration or termination of this agreement the [DELIVERABLE] granted under this agreement will terminate with immediate effect.
+Return of Property. On termination or expiration of this agreement, or on [PARTY A]'s request, [PARTY B] will
+return to [PARTY A] all originals of the information and other property, including Intellectual Property, it received from [PARTY A],
+destroy all copies of such information and other property it has in its possession or control, and
+on [PARTY A]'s request, certify to [PARTY A] in writing that it destroyed all such copies.
+Indemnification
+Indemnification by [PARTY B]. [PARTY B] [(as an indemnifying party) ]shall indemnify [PARTY A] [ against all losses and expenses in connection with any proceeding arising out of
+'s use of the Software, and
+'s unauthorized customization, modification, or other alterations to the Software, including claims that its customization, modification, or other alterations infringe a third party's Intellectual Property rights, 
+Mutual Indemnification. Each party (as an indemnifying party) shall indemnify the other (as an indemnified party) against all losses in connection with any proceeding arising out of the indemnifying party's willful misconduct or gross negligence.
+Notice and Failure to Notify
+Notice Requirement. Before bringing a claim for indemnification, the indemnified party shall
+notify the indemnifying party of the indemnifiable proceeding, and
+deliver to the indemnifying party all legal pleadings and other documents reasonably necessary to indemnify or defend the indemnifiable proceeding.
+Failure to Notify. If the indemnified party fails to notify the indemnifying party of the indemnifiable proceeding, the indemnifying will be relieved of its indemnification obligations to the extent it was prejudiced by the indemnified party's failure.
+Exclusive Remedy. The parties' right to indemnification is the exclusive remedy available in connection with the indemnifiable proceedings described in this section [INDEMNIFICATION].
+Limitation on Liability. Neither party will be liable for breach-of-contract damages that are remote or speculative, or that the breaching party could not reasonably have foreseen on entry into this agreement.
+General Provisions
+Entire Agreement. The parties intend that this agreement, together with all attachments, schedules, exhibits, and other documents that both are referenced in this agreement and refer to this agreement,
+represent the final expression of the parties' intent relating to the subject matter of this agreement,
+contain all the terms the parties agreed to relating to the subject matter, and
+replace all of the parties' previous discussions, understandings, and agreements relating to the subject matter of this agreement.
+Counterparts
+Signed in Counterparts. This agreement may be signed in any number of counterparts.
+All Counterparts Original. Each counterpart is an original.
+Counterparts Form One Document. Together, all counterparts form one single document.
+Amendment. This agreement can be amended only by a writing signed by both parties.
+Assignment. Neither party may assign this agreement or any of their rights or obligations under this agreement without the other party's written consent.
+Notices
+Method of Notice. The parties will give all notices and communications between the parties in writing by (i) personal delivery, (ii) a nationally-recognized, next-day courier service, (iii) first-class registered or certified mail, postage prepaid to the address that a party has notified to be that party's address for the purposes of this section.
+Receipt of Notice. A notice given under this agreement will be effective on
+the other party's receipt of it, or
+if mailed, the earlier of the other party's receipt of it and the fifth business day after mailing it. 
+Governing Law and Consent to Jurisdiction and Venue
+Governing Law. This agreement, and any dispute arising out of the [SUBJECT MATTER OF THE AGREEMENT], shall be governed by the laws of the State of [GOVERNING LAW STATE].
+Consent to Jurisdiction. Each party hereby irrevocably consents to the [exclusive, non-exclusive] jurisdiction and venue of any [state or federal] court located within [VENUE COUNTY] County, State of [VENUE STATE], in connection with any matter arising out of this [agreement / plan] or the transactions contemplated under this [.
+Consent to Service. Each party hereby irrevocably
+agrees that process may be served on it in any manner authorized by the Laws of the State of [GOVERNING LAW STATE], and 
+waives any objection which it might otherwise have to service of process under the Laws of the State of [[GOVERNING LAW STATE].
+Dispute Resolution
+Arbitration. Any dispute or controversy arising out of this agreement and [SUBJECT MATTER OF THE AGREEMENT] will be settled by arbitration in [STATE], according to the rules of the American Arbitration Association then in effect, and by [NUMBER OF ARBITRATORS] arbitrators[s].
+Judgment. Judgment may be entered on the arbitrator's award in any court having jurisdiction.
+Arbitrator's Authority. The arbitrator will not have the power to award any punitive [[or consequential] damages.
+Waiver
+Affirmative Waivers. Neither party's failure or neglect to enforce any rights under this agreement will be deemed to be a waiver of that party's rights.
+Written Waivers. A waiver or extension is only effective if it is in writing and signed by the party granting it.
+No General Waivers. A party's failure or neglect to enforce any of its rights under this agreement will not be deemed to be a waiver of that or any other of its rights.
+No Course of Dealing. No single or partial exercise of any right or remedy will preclude any other or further exercise of any right or remedy.
+Severability. If any part of this agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+
+This agreement has been signed by the parties.

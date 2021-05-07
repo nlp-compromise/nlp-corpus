@@ -1,0 +1,40 @@
+Routing and Remote Access Service (RRAS) is a Microsoft API and server software that makes it possible to create applications to administer the routing and remote access service capabilities of the operating system, to function as a network router. Developers can also use RRAS to implement routing protocols. The RRAS server functionality follows and builds upon the Remote Access Service (RAS) in Windows NT 4.0. RRAS was introduced with Windows 2000 and offered as a download for Windows NT 4.0.
+
+
+ * Multiprotocol router - The computer running RRAS can route IP, IPX, and AppleTalk simultaneously. All routable protocols are configured from the same administrative utility. RRAS included two unicast routing protocols, Routing Information Protocol (RIP) and Open Shortest Path First (OSPF) as well as IGMP routing and forwarding features for IP multicasting.
+ * Demand-dial router - IP and IPX can be routed over on-demand or persistent WAN links such as analog phone lines or ISDN, or over VPN connections.
+ * Remote access server - provides remote access connectivity to dial-up or VPN remote access clients that use IP, IPX, AppleTalk, or NetBEUI.
+
+Routing services and remote access services used to work separately. Point-to-Point Protocol (PPP), the protocol suite commonly used to negotiate point-to-point connections, has allowed them to be combined.
+
+RRAS can be used to create client applications. These applications display RAS common dialog boxes, manage remote access connections and devices, and manipulate phone-book entries.
+
+The Routing and Remote Access Service Management Pack helps a network administrator monitor the status and availability of computers running Windows Server 2008 R2.
+
+
+ * Server Manager - Application used to assist system administrators with installation, configuration, and management of other RRAS features.
+ * Secure Socket Tunneling Protocol
+ * VPN enforcement for Network Access Protection - Limits VPN connections to defined network services.
+ * IPv6 support - added PPPv6, L2TP, DHCPv6, and RADIUS technologies allowing them to work over IPv6.
+ * New cryptographic support - strengthened encryption algorithms to comply with U.S. government security requirements, in addition to removing algorithms which could not be strengthened.
+
+
+ * Bandwidth Allocation Protocol (BAP) was removed from Windows Vista, and disabled in Windows Server 2008.
+ * X.25.
+ * Serial Line Internet Protocol (SLIP). SLIP-based connections will automatically be updated to PPP-based connections.
+ * Asynchronous Transfer Mode (ATM)
+ * IP over IEEE 1394
+ * NWLink IPX/SPX/NetBIOS Compatible Transport Protocol
+ * Services for Macintosh
+ * Open Shortest Path First (OSPF) routing protocol component in Routing and Remote Access
+ * Basic Firewall in RRAS (replaced with Windows Firewall)
+ * Static IP filter APIs for RRAS (replaced with Windows Filtering Platform APIs)
+ * The SPAP, EAP-MD5-CHAP, and MS-CHAP authentication protocols for PPP-based connections.
+
+
+ * Remote Access Service
+
+
+
+
+ * Tech FAQ

@@ -1,0 +1,70 @@
+Non-Disclosure Agreement
+
+This Non-Disclosure Agreement is made on [AGREEMENT DATE] (the "Effective Date") between [, whose principal place of residence is at / a [PARTY A JURISDICTION] corporation with its principal place of business at [PARTY A ADDRESS] (the "[PARTY A]") and [PARTY B NAME], whose principal place of residence is at / a [PARTY B JURISDICTION] corporation with its principal place of business at [PARTY B ADDRESS] (the "[[PARTY B]").
+Exchange of Information. The parties agree to exchange Confidential Information for the purpose of [DESCRIBE PURPOSE] (the "Purpose") in accordance with this agreement.
+Confidential Information. "Confidential Information" means all material, non-public, business-related information, written or oral, whether or not it is marked as such, that is disclosed or made available to the receiving party, directly or indirectly, through any means of communication or observation.
+Non-Confidential Information
+
+Excluded Information. Confidential Information does not include information that without a breach of this agreement
+is already known to the receiving party,
+is or becomes publicly known,
+is or subsequently comes into the possession of the receiving party from a third party, or
+is independently developed by the receiving party without the use of Confidential Information.
+Burden of Proof. The receiving party has the burden of proof relating to all exceptions to the definition of Confidential Information.
+
+Confidentiality Obligation. The receiving party will hold the Confidential Information in confidence.
+Limitation on Use. The receiving party will use the Confidential Information only in accordance with the terms of this agreement and solely for the Purpose.
+Standard of Care. The receiving party will exercise reasonable care to protect the Confidential Information from any loss or unauthorized disclosure.
+Notice of Disclosure. The receiving party will promptly notify the disclosing party if it discovers any loss or unauthorized disclosure of Confidential Information.
+Return or Destruction of Confidential Information. On the expiration or termination of this agreement, or on the disclosing party's request, the receiving party will promptly
+
+return to the disclosing party all Confidential Information provided by the disclosing party,
+destroy all copies it made of any Confidential Information, and
+if requested by the disclosing party, deliver to the disclosing party a certificate executed by the receiving party confirming compliance with the return or destruction obligation under this section.
+
+Required Disclosure
+
+Notice of Disclosure. The receiving party may disclose Confidential Information if it is compelled by Law to disclose any Confidential Information if the receiving party
+provides the disclosing party with prompt written notice so that the disclosing party may seek a protective order or other appropriate remedy and/or waive compliance with the provisions of this agreement,
+cooperates with the disclosing party to obtain a protective order or another appropriate remedy.
+Limited Disclosure. If the parties cannot obtain a protective order, another appropriate remedy, or otherwise fail to quash the legal process requiring disclosure, the receiving party may disclose the requested Confidential Information only to the extent necessary to satisfy the request.
+
+Permitted Disclosure. The receiving party may disclose Confidential Information
+
+if and to the extent that the disclosing party consents in writing to such disclosure, or
+to the receiving party's officers, directors, employees, Affiliates, or representatives who
+have a need to know the Confidential Information,
+have been informed of the confidentiality obligations of this agreement,  and 
+agree to be bound by the term of this agreement.
+
+Term of Confidentiality
+
+Trade Secrets. In connection with Confidential Information that constitutes a trade secret, the obligation of confidentiality will continue until that information is no longer a trade secret.
+Other Confidential Information. In connection with all other Confidential Information, the obligations of this agreement will begin on the Effective Date and continue for a period of [TERM OF OBLIGATION].
+
+Ownership of Confidential Information. Each party will retain all interest and proprietary rights in
+
+the Confidential Information it discloses, and
+any information or materials, including Confidential and non-Confidential Information, and Intellectual Property, it or the other party derives from the Confidential Information it discloses.
+
+Equitable Relief
+
+Acknowledgment of Irreparable Harm. The parties acknowledge that breach or threatened breach of any of the obligations in this agreement would result in irreparable harm to the non-breaching party that cannot be adequately relieved solely by monetary damages.
+Intent to Allow for Equitable Remedies. Accordingly, the parties intend, and hereby agree that after such breach, the non-breaching party may request from a court any applicable equitable remedies, including injunctive relief, without the need to post any security.
+
+General Provisions
+
+Entire Agreement. This agreement represents the entire understanding between the parties with respect to its subject matter and supersedes any previous communication or agreements that may exist.
+Counterparts. This agreement may be executed in counterparts, each of which will be deemed to be an original, but all of which, taken together, will constitute one and the same agreement.
+Amendment. This agreement can be amended only by a writing signed by both parties.
+Notices
+Method of Notice. The parties will give all notices and communications between the parties in writing by (i) personal delivery, (ii) a nationally-recognized, next-day courier service, (iii) first-class registered or certified mail, postage prepaid to the address that a party has notified to be that party's address for the purposes of this section.
+Receipt of Notice. A notice given under this agreement will be effective on
+the other party's receipt of it, or
+if mailed, the earlier of the other party's receipt of it and the fifth business day after mailing it. 
+Assignment. Neither party may assign this agreement or any of their rights or obligations under this agreement without the other party's written consent.
+Governing Law. This agreement will be governed, construed, and enforced in accordance with the laws of the State of [GOVERNING LAW STATE], without regard to its conflict of laws rules.
+Waiver. The failure or neglect by a party to enforce any of rights under this agreement will not be deemed to be a waiver of that party's rights. 
+Severability. If any part of this agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+
+This agreement has been signed by the parties.

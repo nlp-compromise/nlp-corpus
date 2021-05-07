@@ -1,0 +1,11 @@
+Remote Data Objects (abbreviated RDO) is an obsolete data access application programming interface primarily used in Microsoft Visual Basic applications on Windows 95 and later operating systems. This includes database connection, queries, stored procedures, result manipulation, and change commits. It allowed developers to create interfaces that can directly interact with Open Database Connectivity (ODBC) data sources on remote machines, without having to deal with the comparatively complex ODBC API.
+
+Remote Data Objects was included with versions 4, 5, and 6 of Visual Basic; the final version of RDO is version 2.0.
+
+
+
+
+ * Microsoft Data Access Components
+
+
+ * Using Remote Data Objects and the RemoteData Control &mdash; Documentation on the Microsoft Developer Network
