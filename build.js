@@ -2,7 +2,7 @@ const sh = require('shelljs')
 const nlp = require('compromise')
 const fs = require('fs')
 const path = require('path')
-const max = 1500
+const max = 2000
 
 const choose = arr => {
   let r = Math.floor(Math.random() * arr.length)
@@ -21,6 +21,7 @@ let dirs = [
   './docs/lyrics/rap',
   './docs/lyrics/weezer',
   './docs/questions',
+  './docs/reviews',
   './docs/speeches/misc',
   './docs/speeches/sotu',
   './docs/stories/erowid',
@@ -56,9 +57,9 @@ const makeDoc = function (n) {
       list.push(s)
     }
   }
-  fs.writeFileSync(`./builds/${n}-doc.txt`, list.join('\n'))
+  fs.writeFileSync(`./builds/nlp-corpus-${n}.json`, JSON.stringify(list))
 }
 
-for (let i = 1; i <= 20; i += 1) {
+for (let i = 1; i <= 30; i += 1) {
   makeDoc(i)
 }

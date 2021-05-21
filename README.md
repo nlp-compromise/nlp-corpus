@@ -49,7 +49,7 @@ These texts were found just clicking around on the internet. Running them blindl
 npm install nlp-corpus
 ```
 
-running this library server-side loads a subset of the documents - abt 10mb total
+running this library server-side loads a subset of the documents - abt 3mb total
 
 ```javascript
 const corpus = require('nlp-corpus')
@@ -88,6 +88,7 @@ short, modern texts with some nice slang.
 - fleetwood mac
 - beatles
 - fresh prince
+- nltk lyric corpus by [JacobGo](https://github.com/JacobGo/nltk-lyric-corpus/blob/master/presentation.pdf)
 
 ### Fiction
 
@@ -118,3 +119,7 @@ sample of wikihow instructions from [this dataset](https://github.com/mahnazkoup
 ### News Headlines
 
 sample of the times of india headlines from [this dataset](https://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/DPQMQH/P2Z4PM)
+
+### Reviews
+
+subset of reviews from the [Yelp academic dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_review.json)
