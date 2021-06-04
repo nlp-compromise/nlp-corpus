@@ -130,4 +130,4 @@ subset of reviews from the [Yelp academic dataset](https://www.kaggle.com/yelp-d
 
 ### Legal Text
 
-subset of the SigmaLaw - Large Legal Text Corpus
+subset of the SigmaLaw - [Large Legal Text Corpus](https://osf.io/qvg8s/)
