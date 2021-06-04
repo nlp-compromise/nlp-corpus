@@ -2,22 +2,14 @@
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
   "name": "nlp-corpus",
   "description": "texts for integration testing of nlp components",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "main": "./src/node/index.js",
   "unpkg": "./src/browser/index.js",
   "browser": "./src/browser/index.js",
   "exports": {
-    ".": {
-      "require": "./src/node/index.js",
-      "browser": "./src/browser/index.js",
-      "default": "./src/node/index.js"
-    },
-    "all": {
-      "default": "./src/node/all.js"
-    },
-    "some": {
-      "default": "./src/node/some.js"
-    }
+    ".": "./src/node/index.js",
+    "./all": "./src/node/all.js",
+    "./some": "./src/node/some.js"
   },
   "repository": {
     "type": "git",
