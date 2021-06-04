@@ -3,7 +3,7 @@ const path = require('path')
 
 const all = function () {
   let files = []
-  for (let i = 1; i < 19; i += 1) {
+  for (let i = 1; i <= 50; i += 1) {
     files.push(path.join(__dirname, `../../builds/nlp-corpus-${i}.json`))
   }
   let res = []
@@ -12,4 +12,5 @@ const all = function () {
   })
   return res
 }
+
 module.exports = all

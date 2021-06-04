@@ -71,7 +71,13 @@ or on the client-side, there's a one-liner that fetches the docs:
 </script>
 ```
 
-# Documents:
+# Contents:
+
+the corpus is availble as [./builds](50 150kb files) where each file is 2,000 mixed sentences.
+
+This is a good size for picking-at from the client-side - but you can loop through them all in nodejs.
+
+in total, there are 100,000 sentences, at around **7.5mb**.
 
 ### Dialog
 
