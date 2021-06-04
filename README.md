@@ -96,6 +96,8 @@ some CC-BY fiction pieces by some selected authors. Mix of tense, dialogue, subj
 
 Erowid trip reports - some very casual and modern slang-filled drug-use reports from erowid.org ~nsfw.
 
+Children's stories from the [facebook children's stories corpus](https://venturebeat.com/2016/02/18/facebook-releases-1-6gb-data-set-of-childrens-stories-for-training-its-ai/)
+
 ### Speeches
 
 State of the union transcripts - American presidential speech transcripts from 2000-2015. ~600kb
@@ -123,3 +125,7 @@ sample of the times of india headlines from [this dataset](https://dataverse.har
 ### Reviews
 
 subset of reviews from the [Yelp academic dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_review.json)
+
+### Legal Text
+
+subset of the SigmaLaw - Large Legal Text Corpus
