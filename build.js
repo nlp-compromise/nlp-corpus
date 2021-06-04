@@ -11,27 +11,30 @@ const choose = arr => {
 
 let dirs = [
   './docs/comments',
+
   './docs/dialogue/friends',
   './docs/dialogue/sms',
+
   './docs/headlines',
+
   './docs/instructions',
-  './docs/legal/contracts',
-  './docs/legal/nafta',
-  './docs/legal/ontario',
+
+  './docs/legal/misc',
   './docs/legal/osf-corpus',
-  './docs/lyrics/beatles',
-  './docs/lyrics/fleetwood_mac',
-  './docs/lyrics/rap',
-  './docs/lyrics/weezer',
+
+  './docs/lyrics/misc',
+  './docs/lyrics/nltk_corpus',
+
   './docs/questions',
+
   './docs/reviews',
+
   './docs/speeches/misc',
   './docs/speeches/sotu',
+
   './docs/stories/child-fiction',
-  './docs/stories/erowid',
-  './docs/stories/hardy',
-  './docs/stories/poe',
-  './docs/stories/wilde',
+  './docs/stories/misc',
+
   './docs/wikipedia',
 ]
 
@@ -61,9 +64,9 @@ const makeDoc = function (n) {
       list.push(s)
     }
   }
-  fs.writeFileSync(`./builds/nlp-corpus-${n}.json`, JSON.stringify(list))
+  fs.writeFileSync(`./builds/nlp-corpus-${n}.json`, JSON.stringify(list, null, 2))
 }
 
-for (let i = 1; i <= 30; i += 1) {
+for (let i = 1; i <= 50; i += 1) {
   makeDoc(i)
 }
