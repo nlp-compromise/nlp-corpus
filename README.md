@@ -90,10 +90,6 @@ in total, there are 100,000 sentences, at around **7.5mb**.
 
 short, modern texts with some nice slang.
 
-- weezer
-- fleetwood mac
-- beatles
-- fresh prince
 - nltk lyric corpus by [JacobGo](https://github.com/JacobGo/nltk-lyric-corpus/blob/master/presentation.pdf)
 
 ### Fiction
@@ -134,4 +130,4 @@ subset of reviews from the [Yelp academic dataset](https://www.kaggle.com/yelp-d
 
 ### Legal Text
 
-subset of the SigmaLaw - Large Legal Text Corpus
+subset of the SigmaLaw - [Large Legal Text Corpus](https://osf.io/qvg8s/)
