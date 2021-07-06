@@ -131,3 +131,7 @@ subset of reviews from the [Yelp academic dataset](https://www.kaggle.com/yelp-d
 ### Legal Text
 
 subset of the SigmaLaw - [Large Legal Text Corpus](https://osf.io/qvg8s/)
+
+### Jokes & puns
+
+Super-corny dad-jokes (some offensive) from [CrowdTruth/Short-Text-Corpus-For-Humor-Detection](https://github.com/CrowdTruth/Short-Text-Corpus-For-Humor-Detection)

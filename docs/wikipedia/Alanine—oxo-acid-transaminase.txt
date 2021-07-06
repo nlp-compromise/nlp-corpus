@@ -1,9 +1,0 @@
-In enzymology, an alanine-oxo-acid transaminase is an enzyme that catalyzes the chemical reaction
-
-
- * L-alanine + a 2-oxo acid pyruvate + an L-amino acid
-
-Thus, the two substrates of this enzyme are L-alanine and 2-oxo acid, whereas its two products are pyruvate and L-amino acid.
-
-This enzyme belongs to the family of transferases, specifically the transaminases, which transfer nitrogenous groups. The systematic name of this enzyme class is L-alanine:2-oxo-acid aminotransferase. Other names in common use include L-alanine-alpha-keto acid aminotransferase, leucine-alanine transaminase, alanine-keto acid aminotransferase, and alanine-oxo acid aminotransferase. This enzyme participates in alanine and aspartate metabolism. It employs one cofactor, pyridoxal phosphate.
-

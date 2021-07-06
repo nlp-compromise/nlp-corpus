@@ -2,7 +2,7 @@ const sh = require('shelljs')
 const nlp = require('compromise')
 const fs = require('fs')
 const path = require('path')
-const max = 2000
+const max = 1000
 
 const choose = arr => {
   let r = Math.floor(Math.random() * arr.length)
@@ -12,12 +12,15 @@ const choose = arr => {
 let dirs = [
   './docs/comments',
 
-  './docs/dialogue/friends',
-  './docs/dialogue/sms',
+  './docs/friends',
+
+  './docs/chat',
 
   './docs/headlines',
 
   './docs/instructions',
+
+  './docs/jokes',
 
   './docs/legal/misc',
   './docs/legal/osf-corpus',
