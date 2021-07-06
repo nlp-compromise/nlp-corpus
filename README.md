@@ -26,6 +26,8 @@
 
 **nlp-corpus** is a proud series of weird texts from a delicious smattering of sources - aimed at getting cosmopolitan flavours of english - _highbrow, lowbrow and unibrow_ - dialects, typos, shakespeare, unicode, 19th century, aggressive emoji, and epic nsfw slurs into your training data.
 
+it is 50,000 sentences, or 5mb, split into 50 files of randomized sentences.
+
 it's role is mainly to kick the tires a bit, as creatively as possible, for fuzzy linguistic parsing.
 
 - suggestive American rock lyrics

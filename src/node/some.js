@@ -3,7 +3,7 @@ const path = require('path')
 
 let files = []
 for (let i = 1; i <= 50; i += 1) {
-  files.push(path.join(__dirname, `../../builds/nlp-corpus-${i}.json`))
+  files.push(path.join(__dirname, `../../builds/doc-${i}.json`))
 }
 
 const choose = arr => {
