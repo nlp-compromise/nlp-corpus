@@ -3,13 +3,12 @@
   "name": "nlp-corpus",
   "description": "texts for integration testing of nlp components",
   "version": "4.2.0",
-  "main": "./src/node/index.js",
+  "main": "./src/server/index.js",
   "unpkg": "./src/browser/index.js",
   "browser": "./src/browser/index.js",
+  "type": "module",
   "exports": {
-    ".": "./src/node/index.js",
-    "./all": "./src/node/all.js",
-    "./some": "./src/node/some.js"
+    ".": "./src/server/index.js"
   },
   "repository": {
     "type": "git",
@@ -24,8 +23,8 @@
     "src/"
   ],
   "devDependencies": {
-    "compromise": "^13.11.2",
-    "shelljs": "^0.8.1"
+    "compromise": "14.0.0",
+    "shelljs": "0.8.5"
   },
   "license": "MIT"
 }
