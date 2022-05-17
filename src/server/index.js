@@ -2,23 +2,46 @@ import fs from 'fs'
 import path from 'path'
 
 const dir = new URL('./', import.meta.url).pathname
+const total = 99
 
-const corpus = function (start, end) {
-  start = start || 0
-  end = end || 50000
-  let files = []
-  for (let i = 1; i <= 50; i += 1) {
-    files.push(path.join(dir, `../../builds/doc-${i}.json`))
-  }
-  let res = []
-  for (let i = 0; i < files.length; i += 1) {
-    let file = files[i]
-    res = res.concat(JSON.parse(fs.readFileSync(file).toString()))
-    if (res.length > end) {
-      return res.slice(start, end)
-    }
-  }
-  return res.slice(start, end)
+const getDoc = function (i) {
+  let file = path.join(dir, `../../builds/doc-${i}.json`)
+  return JSON.parse(fs.readFileSync(file).toString())
 }
 
-export default corpus
+const all = function () {
+  let res = []
+  for (let i = 0; i <= total; i += 1) {
+    let json = getDoc(i)
+    json.forEach(o => res.push(o))
+  }
+  return res
+}
+
+const some = function (max = 10) {
+  let res = []
+  for (let i = 0; i <= total; i += 1) {
+    let json = getDoc(i)
+    for (let x = 0; x < json.length; x += 1) {
+      res.push(json[x])
+      if (res.length >= max) {
+        return res
+      }
+    }
+  }
+  return res
+}
+
+const random = function (count = 1) {
+  let n = Math.floor(Math.random() * total)
+  let json = getDoc(n)
+  let res = []
+  for (let i = 0; i < count; i += 1) {
+    let r = Math.floor(Math.random() * json.length)
+    res.push(json[r])
+  }
+  return res
+}
+
+export default { all, some, random }
+export { all, some, random }

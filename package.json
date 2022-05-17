@@ -2,7 +2,7 @@
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
   "name": "nlp-corpus",
   "description": "texts for integration testing of nlp components",
-  "version": "4.2.0",
+  "version": "4.3.0",
   "main": "./src/server/index.js",
   "unpkg": "./src/browser/index.js",
   "browser": "./src/browser/index.js",
@@ -22,9 +22,6 @@
     "builds/",
     "src/"
   ],
-  "devDependencies": {
-    "compromise": "14.0.0",
-    "shelljs": "0.8.5"
-  },
+  "devDependencies": {},
   "license": "MIT"
 }
