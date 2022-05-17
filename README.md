@@ -75,11 +75,11 @@ or on the client-side, there's a one-liner that fetches the docs:
 
 # Contents:
 
-the corpus is availble as [./builds](50 150kb files) where each file is 2,000 mixed sentences.
+the corpus is availble as [./builds](100 150kb files) where each file is 1,000 mixed sentences.
 
 This is a good size for picking-at from the client-side - but you can loop through them all in nodejs.
 
-in total, there are 100,000 sentences, at around **7.5mb**.
+in total, there are 100,000 sentences, at around **12mb**.
 
 ### Dialog
 
@@ -130,10 +130,18 @@ sample of the times of india headlines from [this dataset](https://dataverse.har
 
 subset of reviews from the [Yelp academic dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_review.json)
 
+subset of imdb reviews from the Stanford [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+
 ### Legal Text
 
 subset of the SigmaLaw - [Large Legal Text Corpus](https://osf.io/qvg8s/)
 
+subset of the [United Nations Multilingual corpus](http://www.euromatrixplus.net/multi-un/) (english subset)
+
 ### Jokes & puns
 
 Super-corny dad-jokes (some offensive) from [CrowdTruth/Short-Text-Corpus-For-Humor-Detection](https://github.com/CrowdTruth/Short-Text-Corpus-For-Humor-Detection)
+
+### Literature
+
+subsets of *Infinite Jest* and *Edgar Allen Poe* short stories

@@ -5,6 +5,10 @@
   "ecmaFeatures": {
     "modules": true
   },
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
+  },
   "rules": {
     "no-cond-assign": 2,
     "no-var": 1,
