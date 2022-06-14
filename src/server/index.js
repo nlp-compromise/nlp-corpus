@@ -13,6 +13,7 @@ const all = function () {
   let res = []
   for (let i = 0; i <= total; i += 1) {
     let json = getDoc(i)
+    console.log(i, json.length)
     json.forEach(o => res.push(o))
   }
   return res

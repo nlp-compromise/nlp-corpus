@@ -145,3 +145,7 @@ Super-corny dad-jokes (some offensive) from [CrowdTruth/Short-Text-Corpus-For-Hu
 ### Literature
 
 subsets of *Infinite Jest* and *Edgar Allen Poe* short stories
+
+### Email text
+
+subsets of the [ENRON email dataset](https://www.cs.cmu.edu/~./enron/)
