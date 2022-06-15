@@ -2,11 +2,11 @@ import fs from 'fs'
 import path from 'path'
 
 let files = [
+  '/Users/spencer/mountain/corpus/more/res/wikihow.txt',
   '/Users/spencer/mountain/corpus/more/res/country.txt',
-  '/Users/spencer/mountain/corpus/more/res/enron.txt',
   '/Users/spencer/mountain/corpus/more/res/jeopardy.txt',
   '/Users/spencer/mountain/corpus/more/res/pop.txt',
-  '/Users/spencer/mountain/corpus/more/res/wikihow.txt',
+  '/Users/spencer/mountain/corpus/more/res/enron.txt',
 ]
 let allDocs = files.map(file => {
   return fs.readFileSync(file).toString().split('\n')
