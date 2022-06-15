@@ -20,7 +20,6 @@ for (let i = total - 1; i >= 0; i -= 1) {
   json = json.filter(str => {
     let h = hash(str)
     if (already[h]) {
-      console.log(str)
       return false
     }
     already[h] = true
@@ -28,6 +27,8 @@ for (let i = total - 1; i >= 0; i -= 1) {
   })
   newSum += json.length
   console.log('  -> ' + json.length)
+  let file = path.join(dir, `./builds/doc-${i}.json`)
+  // fs.writeFileSync(file, JSON.stringify(json, null, 2))
 }
 console.log('\n\n-----')
 console.log(sum)
