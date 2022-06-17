@@ -3,7 +3,7 @@ import path from 'path'
 import hash from '/Users/spencer/mountain/compromise/src/1-one/output/api/lib/hash.js'
 
 const dir = new URL('./', import.meta.url).pathname
-const total = 99
+const total = 100
 
 const getDoc = function (i) {
   let file = path.join(dir, `../builds/doc-${i}.json`)

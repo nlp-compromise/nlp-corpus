@@ -2,18 +2,19 @@ import fs from 'fs'
 import path from 'path'
 
 let files = [
-  '/Users/spencer/mountain/corpus/more/res/wikihow.txt',
-  '/Users/spencer/mountain/corpus/more/res/country.txt',
-  '/Users/spencer/mountain/corpus/more/res/jeopardy.txt',
-  '/Users/spencer/mountain/corpus/more/res/pop.txt',
-  '/Users/spencer/mountain/corpus/more/res/enron.txt',
+  '/Users/spencer/Desktop/texts/medium-texts/Reagan_1988.txt'
+  // '/Users/spencer/mountain/corpus/more/res/wikihow.txt',
+  // '/Users/spencer/mountain/corpus/more/res/country.txt',
+  // '/Users/spencer/mountain/corpus/more/res/jeopardy.txt',
+  // '/Users/spencer/mountain/corpus/more/res/pop.txt',
+  // '/Users/spencer/mountain/corpus/more/res/enron.txt',
 ]
 let allDocs = files.map(file => {
   return fs.readFileSync(file).toString().split('\n')
 })
 
 const dir = new URL('./', import.meta.url).pathname
-const total = 99
+const total = 100
 
 const getDoc = function (i) {
   let file = path.join(dir, `./builds/doc-${i}.json`)

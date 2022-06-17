@@ -22,6 +22,9 @@
     "builds/",
     "src/"
   ],
-  "devDependencies": {},
+  "devDependencies": {
+    "tap-dancer": "^0.3.4",
+    "tape": "^5.5.3"
+  },
   "license": "MIT"
 }
