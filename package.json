@@ -16,7 +16,8 @@
   },
   "scripts": {
     "build": "node ./build.js",
-    "watch": "node ./scratch.js"
+    "watch": "node ./scratch.js",
+    "test": "tape \"./tests/**/*.test.js\" | tap-dancer"
   },
   "files": [
     "builds/",
