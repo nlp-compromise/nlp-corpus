@@ -13,11 +13,20 @@ const getDoc = function (i) {
 let already = {}
 let sum = 0
 let newSum = 0
+let reg = /[a-z]\.[a-z]/
 for (let i = total - 1; i >= 0; i -= 1) {
   let json = getDoc(i)
   console.log('\n#' + i + '  - ' + json.length)
   sum += json.length
-  json = json.filter(str => str.length < 550)
+  json = json.filter(str => {
+    let m = str.match(/\.\.\.+/g)
+    if (m && m.length > 3) {
+      // if (reg.test(str) === true && str.length > 200) {
+      console.log(str)
+      return false
+    }
+    return true
+  })
   newSum += json.length
   console.log('  -> ' + json.length)
   let file = path.join(dir, `../builds/doc-${i}.json`)
