@@ -28,7 +28,7 @@ test('length-test', function (t) {
   all.forEach(str => {
     if (str.length < 5) {
       t.fail('min-length - \'' + str + '\'')
-    } else if (str.length > 600) {
+    } else if (str.length > 800) {
       t.fail('max-length - \'' + str + '\'')
     } else {
       t.pass(true,)
