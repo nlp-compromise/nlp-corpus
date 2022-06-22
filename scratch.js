@@ -2,7 +2,8 @@ import fs from 'fs'
 import path from 'path'
 
 let files = [
-  '/Users/spencer/Desktop/texts/medium-texts/Reagan_1988.txt'
+  '/Users/spencer/data/lyrics/pop.txt'
+  // '/Users/spencer/Desktop/texts/medium-texts/Reagan_1988.txt'
   // '/Users/spencer/mountain/corpus/more/res/wikihow.txt',
   // '/Users/spencer/mountain/corpus/more/res/country.txt',
   // '/Users/spencer/mountain/corpus/more/res/jeopardy.txt',
