@@ -6,7 +6,7 @@ corpus.all().forEach(txt => {
   if (doc.length > 1) {
     console.log(txt)
   }
-  // if (doc.confidence() < 0.6) {
-  //   console.log(txt)
-  // }
+  if (doc.confidence() < 0.6) {
+    console.log(txt)
+  }
 })
