@@ -1,12 +1,12 @@
-const sh = require('shelljs')
-const fs = require('fs')
-const path = require('path')
+import { ls } from 'shelljs'
+import { writeFileSync } from 'fs'
+import { join } from 'path'
 
 let files = []
 let dir = '/Users/spencer/mountain/corpus/docs'
-sh.ls(dir).forEach(file => files.push(file))
+ls(dir).forEach(file => files.push(file))
 files = files.map(file => {
-  file = path.join(dir, file)
+  file = join(dir, file)
   console.log(file)
   let lines = require(file)
   console.log(lines.length)
@@ -27,5 +27,5 @@ const makeFile = () => {
 for (let i = 1; i <= 50; i += 1) {
   let mix = makeFile()
   console.log(mix.length)
-  fs.writeFileSync(`./builds/doc-${i}.json`, JSON.stringify(mix, null, 2))
+  writeFileSync(`./builds/doc-${i}.json`, JSON.stringify(mix, null, 2))
 }

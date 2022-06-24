@@ -2,7 +2,7 @@
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
   "name": "nlp-corpus",
   "description": "texts for integration testing of nlp components",
-  "version": "4.3.0",
+  "version": "4.4.0",
   "main": "./src/server/index.js",
   "unpkg": "./src/browser/index.js",
   "browser": "./src/browser/index.js",
@@ -16,12 +16,17 @@
   },
   "scripts": {
     "build": "node ./build.js",
-    "watch": "node ./scratch.js"
+    "watch": "node ./scratch.js",
+    "test": "tape \"./tests/**/*.test.js\" | tap-dancer"
   },
   "files": [
     "builds/",
     "src/"
   ],
-  "devDependencies": {},
+  "devDependencies": {
+    "compromise": "^14.3.1",
+    "tap-dancer": "^0.3.4",
+    "tape": "^5.5.3"
+  },
   "license": "MIT"
 }

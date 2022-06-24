@@ -3,7 +3,7 @@
 <div align="center">
   <div><b>nlp-corpus</b></div>
   <img src="https://user-images.githubusercontent.com/399657/68222691-6597f180-ffb9-11e9-8a32-a7f38aa8bded.png"/>
-  <div>lots of weird english text</div>
+  <div>lots of weird english sentences</div>
   <div><code>npm install nlp-corpus</code></div>
   <div align="center">
     <sub>
@@ -19,6 +19,9 @@
       <img src="https://img.shields.io/npm/v/nlp-corpus.svg?style=flat-square" />
     </a>
   </div>
+  <i >
+  see <a href="https://github.com/nlp-compromise/fr-corpus">french</a>, <a href="https://github.com/nlp-compromise/de-corpus">german</a>, and <a href="https://github.com/nlp-compromise/es-corpus">spanish</a> translations
+  </i>
 </div>
 
 <!-- spacer -->
@@ -54,11 +57,18 @@ npm install nlp-corpus
 running this library server-side loads a subset of the documents - abt 3mb total
 
 ```javascript
-const corpus = require('nlp-corpus')
+import corpus from 'nlp-corpus'
+
+// all 10k sentences, in an array
+let arr = corpus.all()
+
+// or load just a few:
+arr = corpus.some(400)
+
 //random sentence
-let str = corpus()
+let str = corpus.random()
 //random 5 sentences
-let arr = corpus(5) //n can only be <= 1,500
+let arr = corpus.some(5) //n can only be <= 1,500
 ```
 
 or on the client-side, there's a one-liner that fetches the docs:
@@ -67,7 +77,7 @@ or on the client-side, there's a one-liner that fetches the docs:
 <script src="http://unpkg.com/nlp-corpus"></script>
 <script>
   // load a documents lazily
-  await nlpCorpus.fetchDoc(2) //1 - 20
+  await nlpCorpus.fetch(2) //1 - 20
   // (each doc is abt 150kb)
   let arr = nlpCorpus.random(4) //1 - 1,500
 </script>
@@ -145,3 +155,9 @@ Super-corny dad-jokes (some offensive) from [CrowdTruth/Short-Text-Corpus-For-Hu
 ### Literature
 
 subsets of *Infinite Jest* and *Edgar Allen Poe* short stories
+
+### Email text
+
+subsets of the [ENRON email dataset](https://www.cs.cmu.edu/~./enron/)
+
+
